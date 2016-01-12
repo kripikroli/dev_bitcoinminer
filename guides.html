@@ -1,0 +1,16 @@
+---
+layout: page
+title: Guides
+permalink: /guide/
+---
+
+<p>Help the community by writing guides about how to do certain things. It might seem easy to you, but someone else may have trouble setting things up. It's up to you to help them out.</p>
+
+<h3>Most recent guides:</h3>
+<ul>
+{% for guide in site.guides %}
+	<li><a href="{{ guide.url }}">{{ guide.title }}</a> by {{ guide.author }}</li>
+{% else %}
+	<p>There are no guides yet. Come on, help us write one! Maybe about <i>getting started</i>?</p>
+{% endfor %}
+</ul>

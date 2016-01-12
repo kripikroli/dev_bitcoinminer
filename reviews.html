@@ -1,0 +1,16 @@
+---
+layout: page
+title: Reviews
+permalink: /review/
+---
+
+<p>Recommend us your favorite miner.</p>
+
+<h3>Most recent reviews:</h3>
+<ul>
+{% for review in site.reviews %}
+	<li><a href="{{ review.url }}">{{ review.title }}</a> by {{ review.author }}</li>
+{% else %}
+	<p>There are no reviews yet. Come on, help us write one! Maybe about the <i>AntMiner S7</i>?</p>
+{% endfor %}
+</ul>
