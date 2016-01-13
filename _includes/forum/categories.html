@@ -1,0 +1,25 @@
+{% for group in site.pages %}
+	{% if group.category-group == true %}
+			<h3 class="panel-title">{{ group.title }}</h3>
+			<p>
+				{{ group.summary }}
+			</p>
+			<ul class="media-list">
+				{% for category in site.pages %}
+					{% if category.category == true && category.group-id == group.id %}
+						<li class="media">
+							{% if category.icon == true %}
+								<a class="pull-left" href="#">
+									<img src="{{ category.icon }}" alt="{{ category.title }}">
+								</a>
+							{% endif %}
+							<h4><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></h4>
+							<p>
+								<small>{{ category.summary }}</small>
+							</p>
+						</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+	{% endif %}
+{% endfor %}

@@ -1,0 +1,34 @@
+---
+
+layout: default
+scripts: [/js/category.js]
+
+---
+
+{{ content }}
+<a href="{{site.baseurl}}/forum">Home</a> - {{ page.title }}
+<br>
+<a data-toggle="collapse" href="#new-thread-container">
+	Create New Thread
+</a>
+<div id="new-thread-container">
+	<form id="new-thread"role="form" action="{{ site.baseurl }}/thread.html">
+		<div>
+			<input type="text" class="form-control" id="thread-ui" placeholder="Enter thread subject" />
+			<div class="help-block hidden">Please enter a valid thread title</div>
+		</div>
+		<input type="hidden" name="category" value="{{ page.id }}" />
+		<input type="hidden" name="thread" class="thread" value="" />
+		<div class="form-group">
+			<button type="submit" class="btn btn-default">Create Thread</button>
+			<div class="help-block hidden">&nbsp;</div>
+		</div>
+	</form>
+</div>
+<h2>Threads</h2>
+<ul id="threads" class="media-list" data-id="{{ page.id }}">
+</ul>
+<ul class="pager">
+	<li class="previous disabled"><a href="#">&larr; Previous</a></li>
+	<li class="next disabled"><a href="#">Next &rarr;</a></li>
+</ul>

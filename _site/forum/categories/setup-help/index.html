@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Bitcoin Mine  - Guides</title>
+		<title>Bitcoin Mine  - Setup Help</title>
 
 		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700|Lato:400,900' rel='stylesheet' type='text/css'>
 		<link href='/css/style.css' rel='stylesheet' type='text/css'>
@@ -27,14 +27,35 @@
 		</header>
 
 		<section>
-			<h2>Guides</h2>
-<p>Help the community by writing guides about how to do certain things. It might seem easy to you, but someone else may have trouble setting things up. It's up to you to help them out.</p>
+			<h1>Setup Help</h1>
 
-<h3>Most recent guides:</h3>
-<ul>
+<p>Get help setting up the Jekyll Disqus Forum</p>
 
-	<p>There are no guides yet. Come on, help us write one! Maybe about <i>getting started</i>?</p>
-
+<a href="/forum">Home</a> - Setup Help
+<br>
+<a data-toggle="collapse" href="#new-thread-container">
+	Create New Thread
+</a>
+<div id="new-thread-container">
+	<form id="new-thread"role="form" action="/thread.html">
+		<div>
+			<input type="text" class="form-control" id="thread-ui" placeholder="Enter thread subject" />
+			<div class="help-block hidden">Please enter a valid thread title</div>
+		</div>
+		<input type="hidden" name="category" value="2736938" />
+		<input type="hidden" name="thread" class="thread" value="" />
+		<div class="form-group">
+			<button type="submit" class="btn btn-default">Create Thread</button>
+			<div class="help-block hidden">&nbsp;</div>
+		</div>
+	</form>
+</div>
+<h2>Threads</h2>
+<ul id="threads" class="media-list" data-id="2736938">
+</ul>
+<ul class="pager">
+	<li class="previous disabled"><a href="#">&larr; Previous</a></li>
+	<li class="next disabled"><a href="#">Next &rarr;</a></li>
 </ul>
 		</section>
 
@@ -52,6 +73,6 @@
 		  ga('send', 'pageview');
 		</script>
 		<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-		 
+		<script src="/js/category.js"></script> 
 	</body>
 </html>

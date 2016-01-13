@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Bitcoin Mine  - Guides</title>
+		<title>Bitcoin Mine </title>
 
 		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700|Lato:400,900' rel='stylesheet' type='text/css'>
 		<link href='/css/style.css' rel='stylesheet' type='text/css'>
@@ -27,15 +27,50 @@
 		</header>
 
 		<section>
-			<h2>Guides</h2>
-<p>Help the community by writing guides about how to do certain things. It might seem easy to you, but someone else may have trouble setting things up. It's up to you to help them out.</p>
+			{
 
-<h3>Most recent guides:</h3>
-<ul>
+	
 
-	<p>There are no guides yet. Come on, help us write one! Maybe about <i>getting started</i>?</p>
+	
 
-</ul>
+	
+
+	
+		"2736939" : {
+			"id": 2736939,
+			"title": "General Help",
+			"url": "https://www.bitcoinmine.com/forum/categories/general-help/",
+			"icon": ""
+		},
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		"2736938" : {
+			"id": 2736938,
+			"title": "Setup Help",
+			"url": "https://www.bitcoinmine.com/forum/categories/setup-help/",
+			"icon": ""
+		},
+	
+
+	
+
+	
+
+	"nothing": {}
+}
 		</section>
 
 		<footer>

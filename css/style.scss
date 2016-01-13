@@ -2,7 +2,10 @@
 ---
 
 // Colors
-$primary-color: #7BF;
+$color-primary: #7BF;
+$color-black: #111;
+$color-white: #FFF;
+$color-grey: #303030;
 
 // Fonts
 $font-sans: 'Lato', sans-serif;
@@ -14,13 +17,26 @@ $animation-instant: 0.2s;
 @import "bourbon/bourbon";
 @import "neat/neat";
 
+html {
+	height: 100%;
+}
+
 body {
+	position: relative;
+	min-height: 100%;
+	margin: 0;
+	padding: 0;
 	font-family: $font-serif;
 	font-size: 130%;
-	@include outer-container(80%);
-	padding-top: 175px;
-	background-color: #FFF;
-	color: #303030;
+	padding-top: 200px;
+	padding-bottom: 150px;
+	background-color: $color-white;
+	color: $color-grey;
+
+	& > header, section, footer {
+		padding-left: 10%;
+		padding-right: 10%;
+	}
 }
 
 h1, h2, h3, h4 {
@@ -42,7 +58,7 @@ a {
 	transition: color $animation-instant;
 
 	&:hover {
-		color: $primary-color;
+		color: $color-primary;
 	}
 }
 
@@ -62,12 +78,8 @@ header {
 	}
 
 	h1 {
-		color: #FFF;
+		color: $color-white;
 		transition: color $animation-instant linear;
-
-		&:hover {
-			color: $primary-color;
-		}
 	}
 
 	nav {
@@ -80,6 +92,24 @@ header {
 			&:last-child {
 				margin-right: 0;
 			}
+		}
+	}
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	padding: 0 10%;
+	text-align: center;
+	background-color: $color-black;
+
+	a {
+		text-decoration: none;
+
+		&:hover {
+			color: inherit;
 		}
 	}
 }
