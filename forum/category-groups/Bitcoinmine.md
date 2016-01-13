@@ -6,6 +6,6 @@ summary: Discuss mines.
 id: bitcoinmine
 ---
 
-# Bitcoin Mine
+### Bitcoin Mine
 
 Discuss mines.

@@ -7,6 +7,6 @@ id: 4360741
 group-id: general
 ---
 
-# General
+### General
 
 Talk about anything and everything Bitcoin mining related.
