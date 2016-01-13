@@ -62,6 +62,7 @@ collections:
     output: true
   reviews:
     permalink: /review/:path/
+    output: true
 
 defaults:
   -
