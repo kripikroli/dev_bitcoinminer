@@ -1,4 +1,5 @@
 ---
+layout: none
 ---
 
 var qs = (function(a) {
@@ -20,7 +21,7 @@ var disqus_shortname = '{{ site.disqus_shortname }}';
 var disqus_identifier = threadName;
 var disqus_title = threadName;
 var disqus_category_id = categoryId;
-var disqus_url = '{{ site.url }}/thread.html?thread=' + encodeURIComponent(qs['thread']) + '&category=' + categoryId;
+var disqus_url = '{{ site.url }}/{{ site.forum_baseurl }}thread.html?thread=' + encodeURIComponent(qs['thread']) + '&category=' + categoryId;
 
 // Update the page based on the thread
 document.title = threadName + ' | ' + document.title;
@@ -36,7 +37,7 @@ $('.thread-title').html(threadName);
 //Get the category data
 $.ajax({
 	type: 'GET',
-	url: "{{ site.baseurl }}/categories.json",
+	url: "{{ site.baseurl }}/{{ site.forum_baseurl }}categories.json",
 	cache: false,
 	dataType: "json",
 	success: function (categories) {

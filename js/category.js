@@ -20,7 +20,7 @@ var loadThreads = function(cursor){
 		dataType: "jsonp",
 		success: function (result) {
 			var authors = [];
-			$.Mustache.load('{{ site.baseurl }}/templates/thread.html').done(function() {
+			$.Mustache.load('{{ site.baseurl }}/{{ site.forum_baseurl }}templates/thread.html').done(function() {
 				$('#thread-loader').hide();
 		    	$.each(result.response,function(idx, thread){
 		    		thread.startDate = new Date(thread.createdAt).toLocaleString();
