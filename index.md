@@ -1,4 +1,5 @@
 ---
+description: Bitcoin Mine is a community for both advanced and aspiring miners.
 ---
 
 Bitcoin Mine is a community for both advanced and aspiring miners. Here you can learn all about miners, show off your Bitcoin mines or read up on tips and improve yours. This site is maintained by an open community and editable by anyone.
