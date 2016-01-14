@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>{{ site.name }} {% if page.title %} - {{ page.title }}{% endif %}</title>
+		<title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
 
 		<link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700|Lato:400,900' rel='stylesheet' type='text/css'>
 		<link href='/css/style.css' rel='stylesheet' type='text/css'>
