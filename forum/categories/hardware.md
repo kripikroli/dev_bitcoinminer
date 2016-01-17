@@ -1,8 +1,8 @@
 ---
 layout: forum/category
-title: General
+title: Hardware
 category: true
-summary: Talk about Bitcoin Mine.
-id: 4360741
+summary: Talk about mining hardware
+id: 4372392
 group-id: bitcoinmine
 ---

@@ -8,4 +8,4 @@ id: bitcoinmine
 
 ### Bitcoin Mine
 
-Discuss mines.
+This is our forum. Here you can get help, help out or discuss.

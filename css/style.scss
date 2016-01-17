@@ -1,21 +1,13 @@
 ---
 ---
 
-// Colors
-$color-primary: #7BF;
-$color-black: #111;
-$color-white: #FFF;
-$color-grey: #303030;
-
-// Fonts
-$font-sans: 'Lato', sans-serif;
-$font-serif: 'Merriweather', serif;
-
-// Animation speeds
-$animation-instant: 0.2s;
-
+@import 'variables';
 @import "bourbon/bourbon";
 @import "neat/neat";
+
+*, *:after, *:before {
+	box-sizing: border-box;
+}
 
 html {
 	height: 100%;
@@ -79,7 +71,7 @@ header {
 
 	h1 {
 		color: $color-white;
-		transition: color $animation-instant linear;
+		transition: font-size $animation-fast, margin $animation-fast;
 	}
 
 	nav {
@@ -92,6 +84,20 @@ header {
 			&:last-child {
 				margin-right: 0;
 			}
+		}
+	}
+
+	&.scrolled {
+		opacity: 0.98;
+		transition: opacity $animation-slow;
+
+		h1 {
+			font-size: 130%;
+			margin: 2px;
+		}
+
+		&:hover {
+			opacity: 1;
 		}
 	}
 }
@@ -130,3 +136,5 @@ footer {
 		opacity: 0.5;
 	}
 }
+
+@import 'forum';

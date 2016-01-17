@@ -1,13 +1,15 @@
+<ul class="category-group-list">
 {% for group in site.pages %}
 	{% if group.category-group == true %}
+		<li class="category-group">
 			<h3>{{ group.title }}</h3>
 			<p>
 				{{ group.summary }}
 			</p>
-			<ul class="media-list">
+			<ul class="category-list">
 				{% for category in site.pages %}
 					{% if category.category == true && category.group-id == group.id %}
-						<li class="media">
+						<li class="category">
 							{% if category.icon == true %}
 								<a class="pull-left" href="#">
 									<img src="{{ category.icon }}" alt="{{ category.title }}">
@@ -21,5 +23,7 @@
 					{% endif %}
 				{% endfor %}
 			</ul>
+		</li>
 	{% endif %}
 {% endfor %}
+</ul>

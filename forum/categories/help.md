@@ -1,8 +1,8 @@
 ---
 layout: forum/category
-title: General
+title: Help
 category: true
-summary: Talk about Bitcoin Mine.
-id: 4360741
+summary: Get started or get help.
+id: 4372384
 group-id: bitcoinmine
 ---

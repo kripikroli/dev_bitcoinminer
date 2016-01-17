@@ -1,8 +1,8 @@
 ---
 layout: forum/category
-title: General
+title: Pools
 category: true
-summary: Talk about Bitcoin Mine.
-id: 4360741
+summary: Talk about mining pools
+id: 4372388
 group-id: bitcoinmine
 ---

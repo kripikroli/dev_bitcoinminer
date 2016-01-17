@@ -3,9 +3,16 @@ layout: forum/default
 scripts: [/js/jquery-mustache.js, /js/mustache.js, /js/category.js]
 ---
 
-{{ content }}
-<a href="{{site.baseurl}}/forum">Home</a> - {{ page.title }}
-<br>
+<a href="{{site.baseurl}}/forum">Forum</a>
+- {% for group in site.pages %}
+	{% if group.category-group == true AND group.id == category.groupid %}
+		{{ group.title }}
+	{% endif %}
+  {% endfor %}
+- {{ page.title }}</br>
+
+<p>{{ category.summary }}</p>
+
 <!--<a data-toggle="collapse" href="#new-thread-container">
 	Create New Thread
 </a>
@@ -24,7 +31,7 @@ scripts: [/js/jquery-mustache.js, /js/mustache.js, /js/category.js]
 	</form>
 </div>-->
 <h3>Threads</h3>
-<ul id="threads" class="media-list" data-id="{{ page.id }}">
+<ul id="threads" class="threads" data-id="{{ page.id }}">
 </ul>
 <ul class="pager">
 	<li class="previous disabled"><a href="#">&larr; Previous</a></li>

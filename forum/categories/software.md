@@ -1,8 +1,8 @@
 ---
 layout: forum/category
-title: General
+title: Software
 category: true
-summary: Talk about Bitcoin Mine.
-id: 4360741
+summary: Talk about mining software
+id: 4372394
 group-id: bitcoinmine
 ---
