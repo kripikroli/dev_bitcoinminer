@@ -3,10 +3,24 @@ form {
   font-family: $font-sans;
 
   input {
+    -webkit-appearance: none;
     display: block;
-    margin: 0;
-    padding: 3px;
+    margin-bottom: 10px;
+    padding: 5px;
     width: 100%;
     font: inherit;
+    border: 0;
+    border-bottom: 2px solid rgba($color-black, 0.5);
+    background-color: transparent;
+    color: inherit;
+
+    &:focus {
+      outline: 0;
+    }
+
+    &[type='submit']{
+      background-color: rgba($color-black, 0.5);
+      color: $color-white;
+    }
   }
 }
