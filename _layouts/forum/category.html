@@ -18,7 +18,7 @@ scripts: [/js/jquery-mustache.js, /js/mustache.js, /js/category.js]
 		Create New Thread
 	</a>
 
-	<form id="new-thread" role="form" action="{{ site.baseurl }}/{{ site.forum_baseurl }}thread/">
+	<form id="new-thread" role="form" action="{{ site.baseurl }}/{{ site.forum_baseurl }}thread.html">
 		<input type="text" id="thread-ui" placeholder="Enter thread subject" />
 		<input type="hidden" name="category" value="{{ page.id }}" />
 		<input type="hidden" name="thread" class="thread" value="" />
