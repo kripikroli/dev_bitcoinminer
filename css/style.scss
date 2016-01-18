@@ -29,6 +29,11 @@ body {
 		padding-left: 10%;
 		padding-right: 10%;
 	}
+
+	@media (max-width: 480px){
+		padding-top: 120px;
+		padding-bottom: 120px;
+	}
 }
 
 h1, h2, h3, h4 {
@@ -72,6 +77,10 @@ header {
 	h1 {
 		color: $color-white;
 		transition: font-size $animation-fast, margin $animation-fast;
+
+		@media (max-width: 480px){
+			font-size: 130%;
+		}
 	}
 
 	nav {
