@@ -1,4 +1,5 @@
 .forum {
+	position: relative;
 	background-color: rgba($color-grey, 0.1);
 	border-radius: 15px;
 	margin: -15px -30px;
@@ -53,7 +54,7 @@
 			}
 		}
 	}
-	
+
 	.pager {
 		padding: 0;
 		margin: 15px;
@@ -61,6 +62,30 @@
 
 		li {
 			display: inline-block;
+		}
+	}
+}
+
+#new-thread-container {
+	position: absolute;
+	border-radius: inherit;
+	z-index: 10;
+	right: 15px;
+	padding: inherit;
+	text-align: right;
+
+	#new-thread {
+		font-size: 90%;
+		opacity: 0;
+		height: 0;
+	}
+
+	&:hover {
+		background-color: #DDD;
+
+		#new-thread {
+			opacity: 1;
+			height: auto;
 		}
 	}
 }

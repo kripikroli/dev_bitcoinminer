@@ -1,0 +1,12 @@
+form {
+  margin-top: 15px;
+  font-family: $font-sans;
+
+  input {
+    display: block;
+    margin: 0;
+    padding: 3px;
+    width: 100%;
+    font: inherit;
+  }
+}
