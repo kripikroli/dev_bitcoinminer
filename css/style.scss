@@ -97,6 +97,7 @@ header {
 	}
 
 	&.scrolled {
+		z-index: 10;
 		opacity: 0.98;
 		transition: opacity $animation-slow;
 
