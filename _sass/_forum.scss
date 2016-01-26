@@ -43,6 +43,10 @@
 				top: 10px;
 				right: 0;
 				opacity: 0.8;
+
+				@media (max-width: 800px){
+					display: none;
+				}
 			}
 
 			.author {
@@ -80,7 +84,7 @@
 		height: 0;
 	}
 
-	&:hover {
+	&:hover, &:focus {
 		background-color: #DDD;
 
 		#new-thread {
