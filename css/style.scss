@@ -90,6 +90,7 @@ header {
 		a {
 			text-decoration: none;
 			margin-right: 15px;
+			color: darken($color-white, 50%);
 
 			&:last-child {
 				margin-right: 0;
