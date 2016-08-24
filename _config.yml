@@ -31,8 +31,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rogue
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
