@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: USB Bitcoin Miner
 description: USB Bitcoin Miner Page
 ---
