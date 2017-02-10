@@ -1,6 +1,6 @@
-# Bitcoin Mine
+# Bitcoin Miner
 
-Bitcoin Mine is a community for both advanced and aspiring miners.
+Bitcoin Miner is a community for both advanced and aspiring miners.
 
 ## How to contribute
 
