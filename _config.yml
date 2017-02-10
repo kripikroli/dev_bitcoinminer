@@ -1,4 +1,4 @@
 name: Bitcoin Miner
 description: I mine for Bitcoin. I show what I run under the hood while Bitcoin mining and what others who mine Bitcoin are up to.
 paginate: 10
-baseurl: '/'
+baseurl: '/bitcoinminer'
