@@ -3,3 +3,17 @@ description: I mine for Bitcoin. I show what I run under the hood while Bitcoin 
 paginate: 10
 baseurl: ''
 permalink: /:categories/:title/
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-20319643-1
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://sunnankar.github.io/bitcoinminer/
