@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Bitcoin mining and how you can be a Bitcoin miner
+description: What is Bitcoin mining? Bitcoin mining is how Bitcoin transactions are validated and confirmed by the Bitcoin network.
 date: '2015-12-09T11:28:45+08:00'
 tags:
 - bitcoin mining
