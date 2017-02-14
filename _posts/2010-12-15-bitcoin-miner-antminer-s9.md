@@ -6,6 +6,7 @@ author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 ---
+<p><center><img src="/images/bmr-s9.jpg" alt="Antminer S9 Bitcoin Miner"/></center></p>
 <h2>The Antminer S9 is The Most Power Efficient 16nm Bitcoin Miner</h2>
 
 <p>For those parties who have high interest in buying <a href="/cpuminer-update-v08">Antminer S9 miner</a>, there will only be a limited quantity available for every batch and advised to place their order as soon as posible.</p>
