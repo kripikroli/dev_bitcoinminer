@@ -7,32 +7,64 @@ authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
 ---
 <p><center><img src="/images/bmr-s9.jpg" alt="Antminer S9 Bitcoin Miner"/></center></p>
-<h2>The Antminer S9 is The Most Power Efficient 16nm Bitcoin Miner</h2>
 
-<p>For those parties who have high interest in buying <a href="/cpuminer-update-v08">Antminer S9 miner</a>, there will only be a limited quantity available for every batch and advised to place their order as soon as posible.</p>
+<p>The Antminer S9 , the <a href="/bitcoin-mining-for-the-newly-initiated">most powerful and efficient miner</a> to date was introduced not so long ago due to the fact that it gets really more challenging to make a profit as a Bitcoin miner because of the increasing difficulty to mine Bitcoins. </p>
 
-<p>In the Bitcoin mining hardware manufacturer universe Bitmain still one of the market superstar.  Antminer S9 has been revealed by the company; a device Bitcoin experts and enthusiast have been looking for years now.</p>
+<p>Thus, it created the impression that only this Bitcoin miner is still currently producing a <a href="/bitcoin-mining-software-and-hardware-tools">positive ROI</a> in today’s environment. There are a lot of positive feedbacks about this product but there are still others who have doubts. A summary of all the pros and cons are listed into one simple review.</p>
 
-<p>News and updates from Bitmain have been on high interest with <a href="/miner-pools-software-20110321">Bitcoin miners</a> quite some time now. Since the release of Antminer S7, there is no new model to come anytime soon.</p>
+<p>These are things you need to know before you go all out with Antminer S9:</p>
 
-<p>But yes and there is really a new revelation of this device S9 model, which is the world’s first Bitcoin miner using 16nm chips.</p>
+<h2>1.Most Powerful miner</h2>
 
-<p>Under the hood, the Antminer S9 will produce 14 TH/s of mining power per unit, using 16nm ASIC chips. In fact, there are 189 chips packed into every miner.</p>
+<p>Excluding the electricity cost, mining pool feels or hardware expenses, the Antminer S9 can generate around 0.5 Bitcoins every month because it has a hash rate of 12.93TH/s -+ 7%  (not really 14 TH/s as advertised sometimes).</p>  
 
-<p>The power consumption sits around 1.38 kW, although there is a 7% variation to take into account. However, this makes the miner very power efficient, as just 0.1 Joule per GigaHash.</p> 
+<p>Three different <a href="/bitcoin-blockchain-remittance">Bitcoin mining calculators</a> were used to calculate and all showed the same results. You will have pure revenue of $330 every month which is equivalent to 0.5 BTC at the current exchange rate.</p>
 
-<p>Bitmain also wants to address the rate at which miners discarded their hardware due to no longer being profitable. In most cases, ASIC hardware has an average lifespan of just three months.</p>
+<p>A least amount of energy only is being expended compared to all other miners out there, therefore making it the most efficient miner as well. Adding the electricity cost otherwise will produce around 0.33 BTC which is a little lesser.</p>
 
-<p>Keeping in mind how much money people put into these machines, something has to be done to increase the shelf life of Bitcoin mining hardware.
+<h2>2. High-cost miner</h2>
 
-<p>But there is more, as the <a href="/poclbm-gui-20110321">Antminer S9</a> is backward compatible with power supplies used in older models, which is a welcome change. Moreover, the machines keep their air-cooled system, which is easy to maintain by both experienced and novice users. </p>
+<p>The cost of the Antminer S9 differs depending on which store you buy. Cheapest among others at $2000, you can already have it at from eBay. A little bit pricey from Bitmain’s site which you can buy at $2400. </p>
 
-<p>Last but not least, there are no hidden upkeep costs, other than electricity to be paid by the consumers themselves.</p>
+<p>The highest price is offered on Amazon for as little as $2700. So I guess now you know which store you will start to look.</p>
 
-<p>There will only be a limited quantity available for every batch of Antminer S9 miners, and interested parties are advised to place their order as soon as possible. </p>
+<p>This miner has superior mining abilities thus making it the priciest miner on the market nowadays. Taking to account only an average cost of electricity equal to $0.1/KW, you can already equalize your investment if you mine for about 10 months – which is considered a really long time in the Bitcoin universe. </p>
 
-<p>Speaking of the ordering process, Bitmain will limit the number of devices one user can order in total. This should help distribute these devices in a decentralized fashion over time.</p>
+<p>A lot can change in this circumstance though; mining difficulty can rise, exchange rate will fluctuate, hence making it hard to anticipate how long it will take to even just recover your expenses in this investment.</p>
 
-<p>The company expects to sell their first batch of Antminer S9 devices very quickly. If the trend of previous hardware generations keeps up, it may take 15 minutes or less to sell out an entire batch of Antminers. </p>
+<h2>3. Requires a Power Supply Unit to run</h2>
 
-<p>With such a power-efficient device hitting the market right in time before the <a href="cpuminer-update-v081">upcoming Bitcoin halving</a>, it is expected there will be a lot of interest. Keep an eye on the Bitmain website for further information.</p>
+<p>Take note that you still need to use hence needing to buy a PSU (power supply unit) amounting to $150 since it can’t just be plugged in any wall.  APW3-12-1600-B2 is recommended by Antminer’s manufacturer which is the Bitmain, which can be found not only on their website but also in Amazon or eBay , of course with varying prices.</p>
+ 
+<p>A video showing how to setup the miner with PSU:
+ 
+<p>Using a PSU from an <a href="/what-is-bitcoin-mining-and-why-it-is-simple">old Bitcoin miner</a> will already suffice, for example the EVGA SuperNOVA 1300 Watt GPU PSU should also work with this miner. But it is best to buy the APW3-12-1600-B2 in situations where you don’t own any PSU yet, adding it to your initial investment cost and since the price is not much more than any other old PSU available.</p>
+ 
+<h2>4. A bunch of S7 is better than one Antminer S9</h2>
+
+<p>It would be wise to purchase the Antminer S7 (older model) instead that has about 33% of the hashing power of the S9 (at 4.73 TH/s), if you buy three second-hand ones for a lesser price rather than getting the new Antminer S9. </p>
+
+<p>The older model will be at a discounted price due to lower demand compared to the new model which most people will rush to buy. A testimony from one experienced miner about the Antminer S9 is here:</p>
+
+<p>My overall rating is a 3.5 since these don’t deserve a 4. These are great miners that can replace about 3 s7s. However, the miner gets way too hot over the s7s. I can easily run my 5 s7s in my garage in florida at 55% (which I have to because any higher and they make a loud whinny noise) while these are kept at 100% and still get too hot. </p>
+
+<p>I can easily keep these at 100% with no whinny noise issue and are more quiet than the s7. If you do want to use the s9s then they will have to be in a much better controlled environment (which I will have to come up with) if you want to keep these lasting longer.</p>
+
+<p>The Antminer S7 is less power efficient than the S9 though, so if you consider this option, be sure to calculate again its ability to make profit. Here’s a complete comparison of the Bitcoin mining hardware available.</p>
+
+<h2>5. No Bitcoin miners are created equal</h2>
+
+<p>Never forget to check the specifications of the exact miner first before buying since Bitcoin miners are delivered in batches by Bitmain. It is safe to think that every batch aren’t created equal hence having different hash rates therefore making it highly possible that you’ll buy an Antminer s9 that has a hash rate of only 11.85 TH/s and not 12.93 TH/s.</p>
+ 
+<p>For an instance in Bitmain, the current batch of <a href="/how-to-mine-bitcoins">Antminer S9s available</a> is only 11.85 TH/s; the more powerful models are sold out. But, on eBay, there are still people selling the older more powerful model. </p>
+
+<p>Take note that the 11.85 TH/s models are also cheaper compared to their bigger brother so it’s not much of an issue since the price of the miner is relative to its hash rate.</p>
+
+<p>The most important point is to check the EXACT specifications of the miner you’ve decided to buy which is really vital to calculate the exact ROI and when you will break even.</p>
+ 
+
+<h2>6. Buy from Bitmain for a 90-day warranty</h2>
+
+<p>A 90-day warranty is given to the customers for miners bought in Bitmain but with limitations. Warranty can’t be availed for instances where the miner was overclocked(running it at a higher speed than it was designed to run), as well as using an inappropriate power supply or causing an environmental damage to it (e.g. lightning strike, corrosion due to wet environment). </p>
+
+<p>Some eBay sellers however will give you a warranty so make sure to read the details on each listing careful.</p>
