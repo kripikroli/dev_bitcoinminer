@@ -1,20 +1,12 @@
 ---
+title: Pooled Mining Growth
+seotitle: What Is Pooled Mining Growth
+description: The Pooled Mining Growth
+excerpt: Bitcoin Pooled Mining growing so fast.
+keywords: pooled mining growth, bpm growing fast
+alt: pooled mining growth
+featured: 
 layout: post
-title: pooled mining growth
-date: '2011-01-29T14:47:00+08:00'
-tags:
-- bitcoin
-- mining
-- pool
-- pooled
-- miner
-- bitcoinmining
-- bitcoinminer
-- ghash
-- ghash/s
-- ghash/sec
-- ghash
-tumblr_url: http://bitcoinminer.com/post/2997812943/pooled-mining-growth
 ---
 Why is Bitcoin Pooled Mining (BPM) growing so fast, and can it continue?
 BPM is responsible for a larger and larger share of Bitcoin''s total network hashing strength.  Currently BPM represents about 20% of the hashing total.  That is a level nearly triple the rate from earlier this month – a huge move!  Who are these miners jumping into the pool?
