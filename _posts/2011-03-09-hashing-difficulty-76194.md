@@ -1,29 +1,12 @@
 ---
+title: Hashing Difficulty 76194
+seotitle: The Hashing Difficulty 76194
+description: Cost of electricity to mine a bitcoin has nearly tripled.
+excerpt: Cost of electricity to mine a bitcoin has nearly tripled.
+keywords: hashing difficulty 76194, difficulty generating bitcoins 76194
+alt: hashing difficulty 76194
+featured: 
 layout: post
-title: hashing difficulty 76194
-date: '2011-03-09T18:10:00+08:00'
-tags:
-- network
-- cluster
-- total
-- strength
-- hashing
-- bitcoin
-- mining
-- hashes
-- hashing
-- massive
-- miningpool
-- pool
-- difficulty
-- GHash/s
-- GHash/sec
-- GHash
-- pool
-- revenue
-- income
-- mine
-tumblr_url: http://bitcoinminer.com/post/3751270526/hashing-difficulty-76194
 ---
 Cost of electricity to mine a bitcoin has nearly tripled in 5 weeks
 When a bitcoin had just hit price parity with the dollar following the Security Now netcast and the subsequent press coverage in Slashdot and elsewhere, the cost of electricity to mine a bitcoin was just under $0.08.  Five weeks later, thanks to the increase in bitcoin hashing difficulty, the cost of electricity to mine a bitcoin is now just under $0.20.
