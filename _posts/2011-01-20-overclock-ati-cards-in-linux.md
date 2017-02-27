@@ -1,21 +1,12 @@
 ---
+title: Overclock ATI Cards In Linux
+seotitle: How to Overclock ATI Cards In Linux
+description: Overclocking ATI Cards In Linux
+excerpt: Ways to Overclock ATI Cards In Linux
+keywords: overclock ati linux card, overclocking ati linux card
+alt: overclock ati linux card
+featured: 
 layout: post
-title: "[How-To] Overclocking ATI cards in Linux"
-date: '2011-01-20T13:13:00+08:00'
-tags:
-- overclock
-- ati
-- '5970'
-- linux
-- ubuntu
-- gpu
-- hd
-- radeon
-- '5870'
-- hd5970
-- hd5870
-- overclocking
-tumblr_url: http://bitcoinminer.com/post/2844161933/overclock-ati-cards-in-linux
 ---
 [How-To] Overclocking ATI cards in LinuxLink goes to an article on Overclock.net.
 tl;dr version:
