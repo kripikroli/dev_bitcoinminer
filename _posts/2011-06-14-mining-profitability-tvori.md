@@ -1,23 +1,12 @@
 ---
+title: Mining Profatibility Tvori
+seotitle: The Mining Profatibility Tvori
+description: Bitcoin Mining Profitability Chart on Tvori.info
+excerpt: Mining Profatibility Tvori
+keywords: mining profatibility tvori, mining profitability chart
+alt: mining profatibility tvori
+featured: 
 layout: post
-title: mining profitability tvori
-date: '2011-06-14T21:18:00+08:00'
-tags:
-- bitcoin miner
-- bitcoin
-- bitcoins
-- miner
-- mine
-- mining
-- wizzard0
-- tvori
-- tvori.info
-- chart
-- graph
-- graphic
-- financial
-- business
-tumblr_url: http://bitcoinminer.com/post/6539766007/mining-profitability-tvori
 ---
 Bitcoin Mining Profitability Chart on Tvori.info
 The green line in the real-time chart is the mining profitability number.
