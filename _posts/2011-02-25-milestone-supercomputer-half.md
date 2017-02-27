@@ -1,21 +1,12 @@
 ---
+title: Milestone Supercomputer Half
+seotitle: The Milestone Supercomputer Half
+description: Bitcoin network reaches size half that of Tianhe-1A
+excerpt: Bitcoin network reaches size half that of Tianhe-1A
+keywords: milestone supercomputer half, tianhe 1a
+alt: milestone supercomputer half
+featured: 
 layout: post
-title: Bitcoin network reaches size half that of Tianhe-1A, quarter of Folding@Home
-date: '2011-02-25T05:01:00+08:00'
-tags:
-- bitcoin
-- tianhe-1a
-- tianhe
-- supercomputer
-- supercomputers
-- distributed
-- distributed computing
-- computing
-- hasing
-- folding
-- folding@home
-- statistics
-tumblr_url: http://bitcoinminer.com/post/3500556489/milestone-supercomputer-half
 ---
 
 From Bitcoin’s latest difficulty estimate of a number higher than 50,000, the total Bitcoin network strength compares at about half of what Tianhe-1A, the fastest supercomputer offers.  
