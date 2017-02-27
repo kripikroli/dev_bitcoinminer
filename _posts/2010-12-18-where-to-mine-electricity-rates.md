@@ -1,20 +1,12 @@
 ---
-layout: post
 title: Where To Mine - Prices of Electricity
-date: '2010-12-18T12:38:00+08:00'
-tags:
-- bitcoin
-- electric
-- electricity
-- rate
-- rates
-- geographic
-- location
-- electracal
-- rate
-- utility
-- power
-tumblr_url: http://bitcoinminer.com/post/2361900289/where-to-mine-electricity-rates
+seotitle: Where To Mine - Rates of Electricity
+description: Where To Mine - Rates and Prices of Electricity.
+excerpt: Cost of electricity in mining.
+keywords: electricity prices for mining, mining electricity rates
+alt: electricity prices for mining
+featured: 
+layout: post
 ---
 If you mine Bitcoin as a hobby you are elated each time your labor returns the occasional fruit, delivered in the form of a 50 BTC reward.  It is a wonderful feeling – money for nothin’.
 Take the cost of electricity into account, however, and that reward might make mining seem a little less appealing.  The power consumed to create that reward will vary based on your system configuration, however much of the power for typical gaming PCs under load from the Bitcoin miner is consumed by the GPU.
