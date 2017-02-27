@@ -1,30 +1,12 @@
 ---
+title: Bitcoin Production Cost
+seotitle: The Bitcoin Production Cost
+description: A Nickel - The Bitcoin Production Cost
+excerpt: A Nickel - The Bitcoin Production Cost
+keywords: bitcoin production cost, mint a single bitcoin
+alt: bitcoin production cost
+featured: 
 layout: post
-title: bitcoin production cost
-date: '2011-02-20T17:38:00+08:00'
-tags:
-- bitcoin
-- electricity
-- bitcoins
-- electric
-- khw
-- killowatt
-- kill-a-watt
-- kill
-- watt
-- meter
-- metering
-- metered
-- rate
-- electricity
-- electral
-- consumption
-- consume
-- waste
-- heat
-- cooling
-- cool
-tumblr_url: http://bitcoinminer.com/post/3411230806/bitcoin-production-cost
 ---
 A nickel.  That’s the cost of the electricity needed to mint a single bitcoin.
 Forum member casascius measured the actual power consumption and reported the results in a very decent writeup.  Casascius runs a mining rig with two ATI Radeon HD 5970s.  After connecting the rig to a Kill-A-Watt meter the power consumption was measured.  With an electric rate of $0.095 per kWh, the cost of electricity is $0.049, on average, for each bitcoin created by the rig.
