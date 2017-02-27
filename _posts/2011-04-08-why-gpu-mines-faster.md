@@ -1,22 +1,12 @@
 ---
+title: Why a GPU mines faster
+seotitle: GPU mines faster than a CPU
+description: Why a GPU mines faster than a CPU
+excerpt: Why are AMD GPUs faster than Nvidia GPUs
+keywords: gpu mines faster, why gpu mines faster
+alt: gpu mines faster
+featured: 
 layout: post
-title: Why a GPU mines faster than a CPU
-date: '2011-04-08T14:43:00+08:00'
-tags:
-- bitcoin
-- mining
-- miner
-- amd
-- gpu
-- nvidia
-- radeon
-- wiki
-- explanation
-- technical
-- mrb
-- compare
-- comparison
-tumblr_url: http://bitcoinminer.com/post/4445302233/why-gpu-mines-faster
 ---
 Why a GPU mines faster than a CPUThe page titled “Why a GPU mines faster than a CPU” on the Bitcoin Wiki got some nice additions, courtesy of blogger mrb.
 Short AnswerA typical CPU core can execute 4 32-bit instructions per clock (using a 128-bit SSE instruction), whereas a GPU like the Radeon HD 5970 can execute 3200 32-bit instructions per clock (using its 3200 ALUs or shaders). This is a difference of 800 times more instructions per clock. As of 2011, the fastest CPUs have up to 6, 8, or 12 cores and a somewhat higher frequency clock (2000-3000 MHz vs. 725 MHz for the Radeon HD 5970), but this is far from enough to compensate for this huge difference. 
