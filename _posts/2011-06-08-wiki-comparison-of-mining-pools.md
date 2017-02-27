@@ -1,24 +1,12 @@
 ---
+title: Wiki Comparison Of Mining Pool
+seotitle: The Wiki Comparison Of Mining Pool
+description: Wiki Comparison Of Mining Pool
+excerpt: Comparison of mining pools article that contains a table.
+keywords: mining pool comparison, wiki mining pool comparison
+alt: mining pool comparison
+featured: 
 layout: post
-title: Comparison of mining pools
-date: '2011-06-08T04:42:00+08:00'
-tags:
-- mining
-- pools
-- pool
-- getting started
-- mine
-- pool
-- mining pool
-- mining pools
-- miner
-- bitcoin
-- bitcoins
-- bitcoin miner
-- comparison
-- spreadsheet
-- wiki
-tumblr_url: http://bitcoinminer.com/post/6314847101/wiki-comparison-of-mining-pools
 ---
 Comparison of mining poolsRecently added to the Bitcoin wiki is a Comparison of mining pools article that contains a table showing the attributes of each pool.
 The columns contain the following data
