@@ -1,7 +1,7 @@
 ---
 title: Arstechnica Inside Bitcoin
 seotitle: Arstechnica - Whats Inside Bitcoin
-description: Bitcoin: inside the encrypted, peer-to-peer digital currency.
+description: Bitcoin - inside the encrypted, peer-to-peer digital currency.
 excerpt: ArsTechnica - Bitcoin inside the encrypted, peer-to-peer digital currency.
 keywords: arstechnica inside bitcoin, arstechnica inside btc
 alt: arstechnica inside bitcoin
