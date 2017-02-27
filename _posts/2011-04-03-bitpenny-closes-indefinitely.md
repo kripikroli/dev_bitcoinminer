@@ -1,24 +1,12 @@
 ---
+title: Bitpenny Closes Indefinitely
+seotitle: Why Bitpenny Closes Indefinitely
+description: Bitcoin Watch Network Hashrate
+excerpt: BitPenny shuts down indefinitely Update - Relaunches.
+keywords: bitpenny closes indefinitely, bitpenny shuts indefinitely
+alt: bitpenny closes indefinitely
+featured: 
 layout: post
-title: 'BitPenny shuts down indefinitely [Update: Relaunches]'
-date: '2011-04-03T01:46:00+08:00'
-tags:
-- bitpenny
-- mining
-- pool
-- operator
-- close
-- discontinue
-- discointinued
-- loss
-- losses
-- variance
-- mining
-- mine
-- miner
-- instant
-- payout
-tumblr_url: http://bitcoinminer.com/post/4304120696/bitpenny-closes-indefinitely
 ---
 BitPenny shuts down indefinitely [Update: Relaunches][Update: BitPenny relaunched and as-of October, 2011 exists as a pool that uses a custom, open-source mining client.]
 One month after the second round of testing began, the Bitcoin mining pool BitPenny has shut down, indefinitely.
