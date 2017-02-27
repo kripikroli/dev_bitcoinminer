@@ -1,7 +1,7 @@
 ---
 title: ATI Stream SDK v2.1, v2.2 and v2.3
 seotitle: The ATI Stream SDK v2.1, v2.2 and v2.3
-description: 
+description: ATI Stream SDK v2.1, v2.2 and v2.3
 excerpt: Download locations for ATI Stream SDK v2.1, v2.2 and v2.3
 keywords: ati stream sdk, download ati stream sdk
 alt: download ati stream sdk
