@@ -1,30 +1,12 @@
 ---
+title: Hashing Difficulty 25998
+seotitle: The Hashing Difficulty 25998
+description: Total network hashing strength - 186 Ghash per sec.
+excerpt: Difficulty - 25998, Total network hashing - 186 Ghash per sec
+keywords: hashing difficulty 25998, difficulty generating bitcoins 25998
+alt: hashing difficulty 25998
+featured: 
 layout: post
-title: 'Total network hashing strength: 186 Ghash/sec'
-date: '2011-02-08T01:38:00+08:00'
-tags:
-- mining
-- bitcoin
-- hashing
-- strength
-- total
-- network
-- cluster
-- pool
-- miningpool
-- miner
-- huge
-- massive
-- hashing
-- strength
-- hashes
-- Ghash
-- Ghash/s
-- rig
-- rigs
-- difficulty
-- bpm
-tumblr_url: http://bitcoinminer.com/post/3177803261/hashing-difficulty-25998
 ---
  
 Difficulty: 25998, Total network hashing: 186 Ghash/sec
