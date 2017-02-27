@@ -1,17 +1,12 @@
 ---
+title: Mining Contracts Vladimir
+seotitle: The Mining Contracts Vladimir
+description: Mining Contracts Vladimir
+excerpt: There are multiple vendors advertising mining contracts for sale.
+keywords: mining contracts vladimir, mining contracts
+alt: mining contracts vladimir
+featured: 
 layout: post
-title: mining contracts vladimir
-date: '2011-04-24T20:24:00+08:00'
-tags:
-- bitcoin
-- mining
-- contract
-- miner
-- bitcoins
-- zero-variance
-- variance
-- zero
-tumblr_url: http://bitcoinminer.com/post/4911802629/mining-contracts-vladimir
 ---
 Whole lotta mining going on!
 The photo shows a shelf of mining rigs in Vladimir’s datacenter.
