@@ -1,30 +1,12 @@
 ---
+title: Hashing Difficulty 22012
+seotitle: The Hashing Difficulty 22012
+description: Difficulty - 22012, Total network hashing - 158 Ghash per sec
+excerpt: Difficulty threshold for generating bitcoins 22012.
+keywords: hashing difficulty 22012, difficulty generating bitcoins 22012
+alt: hashing difficulty 22012
+featured: 
 layout: post
-title: hashing difficulty 22012
-date: '2011-01-27T04:28:00+08:00'
-tags:
-- mining
-- bitcoiin
-- hashing
-- strength
-- network
-- total
-- cluster
-- pool
-- miningpool
-- miner
-- huge
-- massive
-- hashing
-- strength
-- hashes
-- Ghash
-- Ghash/s
-- second
-- per
-- Ghash/s
-- Ghash/sec
-tumblr_url: http://bitcoinminer.com/post/2955747210/hashing-difficulty-22012
 ---
 Difficulty: 22012, Total network hashing: 158 Ghash/sec
 Earlier today the difficulty threshold for generating bitcoins went from 18437 to 22012.  The difficulty readjusts every 2,016 blocks and today this happened today at block 104,832.
