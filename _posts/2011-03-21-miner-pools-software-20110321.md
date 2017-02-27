@@ -1,34 +1,12 @@
 ---
+title: Mining - Pools and Software
+seotitle: The Mining - Pools and Software
+description: Mining - Pools and Software - March 21st, 2011
+excerpt: Mining - Pools and Software - March 21st, 2011
+keywords: pools and software, mining pools and software
+alt: mining pools and software
+featured: 
 layout: post
-title: Mining - Pools and Software - March 21st, 2011 (updated March 25th)
-date: '2011-03-21T09:05:00+08:00'
-tags:
-- m0mchil
-- ubuntu
-- win
-- linux
-- windows
-- mac
-- mining
-- remote
-- puddinpop
-- jgarzik
-- cuda
-- opencl
-- diablo
-- m0mchill
-- momchil
-- pool
-- pools
-- slush
-- bpm
-- deepbit
-- bitpenny
-- miners
-- rpc
-- gui
-- poclbm
-tumblr_url: http://bitcoinminer.com/post/4002371604/miner-pools-software-20110321
 ---
 [Upated March 25th, 2011]
 Pools:
