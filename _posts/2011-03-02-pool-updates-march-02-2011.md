@@ -1,35 +1,12 @@
 ---
+title: Pool Mining Updates
+seotitle: The Pool Mining Updates
+description: Pool Mining Updates
+excerpt: The Pool Mining Updates
+keywords: pool updates, pool mining updates
+alt: pool mining updates
+featured: 
 layout: post
-title: Mining Pool Updates
-date: '2011-03-02T04:35:00+08:00'
-tags:
-- mining
-- mac
-- windows
-- linux
-- win
-- ubuntu
-- momchil
-- mimchill
-- m0mchil
-- m0mchill
-- diablo
-- opencl
-- cuda
-- jgarzik
-- puddinpop
-- remote
-- rpc
-- miner
-- miners
-- pool
-- bitpenny
-- deepBit
-- bpm
-- slush
-- pools
-- pool
-tumblr_url: http://bitcoinminer.com/post/3598711561/pool-updates-march-02-2011
 ---
 (Current, as-of March 21st, 2011)
 Pools:
