@@ -1,36 +1,12 @@
 ---
+title: Difficulty - 434877, Total Network Hashing - 3113 Ghash Per Sec
+seotitle: Generating Bitcoin With Difficulty - 434877, Total Network Hashing - 3113 Ghash Per Sec
+description: Readjusts Difficulty - 434877, Total Network Hashing - 3113 Ghash Per Sec
+excerpt: Hardware With Difficulty - 434877, Total Network Hashing - 3113 Ghash Per Sec.
+keywords: generating bitcoin difficulty, bitcoin hashing growth rate
+alt: bitcoin hashing growth rate
+featured: 
 layout: post
-title: hashing difficulty 434877
-date: '2011-05-26T15:56:00+08:00'
-tags:
-- bitcoin
-- miner
-- bitcoin miner
-- mining
-- bitcoins
-- difficulty
-- hashing
-- strength
-- total
-- network
-- cluster
-- fpga
-- asic
-- pool
-- miningpool
-- hashes
-- mine
-- income
-- revenue
-- GHash/s
-- GHash/sec
-- difficulty
-- equity
-- '5870'
-- '5970'
-- '6990'
-- supercomputer
-tumblr_url: http://bitcoinminer.com/post/5872990977/hashing-difficulty-434877
 ---
 Difficulty adjusts to 434,877, a 78% increase
 Difficulty: 434,877, Total network hashing: 3,113 Ghash/sec
