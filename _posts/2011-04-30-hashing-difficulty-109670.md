@@ -1,29 +1,12 @@
 ---
+title: Hashing Difficulty 109670
+seotitle: The Hashing Difficulty 109670
+description: Hashing Difficulty 109670
+excerpt: Difficulty adjusts to level that exceeds 100,000.
+keywords: hashing difficulty 109670, mining pool difficulty
+alt: hashing difficulty 109670
+featured: 
 layout: post
-title: hashing difficulty 109670
-date: '2011-04-30T01:18:00+08:00'
-tags:
-- mining
-- bitcoin
-- hashing
-- strenth
-- total
-- network
-- cluster
-- Ghash/s
-- difficulty
-- pool
-- miningpool
-- massive
-- hashing
-- hashes
-- mine
-- income
-- revenue
-- pool
-- Ghash
-- Ghash/sec
-tumblr_url: http://bitcoinminer.com/post/5062580829/hashing-difficulty-109670
 ---
 Difficulty adjusts to level that exceeds 100,000
 Difficulty: 109,670, Total network hashing: 785 Ghash/sec
