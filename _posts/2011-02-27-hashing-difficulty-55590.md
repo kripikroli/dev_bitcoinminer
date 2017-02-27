@@ -1,34 +1,12 @@
 ---
+title: Hashing Difficulty 55590
+seotitle: The Hashing Difficulty 55590
+description: Difficulty - 55590, total network hashing - 398 Ghash per sec
+excerpt: The Difficulty - 55590, total network hashing - 398 Ghash per sec
+keywords: hashing difficulty 55590, 398 ghash per sec
+alt: hashing difficulty 55590
+featured: 
 layout: post
-title: hashing difficulty 55590
-date: '2011-02-27T18:47:00+08:00'
-tags:
-- mining
-- bitcoin
-- hashing
-- strength
-- total
-- network
-- cluster
-- pool
-- miningpool
-- miner
-- huge
-- massive
-- hashing
-- strength
-- hashes
-- Ghash
-- Ghash/s
-- Ghash/sec
-- rig
-- rigs
-- difficulty
-- bpm
-- deepbit
-- bitpenny
-- pool
-tumblr_url: http://bitcoinminer.com/post/3553359585/hashing-difficulty-55590
 ---
 6 Megawatt Hours
 That’s a conservative estimate of how much electricity the Bitcoin network consumes each day.  The lead engine from the photo above can produce that amount of power in about an hour.

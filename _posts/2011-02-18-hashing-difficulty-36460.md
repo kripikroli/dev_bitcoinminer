@@ -1,31 +1,12 @@
 ---
+title: Hashing Difficulty 36460
+seotitle: The Hashing Difficulty 36460
+description: Total network hashing strength - 261 Ghash per sec
+excerpt: Difficulty - 36460, Total network hashing strength - 261 Ghash per sec
+keywords: hashing difficulty 36460, difficulty generating bitcoins 36460
+alt: hashing difficulty 36460
+featured: 
 layout: post
-title: 'Total network hashing strength: 261 Ghash/sec'
-date: '2011-02-18T01:49:00+08:00'
-tags:
-- pool
-- cluster
-- network
-- total
-- strength
-- hashing
-- bitcoin
-- mining
-- Ghash
-- hashes
-- strength
-- hashing
-- massive
-- huge
-- miner
-- miningpool
-- bpm
-- difficulty
-- rigs
-- rig
-- Ghash/s
-- Ghash/sec
-tumblr_url: http://bitcoinminer.com/post/3359058885/hashing-difficulty-36460
 ---
 Difficulty: 36460, Total network hashing: 261 Ghash/sec
 Earlier today the difficulty threshold for generating bitcoins went from 25998 to 36460.  The difficulty readjusts every 2,016 blocks and today this happened at block 108,864.

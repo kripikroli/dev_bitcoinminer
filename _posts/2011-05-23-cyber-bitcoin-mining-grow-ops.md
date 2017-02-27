@@ -1,34 +1,12 @@
 ---
+title: Cyber Bitcoin Mining Grow Ops
+seotitle: The Cyber Bitcoin Mining Grow Ops
+description: Cyber Bitcoin Mining Grow Ops
+excerpt: Will Mining Bring The Police? 
+keywords: cyber bitcoin mining, cyber bitcoin mining grow ops
+alt: cyber bitcoin mining
+featured: 
 layout: post
-title: cyber bitcoin mining grow ops
-date: '2011-05-23T05:13:00+08:00'
-tags:
-- bitcoin
-- mine
-- mining
-- miner
-- rig
-- kwh
-- electric
-- electricity
-- grow op
-- marijuana
-- power
-- juice
-- grow
-- op
-- operation
-- vancouver
-- pot
-- police
-- cops
-- search
-- seizure
-- 4th
-- fourth
-- amendment
-- fourth amendment
-tumblr_url: http://bitcoinminer.com/post/5762837023/cyber-bitcoin-mining-grow-ops
 ---
 Will Mining Bring The Police?
 One characteristic of those mining bitcoins from home is that looking at only the electric usage for the residence the consumption will look similar to usage as if it was used as a marijuana grow-op.

@@ -1,29 +1,12 @@
 ---
+title: Hashing Difficulty 68979
+seotitle: The Hashing Difficulty 68979
+description: Hashing Difficulty 68979
+excerpt:  The difficulty threshold for generating bitcoins adjusted to a smaller level.
+keywords: hashing difficulty 68979, difficulty generating bitcoins
+alt: hashing difficulty 68979
+featured: 
 layout: post
-title: 'Difficulty: 68979, Total network hashing: 494 Ghash/sec'
-date: '2011-03-25T17:36:00+08:00'
-tags:
-- mining
-- bitcoin
-- hashing
-- strength
-- total
-- cluster
-- network
-- GHash/s
-- difficulty
-- pool
-- miningpool
-- massive
-- hashing
-- hashes
-- mine
-- income
-- revenue
-- pool
-- GHash
-- GHash/sec
-tumblr_url: http://bitcoinminer.com/post/4091447693/hashing-difficulty-68979
 ---
 For only the second time in Bitcoin history, the difficulty threshold for generating bitcoins adjusted to a smaller level.
 Earlier today the level went from 76,194 to 68,979.  The difficulty readjusts every 2,016 blocks and today this happened at block 114,912 – more than two weeks after the previous adjustment.

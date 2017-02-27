@@ -1,18 +1,12 @@
 ---
+title: BTCMine Pool Alpha
+seotitle: BTCMine Pool Alpha-Test
+description: New Mining Pool - BTCMine, Alpha Test
+excerpt: New Mining Pool - BTCMine, Alpha Test
+keywords: btcmine pool alpha, btcmine pool alpha test
+alt: btcmine pool alpha
+featured: 
 layout: post
-title: New Mining Pool - BTCMine, Alpha Test
-date: '2011-03-08T13:58:00+08:00'
-tags:
-- btcmine
-- mine
-- btc
-- mining
-- pool
-- server
-- poolserver
-- miningpool
-- pay per share
-tumblr_url: http://bitcoinminer.com/post/3725936202/btcmine-pool-alpha
 ---
 New Mining Pool - BTCMine, Alpha TestOffers shared block payout as well as pay per share payout.
 http://www.btcmine.com

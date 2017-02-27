@@ -1,28 +1,12 @@
 ---
+title: ATI Stream SDK v2.1, v2.2 and v2.3
+seotitle: The ATI Stream SDK v2.1, v2.2 and v2.3
+description: ATI Stream SDK v2.1, v2.2 and v2.3
+excerpt: Download locations for ATI Stream SDK v2.1, v2.2 and v2.3
+keywords: ati stream sdk, download ati stream sdk
+alt: download ati stream sdk
+featured: 
 layout: post
-title: Download locations for ATI Stream SDK v2.1, v2.2 and v2.3
-date: '2011-03-13T06:05:00+08:00'
-tags:
-- ati
-- stream
-- sdk
-- download
-- '2.1'
-- '2.2'
-- '2.3'
-- v2.1
-- v2.2
-- v2.3
-- v2
-- version
-- app
-- accelerated
-- parallel
-- processing
-- parallelprocessing
-- downloading
-- driver
-tumblr_url: http://bitcoinminer.com/post/3828447301/ati-stream-sdk-downloads
 ---
 Download locations for ATI Stream SDK v2.1, v2.2 and v2.3ATI renamed their Stream SDK to AMD Accelerated Parallel Processing (APP).  The website and some links became broken.
 Vista Win7 (64 bit): v2.1 | v2.2 | v2.3

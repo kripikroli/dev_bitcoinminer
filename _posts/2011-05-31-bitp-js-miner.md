@@ -1,19 +1,12 @@
 ---
+title: Become a Bitcoin Miner in 10 seconds or less
+seotitle: How To Become a Bitcoin Miner in 10 seconds or less
+description: Become a Bitcoin Miner in 10 seconds or less
+excerpt: Become a Bitcoin Miner in 10 seconds or less
+keywords: become a bitcoin miner, become btc miner
+alt: become a bitcoin miner
+featured: 
 layout: post
-title: Become a Bitcoin Miner in 10 seconds or less!
-date: '2011-05-31T08:27:00+08:00'
-tags:
-- jsminer
-- javascript
-- script
-- miner
-- browser
-- in-browser
-- chrome
-- firefox
-- bitp
-- bitp.it
-tumblr_url: http://bitcoinminer.com/post/6035528098/bitp-js-miner
 ---
 Become a Bitcoin Miner in 10 seconds or less!This Javascript-based bitcoin miner performs the exact same hashing work on your computer as is performed on the highest-end GPUs used by Bitcoin’s “nuttiest” miners.
 The mining site will show you the amount of work (measured as a number of hashes per second) that the javascript miner can perform running inside your browser.

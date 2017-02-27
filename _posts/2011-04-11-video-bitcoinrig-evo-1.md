@@ -1,18 +1,12 @@
 ---
+title: Video Bitcoin Rig Evo
+seotitle: The Video Bitcoin Rig Evo
+description: GPUs - This rig contains two AMD HD 5850s and two AMD HD 5870s.
+excerpt: This rig contains two AMD HD 5850s and two AMD HD 5870s.
+keywords: bitcoin rig evo, bitcoin rig evo video
+alt: bitcoin rig evo
+featured: 
 layout: post
-title: no title
-date: '2011-04-11T02:57:00+08:00'
-tags:
-- mining
-- miner
-- bitcoin
-- rig
-- bitcoinrig
-- '5870'
-- '5850'
-- gpu
-- dual
-tumblr_url: http://bitcoinminer.com/post/4517785822/video-bitcoinrig-evo-1
 ---
 A BitcoinRig.
 GPUs: This rig contains two AMD HD 5850s and two AMD HD 5870s.

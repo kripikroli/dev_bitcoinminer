@@ -1,24 +1,12 @@
 ---
+title: Bitcoin Pool Beta
+seotitle: The Bitcoin Pool Beta
+description: Bitcoin Pool Beta
+excerpt: The pool offers a shared block payout.
+keywords: bitcoin pool beta, operating public mining pools
+alt: bitcoin pool beta
+featured: 
 layout: post
-title: New Mining Pool - Bitcoin Pool, Beta Test
-date: '2011-03-08T22:21:00+08:00'
-tags:
-- bitcoinpool
-- bitcoin
-- pool
-- mining
-- miner
-- bitcoin
-- poclbm-mod
-- pooled
-- mine
-- miner
-- bitcoinpool.com
-- block
-- shared
-- payout
-- sharedblock
-tumblr_url: http://bitcoinminer.com/post/3735353005/bitcoin-pool-beta
 ---
 This is the second pool to open this day, and brings to five (5) the number of currently operating public mining pools.
 The mining pool is currently in Beta test mode.  The pool offers a shared block payout.  Only shares from the current block in the current round are accepted.

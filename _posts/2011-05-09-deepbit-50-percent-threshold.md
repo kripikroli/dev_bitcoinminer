@@ -1,33 +1,12 @@
 ---
+title: DeepBit 50 Percent Threshold
+seotitle: The DeepBit 50 Percent Threshold
+description: DeepBit 50 Percent Threshold
+excerpt: DeepBit pool temporarily reaches critical 50% threshold.
+keywords: deepbit threshold, deepbit pool
+alt: deepbit threshold
+featured: 
 layout: post
-title: DeepBit pool temporarily reaches critical 50% threshold
-date: '2011-05-09T02:27:00+08:00'
-tags:
-- deepbit
-- mining
-- threshold
-- '50'
-- fifty
-- 50%
-- fifty percent
-- "%"
-- percent
-- percentage
-- 50 percent
-- slush
-- bpm
-- bitcoin
-- pooled
-- pool
-- mining
-- double spend
-- double spending
-- double
-- spend
-- spending
-- exchange
-- reversible
-tumblr_url: http://bitcoinminer.com/post/5328668205/deepbit-50-percent-threshold
 ---
 For the first time ever a single pool has reached the point at which the pool’s hashing power has exceeded the critical 50% threshold.
 Bitcoin’s decentralized structure gives authority to 50% + 1 of the network hashing power.  If a single entity or a party that is colluding together reaches this point the potential to do a double spending attack exists.

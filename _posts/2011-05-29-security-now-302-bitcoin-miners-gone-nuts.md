@@ -1,29 +1,12 @@
 ---
+title: Security Now 302 Bitcoin Miners Gone Nuts
+seotitle: Why Security Now 302 Bitcoin Miners Gone Nuts
+description: Security Now 302 Bitcoin Miners Gone Nuts
+excerpt: Steve Gibson - These people miners have gone nuts.
+keywords: bitcoin miners, bitcoin miners security
+alt: bitcoin miners
+featured: 
 layout: post
-title: no title
-date: '2011-05-29T18:49:00+08:00'
-tags:
-- bitcoin
-- miner
-- mining
-- mine
-- bitcoins
-- steve
-- gibson
-- steve gibson
-- stevegibson
-- coinage
-- bitcoinage
-- digital currency
-- leo
-- laporte
-- leo laporte
-- leolaport
-- twit.tv
-- twit
-- tv
-- twit tv
-tumblr_url: http://bitcoinminer.com/post/5980355953/security-now-302-bitcoin-miners-gone-nuts
 ---
 Steve Gibson: These people (miners) have gone nuts!
 Leo Laporte and Steve Gibson discuss the topic of Bitcoin miners getting a visit by the police and also provide commentary on Jason Calicanis’ alert regarding Bitcoin being ‘The Most Dangerous Project’.

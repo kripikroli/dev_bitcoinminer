@@ -1,21 +1,12 @@
 ---
+title: Bitcoin Watch Network Hashrate
+seotitle: The Bitcoin Watch Network Hashrate
+description: Bitcoin Watch Network Hashrate
+excerpt: Bitcoin Watch now includes network mining hashrates.
+keywords: bitcoin watch network hashrate, network mining hashrates
+alt: bitcoin watch network hashrat
+featured: 
 layout: post
-title: bitcoin watch network hashrate
-date: '2011-03-31T18:45:00+08:00'
-tags:
-- bitcoin
-- watch
-- bitcoinwatch
-- network
-- hashrate
-- graph
-- graphs
-- hashing
-- mine
-- miner
-- tcatm
-- sipa
-tumblr_url: http://bitcoinminer.com/post/4243375199/bitcoin-watch-network-hashrate
 ---
 Bitcoin Watch now includes network mining hashrates.
 The chart updates every sixty seconds and the graph reflects the hashrate over last seven days.

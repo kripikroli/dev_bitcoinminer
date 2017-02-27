@@ -1,28 +1,12 @@
 ---
+title: Price Difficulty Ratio Chart
+seotitle: The Price Difficulty Ratio Chart
+description: Price Difficulty Ratio Chart
+excerpt: The relationship between price and mining difficulty.
+keywords: price difficulty ratio, price difficulty ratio chart
+alt: price difficulty ratio
+featured: 
 layout: post
-title: price difficulty ratio chart
-date: '2011-05-06T16:37:00+08:00'
-tags:
-- mining
-- bitcoin
-- mine
-- miner
-- gpu
-- price
-- difficulty
-- ratio
-- relationship
-- chart
-- charts
-- charted
-- capacity
-- amd
-- ati
-- graphics
-- card
-- radeon
-- hd
-tumblr_url: http://bitcoinminer.com/post/5251432103/price-difficulty-ratio-chart
 ---
 The relationship between price and mining difficulty
 This forum post provides an excellent analysis of the relationship between the bitcoin market exchange rate and mining difficulty.

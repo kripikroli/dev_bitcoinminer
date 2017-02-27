@@ -1,22 +1,12 @@
 ---
+title: Craigslist GPU Hosting 
+seotitle: The Craigslist GPU Hosting 
+description: Radeon USD 240 video card, for use in distributed computing.
+excerpt: Radeon USD 240 video card, for use in distributed computing.
+keywords: craigslist gpu hosting, radeon video card
+alt: craigslist gpu hosting
+featured: 
 layout: post
-title: 'BARTER: Radeon $240 video card, for use in distributed computing'
-date: '2011-03-05T01:36:00+08:00'
-tags:
-- craigslist
-- classified
-- mining
-- miner
-- bitcoin
-- gpu
-- hosting
-- hosted
-- radeon
-- video
-- san francisco
-- bay area
-- silicon valley
-tumblr_url: http://bitcoinminer.com/post/3653524675/craigslist-gpu-hosting
 ---
 BARTER: Radeon $240 video card, for use in distributed computingSeen in Craigslist.com
 SF bay area craigslist > san francisco > for sale / wanted > barter

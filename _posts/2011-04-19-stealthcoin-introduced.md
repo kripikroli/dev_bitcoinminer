@@ -1,21 +1,12 @@
 ---
+title: Stealthcoin or Bitcoin - Botnet Edition
+seotitle: The Stealthcoin or Bitcoin - Botnet Edition
+description: Stealthcoin is a wrapper and a modified bitcoin client.
+excerpt: Stealthcoin project on GitHub
+keywords: bitcoin botnet edition, stealthcoin bitcoin client
+alt: bitcoin botnet edition
+featured: 
 layout: post
-title: 'Stealthcoin, or "Bitcoin: Botnet Edition"'
-date: '2011-04-19T16:35:00+08:00'
-tags:
-- bitcoin
-- miner
-- mining
-- mine
-- bitcoins
-- stealthnet
-- stealth
-- cpu
-- idle
-- priority
-- bitcoin miner
-- miners
-tumblr_url: http://bitcoinminer.com/post/4755112500/stealthcoin-introduced
 ---
 Stealthcoin, or "Bitcoin: Botnet Edition"Stealthcoin is a wrapper and a modified bitcoind client that mines gently on a Windows system with minimal impact to the user.
 The CPU mining occurs at a slower rate than is otherwise possible, especially compared to other CPU miners, however in a scenario such as a computer lab, the software can run 24x7 regardless of how the computer is otherwise used.

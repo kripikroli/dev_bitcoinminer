@@ -1,23 +1,12 @@
 ---
-layout: post
 title: Open Source FGPA Bitcoin Miner
-date: '2011-05-20T15:06:00+08:00'
-tags:
-- mining
-- fgpa
-- cpu
-- gpu
-- ati
-- radeon
-- hd
-- hd 5970
-- hd 6990
-- '5970'
-- '6990'
-- '5870'
-- hd 5870
-- amd
-tumblr_url: http://bitcoinminer.com/post/5672391181/open-source-fpga-bitcoin-miner-announced
+seotitle: The Open Source FGPA Bitcoin Miner
+description: Open Source FGPA Bitcoin Miner
+excerpt: Just released was the Open Source FPGA Bitcoin Miner software.
+keywords: open source fgpa, fgpa bitcoin miner
+alt: open source fgpa
+featured: 
+layout: post
 ---
 Open Source FGPA Bitcoin MinerJust released was the Open Source FPGA Bitcoin Miner software.  This miner allows bitcoins to be mined using a commercially available FPGA board.
 FPGA boards consume much less electricity compared to GPUs for the hashing work performed when mining bitcoins.

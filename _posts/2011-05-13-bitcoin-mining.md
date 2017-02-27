@@ -1,30 +1,12 @@
 ---
+title: Bitcoin Mining - Three Months Later
+seotitle: The Bitcoin Mining - Three Months Later
+description: Bitcoin Mining - Three Months Later
+excerpt: The miner narrating felt it was was time for a follow up.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: no title
-date: '2011-05-13T16:44:00+08:00'
-tags:
-- bitcoin
-- miner
-- mining
-- mine
-- btc
-- rig
-- rigs
-- mining rig
-- bitcoin mining
-- bitcoin miner
-- '5970'
-- '5870'
-- '5850'
-- hash
-- hashes
-- hashing
-- hashes
-- second
-- february
-- may
-- '2011'
-tumblr_url: http://bitcoinminer.com/post/5458372543/bitcoin-mining
 ---
 Bitcoin Mining: Three Months Later
 After the original video received 10,000 views, the miner narrating felt it was was time for a follow up.
