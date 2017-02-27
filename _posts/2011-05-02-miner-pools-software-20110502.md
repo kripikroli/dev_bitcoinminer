@@ -1,34 +1,12 @@
 ---
-layout: post
 title: Mining - Pools and Software - May 02, 2011
-date: '2011-05-02T17:48:23+08:00'
-tags:
-- remove
-- eligius
-- mining
-- mac
-- windows
-- linux
-- win
-- ubuntu
-- m0mchil
-- pool
-- momchil
-- m0mchill
-- diablo
-- opencl
-- cuda
-- jgarzik
-- puddinpop
-- poclbm
-- gui
-- rpc
-- miners
-- deepbit
-- bpm
-- slush
-- pools
-tumblr_url: http://bitcoinminer.com/post/5142039411/miner-pools-software-20110502
+seotitle: Mining - Pools and Software
+description: Mining - Pools and Software - May 02, 2011
+excerpt: Proportional reward mode as well as fixed-rate.
+keywords: pools and software, mining pools and software
+alt: pools and software
+featured: 
+layout: post
 ---
 Pools:
 DeepBitCompensation: Proportional reward mode as well as fixed-rate Pay-Per-Share.Current pool strength: 281 Ghash/s- http://www.deepbit.net  http://en.bitcoin.it/wiki/DeepBit
