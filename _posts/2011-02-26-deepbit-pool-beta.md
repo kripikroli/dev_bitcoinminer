@@ -1,20 +1,12 @@
 ---
-layout: post
 title: DeepBit Pool - Beta Test
-date: '2011-02-26T05:03:00+08:00'
-tags:
-- bit
-- deep
-- deepbit
-- deepbit.net
-- mining
-- miningpool
-- pool
-- pooled
-- poolminer
-- pools
-- deepbit.net
-tumblr_url: http://bitcoinminer.com/post/3520435708/deepbit-pool-beta
+seotitle: The DeepBit Pool - Beta Test
+description: DeepBit Pool - Beta TestAnother pool has opened.
+excerpt: The DeepBit Pool - Beta TestAnother pool has opened.
+keywords: deepbit pool beta test, deepbit pool beta
+alt: deepbit pool beta test
+featured: 
+layout: post
 ---
 DeepBit Pool - Beta TestAnother pool has opened.
 DeepBit.net bills itself as a pool for those who prefer a simple reward sharing scheme and fast payments.  The fee is 3%.  [Edit: A Pay-Per-Share alternative reward distribution has been added as well.]
