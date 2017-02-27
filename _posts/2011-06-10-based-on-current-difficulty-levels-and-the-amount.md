@@ -8,6 +8,6 @@ alt: current difficulty levels
 featured: 
 layout: post
 ---
-http://www.alloscomp.com/bitcoin/calculator.php
+
 At current levels, 1.77 BTC per day, worth about $42.53.
 Very profitable.
