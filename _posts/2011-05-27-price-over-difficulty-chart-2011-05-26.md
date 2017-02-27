@@ -1,18 +1,12 @@
 ---
+title: Price Over Difficulty Chart 2011-05-26
+seotitle: The Price Over Difficulty Chart 2011-05-26
+description: Price Over Difficulty Chart 2011-05-26
+excerpt: There is a pretty good correlation between price and difficulty when shown in log scale.
+keywords: price over difficulty, price difficulty chart
+alt: price over difficulty
+featured: 
 layout: post
-title: price over difficulty chart 2011 05 26
-date: '2011-05-27T03:24:00+08:00'
-tags:
-- price
-- difficulty
-- mining
-- miner
-- bitcoin
-- bitcoins
-- hashing
-- profit
-- profitability
-tumblr_url: http://bitcoinminer.com/post/5892013472/price-over-difficulty-chart-2011-05-26
 ---
 Price Over Difficulty to May 24
 There is a pretty good correlation between price and difficulty when shown in log scale.
