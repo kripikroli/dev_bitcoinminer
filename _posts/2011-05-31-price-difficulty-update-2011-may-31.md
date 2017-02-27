@@ -1,21 +1,12 @@
 ---
+title: Price Difficulty Update 2011 May 31
+seotitle: The Price Difficulty Update 2011 May 31
+description: Price Difficulty Update 2011 May 31
+excerpt: This chart shows price over the current block difficulty level.
+keywords: price difficulty update, price difficulty chart
+alt: price difficulty update
+featured: 
 layout: post
-title: price difficulty update 2011 may 31
-date: '2011-05-31T03:22:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- miner
-- mine
-- hashing
-- price
-- difficulty
-- rate
-- comparison
-- profit
-- profitability
-tumblr_url: http://bitcoinminer.com/post/6031094127/price-difficulty-update-2011-may-31
 ---
 Price / (true) difficulty
 This chart shows price over the current block difficulty level.  It shows that mining today is producing less than half the revenue that mining was earning earlier in the month.  This is because since that time there were two back-to-back very high increases in difficulty.
