@@ -1,17 +1,12 @@
 ---
+title: GPU Design Power Limits
+seotitle: Discussion About GPU Design Power Limits
+description: IRC Discussion About GPU Design Power Limits
+excerpt: IRC Channel Discussion About GPU Design Power Limits
+keywords: gpu design power limits, gpu design power
+alt: gpu design power limits
+featured: 
 layout: post
-title: gpu design power limits
-date: '2011-01-13T04:28:00+08:00'
-tags:
-- gpu
-- gpus
-- power
-- watts
-- limits
-- graphics card
-- graphic
-- graphics
-tumblr_url: http://bitcoinminer.com/post/2727159096/gpu-design-power-limits
 ---
 Excellent discussion occurring on the #bitcoin-dev IRC channel (see channel log) regarding GPUs:
 

@@ -1,22 +1,12 @@
 ---
+title: Time Of Use Pricing
+seotitle: Time Of Use Electric Pricing 
+description: Time Of Use Electric Pricing Irrelevant
+excerpt: Time-Of-Use Electric Pricing Irrelevant
+keywords: time of use pricing, time-of-use electric pricing
+alt: time of use pricing
+featured: 
 layout: post
-title: Time-of-use electric pricing irrelevant -- Mining is 24x7
-date: '2011-01-21T12:14:00+08:00'
-tags:
-- electric
-- electricity
-- utility
-- bitcoin
-- peak
-- offpeak
-- tier
-- prices
-- electric
-- kwh
-- gpu
-- hashing
-- power
-tumblr_url: http://bitcoinminer.com/post/2858427974/time-of-use-pricing
 ---
 Power plants are capital intensive and operate most efficiently near peak capacity.  
 Long ago utilities moved industrial customers to time-of-use pricing models which give an incentive to move some electric consumption until off-peak periods.

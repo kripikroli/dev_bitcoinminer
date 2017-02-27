@@ -1,20 +1,12 @@
 ---
+title: Difficulty - 16307, Total Network Hashing - 120 Ghash Per Sec
+seotitle: Generating Bitcoin With Difficulty - 16307, Total Network Hashing - 120 Ghash Per Sec
+description: Readjusts Difficulty - 16307, Total Network Hashing - 120 Ghash Per Sec
+excerpt: Hardware With Difficulty - 16307, Total Network Hashing - 120 Ghash Per Sec.
+keywords: generating bitcoin difficulty, bitcoin hashing growth rate
+alt: bitcoin hashing growth rate
+featured: 
 layout: post
-title: 'Difficulty: 16307, Total network hashing: 120 Ghash/sec'
-date: '2011-01-03T15:00:00+08:00'
-tags:
-- bitcoin
-- hashing
-- supercomputer
-- distributed computing
-- difficulty
-- ghash
-- ghash/s
-- ghash/sec
-- khash
-- sec
-- second
-tumblr_url: http://bitcoinminer.com/post/2584599619/difficulty-16307-hashing-120ghash-sec
 ---
 Earlier today the Difficulty threshold for generating Bitcoin went from 14484 to 16307.  The difficulty readjusts every 2,016 blocks and today this happened today at block 10,800.
 This puts the hashing strength of the entire Bitcoin network at roughly 120 Ghash/s.  While it is difficult to compare this performance to the levels that supercomputers provide, or to that found in other distributed computing projects, Bitcoin''s hashing growth rate is likely unparalleled for projects of this size.
