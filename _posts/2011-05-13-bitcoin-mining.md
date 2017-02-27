@@ -1,6 +1,6 @@
 ---
 title: Bitcoin Mining - Three Months Later
-seotitle: The Bitcoin Mining: Three Months Later
+seotitle: The Bitcoin Mining - Three Months Later
 description: Bitcoin Mining - Three Months Later
 excerpt: The miner narrating felt it was was time for a follow up.
 keywords: bitcoin mining, bitcoin miner
