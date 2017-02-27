@@ -1,30 +1,12 @@
 ---
+title: Arstechnica Inside Bitcoin
+seotitle: Arstechnica - Whats Inside Bitcoin
+description: Bitcoin: inside the encrypted, peer-to-peer digital currency.
+excerpt: ArsTechnica - Bitcoin inside the encrypted, peer-to-peer digital currency.
+keywords: arstechnica inside bitcoin, arstechnica inside btc
+alt: arstechnica inside bitcoin
+featured: 
 layout: post
-title: 'ArsTechnica - Bitcoin: inside the encrypted, peer-to-peer digital currency'
-date: '2011-06-08T18:36:00+08:00'
-tags:
-- bitcoin
-- mining
-- miner
-- mine
-- miners
-- bitcoin miner
-- bitcoinminer
-- arstechnica
-- thomas
-- lowenthal
-- thomas lowenthal
-- double-spending
-- double
-- spend
-- spending
-- double spend
-- block chain
-- blockchain
-- overview
-- bitcoin
-- bitcoins
-tumblr_url: http://bitcoinminer.com/post/6333433965/arstechnica-inside-bitcoin
 ---
 ArsTechnica - Bitcoin: inside the encrypted, peer-to-peer digital currencyThis article by Thomas Lowenthal on ArsTechnica provides a good overview on mining:
 
