@@ -1,9 +1,12 @@
 ---
+title: Seven Million BTC Milestone
+seotitle: The Seven Million BTC Milestone
+description: Seven Million BTC Milestone
+excerpt: Milestone - Seven Million Bitcoins Issued
+keywords: btc milestone, btc milestone
+alt: btc milestone
+featured: 
 layout: post
-title: seven million btc milestone
-date: '2011-08-08T03:12:55+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/8637059800/seven-million-btc-milestone
 ---
 bitcoin:
 
