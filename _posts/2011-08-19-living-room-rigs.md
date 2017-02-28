@@ -1,24 +1,12 @@
 ---
+title: Living Room Rigs
+seotitle: The Living Room Rigs
+description: Living Room Rigs
+excerpt: Normal PC mining rigs
+keywords: living room rigs, normal pc mining rigs
+alt: living room rigs
+featured: 
 layout: post
-title: living room rigs
-date: '2011-08-19T15:54:00+08:00'
-tags:
-- bitcoin
-- mining
-- miner
-- rig
-- rigs
-- bitcoins
-- living room
-- everyday
-- pc
-- radeon
-- radeon 5830
-- hd 5830
-- amd
-- ati
-- graphics card
-tumblr_url: http://bitcoinminer.com/post/9132918483/living-room-rigs
 ---
 Photos: Normal PC mining rigs
 Though custom cases and massive mining operations get a lot of attention, most mining is still performed by the thousands of graphics cards, one or two at a time mounted in normal, everyday PCs.
