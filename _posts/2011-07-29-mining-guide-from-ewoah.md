@@ -1,27 +1,12 @@
 ---
+title: Mining Guide From Ewoah
+seotitle: The Mining Guide From Ewoah
+description: Mining Guide From Ewoah
+excerpt: Eric Zhivalyuk ewoah put together a comprehensive mining guide describing equipment configurations.
+keywords: ewoah guide, guide from ewoah
+alt: ewoah guide
+featured: 
 layout: post
-title: mining guide from ewoah
-date: '2011-07-29T16:42:57+08:00'
-tags:
-- mining cluster,r
-- bitcoin
-- miner
-- mining
-- guide
-- Eric Zhivalyuk
-- ewoah
-- comprehensive
-- configuration
-- configurations
-- cluster
-- ig
-- rigs
-- mining rigs
-- guide
-- scripts
-- methods
-- script
-tumblr_url: http://bitcoinminer.com/post/8227769043/mining-guide-from-ewoah
 ---
 Eric Zhivalyuk (@ewoah) put together a comprehensive mining guide describing equipment configurations, methods and scripts used to put together a mining cluster.
 
