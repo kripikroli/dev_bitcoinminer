@@ -1,16 +1,12 @@
 ---
+title: Open Rig Case Loud
+seotitle: The Open Rig Case Loud
+description: Open Rig Case Loud
+excerpt: More custom cases, open and loud.
+keywords: rig case loud, open rig case
+alt: rig case loud
+featured: 
 layout: post
-title: open rig case loud
-date: '2011-07-08T23:44:00+08:00'
-tags:
-- bicoin
-- bitcoin miner
-- bitcoin mining
-- bitcoins
-- miner
-- mining
-- loud
-tumblr_url: http://bitcoinminer.com/post/7405901922/open-rig-case-loud
 ---
 More custom cases, open and loud
 But that’s how to mine like a boss!
