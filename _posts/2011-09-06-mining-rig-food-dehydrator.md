@@ -1,24 +1,12 @@
 ---
+title: Mining Rig Food Dehydrator
+seotitle: The Mining Rig Food Dehydrator
+description: Mining Rig Food Dehydrator
+excerpt: Put Bitcoin Mining Rig Heat Exhaust To Good Use
+keywords: mining rig food dehydrator, bitcoin mining rig
+alt: mining rig food dehydrator
+featured: 
 layout: post
-title: no title
-date: '2011-09-06T15:45:00+08:00'
-tags:
-- bitcoin
-- miner
-- mining
-- bitcoin miner
-- food dehydrator
-- dehydrator
-- heat
-- excess heat
-- venting
-- mining rig
-- rig
-- ghash
-- exhaust
-- bitcoin
-- bitcoins
-tumblr_url: http://bitcoinminer.com/post/9885929642/mining-rig-food-dehydrator
 ---
 Put Bitcoin Mining Rig Heat Exhaust To Good Use
 Rather than just venting away the heat, this miner has a novel use for the byproduct of Bitcoin mining.  Bitcoin rigs make “excellent food dehydrators”, reportedly.
