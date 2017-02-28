@@ -1,21 +1,12 @@
 ---
+title: Bitcoin Revenue Calculator
+seotitle: The Bitcoin Revenue Calculator
+description: Bitcoin Revenue Calculator
+excerpt: Beamers Bitcoin Revenue Calculator
+keywords: bitcoin revenue calculator, btc revenue calculator
+alt: bitcoin revenue calculator
+featured: 
 layout: post
-title: 'Beamer''s Bitcoin Revenue Calculator '
-date: '2011-07-10T18:19:00+08:00'
-tags:
-- bitcoin
-- mining
-- calculator
-- revenue
-- production
-- output
-- income
-- earning
-- miner
-- bitcoin miner
-- beamer
-- bitcoins
-tumblr_url: http://bitcoinminer.com/post/7468683316/bitcoin-revenue-calculator
 ---
 Beamer''s Bitcoin Revenue Calculator A post in the Bitcoin forum by community member Beamer leads to the Bitcoin Detailed Calculator.
 This mining revenue calculator takes into account future difficulty adjustments based on your estimated rate of change.
