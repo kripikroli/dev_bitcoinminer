@@ -1,23 +1,12 @@
 ---
+title: All Thing IT - FPGA Bitcoin Mining is Stupid
+seotitle: All Things IT - Why the idea of FPGA Bitcoin Mining is stupid
+description: All Thing IT - FPGA Bitcoin Mining is Stupid
+excerpt: FPGA hardware should not be an acceptable alternative for Bitcoin mining.
+keywords: fgpa mining hardware, hack fgpa miner
+alt: fgpa mining hardware
+featured: 
 layout: post
-title: 'All Things IT: Why the idea of FPGA Bitcoin Mining is stupid'
-date: '2011-08-30T22:28:00+08:00'
-tags:
-- bitcoin
-- mining
-- miner
-- mine
-- bitcoins
-- fpga
-- field programmable gate array
-- asic
-- hardware
-- gpu
-- graphics card
-- comparison
-- profitability
-- review
-tumblr_url: http://bitcoinminer.com/post/9612343341/all-things-it-fpga-bitcoin-mining
 ---
 All Things IT: Why the idea of FPGA Bitcoin Mining is stupidAn argument is made as to why the higher cost of FPGA hardware should not be an acceptable alternative for Bitcoin mining.  Excerpts:
 
