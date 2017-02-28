@@ -1,31 +1,12 @@
 ---
+title: MTGOX Security Incident June 19
+seotitle: The MTGOX Security Incident June 19
+description: MTGOX Security Incident June 19
+excerpt: Information on this appeared in multiple status update.
+keywords: mtgox security incident, bitcoin mining
+alt: mtgox security incident,
+featured: 
 layout: post
-title: So why haven't you had a story or article on the mtgox crash yet?
-date: '2011-06-20T01:30:00+08:00'
-tags:
-- mtgox
-- exchange
-- data breach
-- breach
-- data
-- security breach
-- security incident
-- security
-- mt.
-- gox
-- mt gox
-- mtgox
-- mt. gox
-- compromise
-- email
-- username
-- password
-- passwords
-- information
-- bitcoin
-- bitocins
-- bitcoins
-tumblr_url: http://bitcoinminer.com/post/6714617673/mtgox-security-incident-june-19
 ---
 Information on this appeared in multiple status update retweets seen in on our @BitcoinMiner Twitter account many hours ago.
 If anyone is not already aware, Bitcoin’s leading exchange Mt. Gox had a security incident recently in which data was stolen and then used to fraudulently trade.  Following that, the stolen data was released “in the wild”.

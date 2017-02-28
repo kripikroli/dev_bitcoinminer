@@ -1,33 +1,12 @@
 ---
+title: Pcper Power Usage Costs
+seotitle: The Pcper Power Usage Costs
+description: Pcper Power Usage Costs
+excerpt: Following an earlier article comparing various GPU hardware for Bitcoin mining.
+keywords: pcper power usage costs, pcper power usage
+alt: pcper power usage costs
+featured: 
 layout: post
-title: pcper power usage costs
-date: '2011-07-13T21:56:00+08:00'
-tags:
-- bitcoin
-- electric
-- electricity
-- power
-- electric rate
-- rates
-- power rate
-- utility rate
-- utility
-- kwh
-- mwh
-- watt
-- watts
-- ryanshrout
-- ryan
-- shrout
-- pc per
-- pcper
-- pc perspective
-- gpu
-- hardware
-- mining
-- rig
-- mining rig
-tumblr_url: http://bitcoinminer.com/post/7596643656/pcper-power-usage-costs
 ---
 Following an earlier article comparing various GPU hardware for Bitcoin mining, Ryan Shrout (@RyanShrout) of PC Perspective put out a power usage costs comparison:
 

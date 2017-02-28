@@ -1,9 +1,12 @@
 ---
+title: Worth Starting To Mine For Bitcoins
+seotitle: Is It Worth Starting To Mine For Bitcoins
+description: Is it worth starting to mine for bitcoins at this point?
+excerpt: Worth Starting To Mine For Bitcoins
+keywords: mine for bitcoins, starting to mine bitcoins
+alt: mine for bitcoins
+featured: 
 layout: post
-title: Is it worth starting to mine for bitcoins at this point?
-date: '2011-06-10T21:09:28+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/6402703138/is-it-worth-starting-to-mine-for-bitcoins-at-this
 ---
 Mining profitability is among the best it has ever been.
 http://bitcoin.atspace.com/income.html

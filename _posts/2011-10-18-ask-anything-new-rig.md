@@ -1,24 +1,12 @@
 ---
+title: Investing Small Mining Operation
+seotitle: Investing Small Mining Operation With Friends
+description: Investing Small Mining Operation
+excerpt: The revenue from mining is now for nearly all miners below the cost of their electricity. 
+keywords: small mining operation, investing small mining
+alt: small mining operation
+featured: 
 layout: post
-title: Hello, my friend and I are thinking about investing in a small mining operation.
-  I realize things are slow right now what with the exchanges, but we're patient and
-  feel that prices will go up again. As what I read varies from post to post, and
-  opinions on tech change so quickly, I ask you--if you were to build a basic rig
-  right now for 500-1000 dollars, what would you use? I realize every beginner might
-  ask, but it's good to have a fresh answer.
-date: '2011-10-18T14:26:00+08:00'
-tags:
-- bitcoin
-- miner
-- mining
-- bitcoin miner
-- hardware
-- small mining operation
-- economics
-- economy
-- exchange rate
-- speculation
-tumblr_url: http://bitcoinminer.com/post/11618474917/ask-anything-new-rig
 ---
 
 realize things are slow right now what with the exchanges, but we’re patient 

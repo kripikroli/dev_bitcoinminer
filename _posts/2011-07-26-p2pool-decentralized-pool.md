@@ -1,27 +1,12 @@
 ---
+title: P2Pool Decentralized Pool
+seotitle: The P2Pool Decentralized Pool
+description: P2Pool Decentralized Pool
+excerpt: P2Pool Decentralized Pool Nearly Ready For Prime
+keywords: p2pool decentralized pool, bitcoin miner
+alt: p2pool decentralized pool
+featured: 
 layout: post
-title: P2Pool Decentralized Pool Nearly Ready For Prime-Time
-date: '2011-07-26T18:10:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- decentralized
-- diablo
-- diablominer
-- fast long polling
-- fork
-- forked
-- forrestv
-- long polling
-- long-polling
-- miner
-- mining
-- p2p
-- p2pool
-- poclbm
-- pool
-- cgminer
-tumblr_url: http://bitcoinminer.com/post/8101660461/p2pool-decentralized-pool
 ---
 P2Pool Decentralized Pool Nearly Ready For Prime-TimeA project to create the first decentralized Bitcoin mining pool, P2Pool, appears to be making headway.
 P2Pool mining nodes work on a chain of shares similar to Bitcoin’s blockchain.  There is no central point of failure and thus P2Pool becomes DoS resistant.

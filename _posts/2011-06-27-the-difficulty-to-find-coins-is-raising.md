@@ -1,11 +1,12 @@
 ---
+title: The Difficulty To Find Coins Is Raising Exponential
+seotitle: Difficulty To Find Coins Is Raising Exponential
+description: That doesnt mean mining is not profitable
+excerpt: according to bitcoin sipa
+keywords: difficulty to find coins, finding coins
+alt: difficulty to find coins
+featured: 
 layout: post
-title: The difficulty to find coins is raising exponential (according to bitcoin sipa
-  be), if the price of the bitcoins does not also raise exponential, will mining become
-  unprofitable shortly?
-date: '2011-06-27T06:10:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/6970245108/the-difficulty-to-find-coins-is-raising
 ---
 If you look at the “All Time Chart” on the Mining Profitability site you will see that the green line (BTC mining profitability) is at about its all time low.
 That doesn’t mean mining is not profitable – that depends on local variables, such as hardware used, cost of electicity, etc.

@@ -1,9 +1,12 @@
 ---
+title: Generating Coins With Bitcoin Beta Running
+seotitle: How To Generate Coins With Bitcoin Beta Running?
+description: Generating Coins With Bitcoin Beta Running
+excerpt: The answer is that you most likely are not.
+keywords: generating bitcoins, bitcoin beta running
+alt: generating bitcoins
+featured: 
 layout: post
-title: I have bitcoin beta running.  Am I generating any coin?
-date: '2011-06-14T20:33:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/6538290321/i-have-bitcoin-beta-running-am-i-generating-any
 ---
 The answer is that you most likely are not.
 The latest release of the Bitcoin client (v0.3.23) no longer includes any mining component.

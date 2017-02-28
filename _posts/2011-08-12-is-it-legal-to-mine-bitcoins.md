@@ -1,9 +1,12 @@
 ---
+title: Is It Legal To Mine Bitcoins?
+seotitle: Legal To Mine Bitcoins
+description: Is It Legal To Mine Bitcoins?
+excerpt: legal to mine bitcoins
+keywords: legal to mine bitcoins, legal bitcoin mining
+alt: legal to mine bitcoins
+featured: 
 layout: post
-title: is it legal to mine bitcoins?
-date: '2011-08-12T07:20:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/8818606599/is-it-legal-to-mine-bitcoins
 ---
 First a disclaimer.  This is not legal advice.  For legal advice, contact your attorney.
 The output of mining is blocks of data that essentially are batches of transaction entries that are notarized by the software the miner runs.  There likely isn’t a single jurisdiction on the globe where preparing that block of data would not be legal.

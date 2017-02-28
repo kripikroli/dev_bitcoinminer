@@ -1,23 +1,12 @@
 ---
+title: Bitcoin Mining Work
+seotitle: The Bitcoin Mining Work
+description: Bitcoin Mining Work
+excerpt: Genjix Descibes The “Work” That Bitcoin Mining Performs A 
+keywords: bitcoin mining work, genjix mining
+alt: bitcoin mining work
+featured: 
 layout: post
-title: bitcoin mining work
-date: '2012-01-25T00:14:55+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- bitcoin mining
-- hashing
-- proof of work
-- gejix
-- amir taaki
-- bitcoinmedia
-- work
-- hash
-- algorithm
-- difficulty
-tumblr_url: http://bitcoinminer.com/post/16452216459/bitcoin-mining-work
 ---
 Genjix Descibes The “Work” That Bitcoin Mining Performs
 A post by Amir Taaki (genjix) on Bitcoin Media (@BitcoinMedia) describes how and why bitcoin mining performs “work”.  Excerpts:

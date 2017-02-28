@@ -1,9 +1,12 @@
 ---
-layout: post
 title: I am new to bitcoin mining how do I get started?
-date: '2011-06-10T21:00:35+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/6402419034/i-am-new-to-bitcoin-mining-how-do-i-get-started
+seotitle: How do I get started with Bitcoin?
+description: I am new to bitcoin mining.
+excerpt: If you have decent GPU hardware, your more than halfway there.
+keywords: get started with bitcoin, get started with btc
+alt: get started with bitcoin
+featured: 
+layout: post
 ---
 If you have decent GPU hardware, your more than halfway there.
 Take a look at the hardware comparison chart to see whether or not mining is something you are equipped for:

@@ -1,28 +1,12 @@
 ---
+title: Mining Factor Chart
+seotitle: The Mining Factor Chart
+description: Mining Factor Chart
+excerpt: Chart - Mining Factor
+keywords: mining factor chart, chart mining factor
+alt: mining factor chart
+featured: 
 layout: post
-title: mining factor chart
-date: '2011-08-11T04:53:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- profitability
-- revenue
-- costs
-- electric
-- electricity
-- bitcoin miner
-- bitcoin mining
-- rig
-- rigs
-- mining factor
-- mhash/s
-- mhash
-- ghash
-- ghash/s
-- daily
-tumblr_url: http://bitcoinminer.com/post/8772622463/mining-factor-chart
 ---
 Chart - Mining Factor - USD/24h@100MHash/s
 The Mining Factor chart (in green, above) published by BitcoinX shows mining revenue received over a 24 hour period for each 100 MHash/s of capacity.  An typical $1,800 rig producing 1.4 GHash/s then will, at current levels, bring in about $8 per day of revenue.

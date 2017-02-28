@@ -1,20 +1,12 @@
 ---
+title: Learn 2 Bitcoin 5 Ghash
+seotitle: How To Learn 2 Bitcoin 5 Ghash
+description: Learn 2 Bitcoin 5 Ghash
+excerpt: Video - 5 GHashs Custom Configuration
+keywords: bitcoin 5 ghash, 5 ghash custom configuration
+alt: bitcoin 5 ghash
+featured: 
 layout: post
-title: no title
-date: '2011-08-20T20:11:54+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- bitcoin mining
-- miner
-- learn 2 bitcoin
-- learn2bitcoin
-- l2bitcoin
-- rig
-- mining rig
-- chassis
-tumblr_url: http://bitcoinminer.com/post/9185044016/learn-2-bitcoin-5-ghash
 ---
 Video - 5 GHash/s Custom Configuration
 Learn 2 Bitcoin has added capacity to their rig, bringing the total inside this custom multi-rig chassis to GHash/s.

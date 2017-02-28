@@ -1,22 +1,12 @@
 ---
+title: Bitcoin Mining Summary
+seotitle: The Bitcoin Mining Summary
+description: Bitcoin Mining Summary
+excerpt:  Mined during 2011 were blocks 100410 through 160036 with each being awarded 50 BTC.
+keywords: mining summary, btc mining summary
+alt: btc mining summary
+featured: 
 layout: post
-title: Bitcoin Mining A $16.7m Industry In 2011
-date: '2012-01-04T00:39:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- taxes
-- total
-- '2011'
-- annual
-- production
-- industry
-- tax compliance
-- bitcoin miner
-- bitcoin mining
-- summary
-- year-end
-tumblr_url: http://bitcoinminer.com/post/15283003026/2011-mining-summary
 ---
 Mined during 2011 were blocks 100410 through 160036 with each being awarded 50 BTC.  As a result, about 2.98 million BTC were issued. With the average daily price (exchange rate) of $5.60, that means Bitcoin mining is roughly a $16.7 million industry when considering just the value of the coins as they were mined.  Transaction fees add to that total, but are irrelevant yet and represented only a small fraction of one percent of the total value of the currency issued for the year.
 That $16.7m amount coincidentally, is about the same cost level estimated in order to procure all the hardware necessary to mine at the higher levels that existed back when Bitcoin was breaking hashing records earlier in the year.
