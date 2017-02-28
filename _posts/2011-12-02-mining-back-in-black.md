@@ -1,20 +1,12 @@
 ---
+title: Mining Back In Black
+seotitle: The Mining Back In Black
+description: Mining Back In Black
+excerpt: Mining Profitability - Back In Black
+keywords: mining back in black, back in black
+alt: mining back in black
+featured: 
 layout: post
-title: mining back in black
-date: '2011-12-02T06:44:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- rally
-- breakeven
-- black
-- black friday
-- hd 5970
-- ati
-- radeon
-tumblr_url: http://bitcoinminer.com/post/13630874960/mining-back-in-black
 ---
 Mining Profitability - Back In Black
 Thanks to a steadily declining mining difficulty level, mining profitability at around today’s $3 BTC/USD has returned to nearly the same level as when the BTC/USD was a little above $4 two months ago.
