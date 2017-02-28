@@ -1,19 +1,12 @@
 ---
+title: Hack A Day FGPA Mining Hardware
+seotitle: Hack A Day - FPGA bitcoin mining
+description: Hack A Day FGPA Mining Hardware
+excerpt: A post on Hack A Day features the first commercially available.
+keywords: fgpa mining hardware, hack fgpa miner
+alt: fgpa mining hardware
+featured: 
 layout: post
-title: hack a day fpga mining hardware
-date: '2011-08-22T18:54:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- bitcoin miner
-- fpga miner
-- fpga mining
-- fpga
-- cablesaurus
-- low-power
-tumblr_url: http://bitcoinminer.com/post/9268040136/hack-a-day-fpga-mining-hardware
 ---
 Hack A Day - FPGA bitcoin mining
 A post on Hack A Day features the first commercially available FGPA Bitcoin mining hardware.  Excerpts:
