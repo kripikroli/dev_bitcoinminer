@@ -1,23 +1,12 @@
 ---
+title: Securelist P2P Mining Botnet
+seotitle: The Securelist P2P Mining Botnet
+description: Securelist P2P Mining Botnet
+excerpt: The Miner Botnet - Bitcoin Mining Goes Peer-To-Peer
+keywords: securelist p2p mining, p2p mining botnet
+alt: securelist p2p mining
+featured: 
 layout: post
-title: securelist p2p mining botnet
-date: '2011-08-19T14:42:00+08:00'
-tags:
-- securelist
-- kaspersky lab
-- kaspersky
-- tillman werner
-- anti-virus
-- antivirus
-- malware
-- infection
-- infected
-- peer-to-peer
-- peer
-- p2p
-- peer to peer
-- botnet
-tumblr_url: http://bitcoinminer.com/post/9130409616/securelist-p2p-mining-botnet
 ---
 The Miner Botnet: Bitcoin Mining Goes Peer-To-Peer
 Tillmann Werner, security expert for antivirus software vendor Kapersky Lab posted his research and analysis of a Bitcoin mining botnet that has become a “highly interconnected network”.
