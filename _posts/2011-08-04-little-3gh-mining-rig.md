@@ -1,24 +1,12 @@
 ---
+title: Little 3Gh Mining Rig
+seotitle: The Little 3Gh Mining Rig
+description: Little 3Gh Mining Rig
+excerpt: The most recent rig video uploaded to YouTUbe.
+keywords: mining rig, 3gh mining rig
+alt: mining rig
+featured: 
 layout: post
-title: no title
-date: '2011-08-04T05:40:15+08:00'
-tags:
-- video
-- bitcoin
-- bitcoins
-- rig
-- mining
-- bitcoin mining
-- bitcoin miner
-- miner
-- ati
-- '5970'
-- '5870'
-- radeon
-- hd 5970
-- hd 5870
-- ghash
-tumblr_url: http://bitcoinminer.com/post/8466900066/little-3gh-mining-rig
 ---
 Little 3GH Mining Rig
 The most recent rig video uploaded to YouTUbe.
