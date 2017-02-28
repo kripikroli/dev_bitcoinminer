@@ -1,20 +1,12 @@
 ---
+title: One Year Left of BTC Reward
+seotitle: One Year Left of 50 BTC Reward
+description: One Year Left of BTC Reward
+excerpt: Bitcoin Currency Inflation Rate Will Drop 50 Next Year 
+keywords: btc reward, bitcoin reward
+alt: btc reward
+featured: 
 layout: post
-title: Bitcoin Currency Inflation Rate Will Drop 50% Next Year
-date: '2011-12-21T15:58:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- issuance
-- block reward
-- inflation
-- digital currency
-- mining
-- miner
-- bitcoin miner
-- adjustment
-- difficulty
-tumblr_url: http://bitcoinminer.com/post/14577887124/one-year-left-of-50-btc-reward
 ---
 Every bitcoin in existance first passes through the hands of a Bitcoin Miner.
 That is how the currency is issued.
