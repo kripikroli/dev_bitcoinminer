@@ -1,24 +1,12 @@
 ---
+title: Video - Liquid Nitrogen Cooling
+seotitle: Video - The Liquid Nitrogen Cooling
+description: Video - Liquid Nitrogen Cooling
+excerpt: Video - Liquid Nitrogen Cooling System Team
+keywords: liquid nitrogen cooling, liquid nitrogen cooling system
+alt: liquid nitrogen cooling
+featured: 
 layout: post
-title: no title
-date: '2011-10-06T19:01:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- miner
-- bitcoin mining
-- bitcoin miner
-- liquid nitrogen
-- nitrogen
-- cooling
-- cool
-- refrigeration
-- coolant
-- air conditioning
-- heat
-- excess heat
-tumblr_url: http://bitcoinminer.com/post/11116694238/video-liquid-nitrogen-cooling
 ---
 Video: Liquid Nitrogen Cooling System
 TeamNexGen shows in this video a blast of liquid nitrogen as a method to cool down a few rigs.
