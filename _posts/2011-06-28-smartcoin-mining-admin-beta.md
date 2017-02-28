@@ -1,15 +1,12 @@
 ---
+title: SmartCoin Mining Admin Beta
+seotitle: The SmartCoin Mining Admin Beta
+description: SmartCoin Mining Admin Beta
+excerpt: SmartCoin miner administration system BETA released
+keywords: smartcoin mining beta, smartcoin mining admin beta 
+alt: smartcoin mining beta
+featured: 
 layout: post
-title: SmartCoin miner administration system BETA released
-date: '2011-06-28T14:54:00+08:00'
-tags:
-- smartcoin
-- miner
-- administration
-- pool
-- mining
-- rig
-tumblr_url: http://bitcoinminer.com/post/7017626918/smartcoin-mining-admin-beta
 ---
 SmartCoin miner administration system BETA releasedSmartCoin is a full load-balanced system that tracks all of the miner instances on a machine, and reports everything on one easy to view screen.
 The beta version of the software, which can be used on Linux, was recently released.
