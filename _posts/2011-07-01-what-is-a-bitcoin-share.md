@@ -1,9 +1,12 @@
 ---
-layout: post
 title: What is a bitcoin share?
-date: '2011-07-01T18:53:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/7135512094/what-is-a-bitcoin-share
+seotitle: About is a bitcoin share
+description: What is a bitcoin share?
+excerpt: With PPS, work towards solving a block is divvied up into many, many shares.
+keywords: bitcoin share, btc share
+alt: bitcoin share
+featured: 
+layout: post
 ---
 Hmm … you probably are referring to the word share as it is used in pooled mining as part of the method for rewarding miners.
 There are dozens of mining pools, and each can have different methods for compensating the miners who help to solve blocks.
