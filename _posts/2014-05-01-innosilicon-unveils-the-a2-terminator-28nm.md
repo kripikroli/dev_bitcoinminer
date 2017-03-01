@@ -1,9 +1,12 @@
 ---
+title: Innosilicon Unveils The A2 Terminator, 28nm 1.8MH/s ASIC
+seotitle: Innosilicon - Unveils The A2 Terminator, 28nm 1.8MH/s ASIC
+description: Innosilicon Unveils The A2 Terminator, 28nm 1.8MH/s ASIC
+excerpt: Chinese chipmaker Innosilicon recently announced the launch of a new line of highly efficient 28nm.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Innosilicon Unveils The A2 "Terminator," 28nm 1.8MH/s ASIC
-date: '2014-05-01T22:45:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/84483730004/innosilicon-unveils-the-a2-terminator-28nm
 ---
 
 
