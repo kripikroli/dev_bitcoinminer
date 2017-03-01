@@ -1,12 +1,13 @@
 ---
+title: Does Dogecoins new merged mining with Litecoin signal the start of alt-coin consolidation?
+seotitle: Litecoin signal the start of alt-coin consolidation
+description: Litecoin signal the start of alt-coin consolidation
+excerpt: Doge assets The alt-coin mining world has been abuzz this week
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Does Dogecoin's new merged mining with Litecoin signal the start of alt-coin
-  consolidation?
-date: '2014-08-07T13:00:18+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/94077047810/does-dogecoins-new-merged-mining-with-litecoin
 ---
-
 
 Image source: Doge assets
 The alt-coin mining world has been abuzz this week after the recent announcement by the Dogecoin development team that the Scrypt-based crypto would be introducing auxiliary proof of work (AuxPoW) in the next core update. While many of the discussions have been about the impact of a hard fork on a coin that is already experiencing a decline in network power, many have focused on the upshot: Merged mining with other Scrypt-based coins, such as Litecoin.
