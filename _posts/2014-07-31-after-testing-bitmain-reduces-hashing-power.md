@@ -1,9 +1,12 @@
 ---
-layout: post
 title: After testing, Bitmain reduces hashing power estimate for S3
-date: '2014-07-31T13:00:21+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/93415723281/after-testing-bitmain-reduces-hashing-power
+seotitle: Bitmain reduces hashing power estimate for S3
+description: After testing, Bitmain reduces hashing power estimate for S3
+excerpt: Mining hardware maker Bitmain found themselves in an embarrassing situation recently
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 Mining hardware maker Bitmain found themselves in an embarrassing situation recently, as hashing power estimates for their much-anticipated Antminer S3 had to be lowered by nearly 8% following pre-shipping tests. The company had claimed that the new generation of their popular ASIC line would deliver a very respectable 478 GH/s, but testing revealed that not all of the S3’s DC/DC modules were stable enough to deliver that speed.
