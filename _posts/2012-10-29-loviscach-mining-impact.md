@@ -1,23 +1,12 @@
 ---
+title: Loviscach Mining Impact
+seotitle: The Loviscach Mining Impact
+description: Loviscach Mining Impact
+excerpt: Bitcoin - Environmental Impact, and Introduction To Pool Mining
+keywords: loviscach mining impact, bitcoin mining
+alt: loviscach mining impact
+featured: 
 layout: post
-title: no title
-date: '2012-10-29T13:25:00+08:00'
-tags:
-- Jörn Loviscach
-- bitcoin
-- bitcoins
-- mining
-- bitcoin mining
-- environment
-- sustainability
-- currency
-- paper currency
-- electricity
-- consumption
-- electrical
-- power consumption
-- power
-tumblr_url: http://bitcoinminer.com/post/34573873305/loviscach-mining-impact
 ---
 Bitcoin - Environmental Impact, and Introduction To Pool Mining
 This video is Jörn Loviscach’s talk on Bitcoin mining given at a workshop in September during the Gesellschaft für Informatik 2012 conference.  He describes the environmental impact of Bitcoin.
