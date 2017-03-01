@@ -1,19 +1,12 @@
 ---
+title: Khalahan And Namecoin Interview
+seotitle: The Khalahan And Namecoin Interview
+description: Khalahan And Namecoin Interview
+excerpt: Coinabul Blog - Interview with Khalahan - Namecoins Lead Developer bitcoin
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: 'Coinabul Blog: Interview with Khalahan - Namecoin''s Lead Developer'
-date: '2012-06-25T22:12:32+08:00'
-tags:
-- bitcoin
-- bitcoins
-- namecoin
-- khalahan
-- coinabul
-- key/value
-- datastore
-- dns
-- dot-bit
-- vinced
-tumblr_url: http://bitcoinminer.com/post/25897829180/khalahan-and-namecoin-interview
 ---
 Coinabul Blog: Interview with Khalahan - Namecoin''s Lead Developerbitcoin:
 
