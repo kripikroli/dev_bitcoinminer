@@ -1,12 +1,13 @@
 ---
+title: KnCMiner to cease mining hardware sales 
+seotitle: The KnCMiner to cease mining hardware sales 
+description: KnCMiner to cease mining hardware sales 
+excerpt: KnCMiners Arctic Cloud facility in Sweden. 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: KnCMiner to cease mining hardware sales to customers in favor of hosted, cloud-based
-  model
-date: '2014-09-08T19:12:56+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/97008077999/kncminer-to-cease-mining-hardware-sales-to
 ---
-
 
 KnCMiner’s “Arctic Cloud” facility in Sweden.
 According to the Wall Street Journal, KnCMiner is out of the home cryptocurrency mining market. The mining hardware maker behind the Saturn, Jupiter and Titan lines told the news outlet that even with $70 million in first-year sales, direct sales to customers was rapidly becoming a losing game. The company plans to reposition itself as a cloud-based mining operation and chip designer, relying heavily on the $14 million cash injection it received from Creandum to launch a new dedicated hashing center.
