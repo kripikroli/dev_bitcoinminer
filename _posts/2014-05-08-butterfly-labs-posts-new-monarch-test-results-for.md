@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Butterfly Labs posts new Monarch test results for 28nm chips
-date: '2014-05-08T13:00:47+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/85132173095/butterfly-labs-posts-new-monarch-test-results-for
+seotitle: Posts new Monarch test results for 28nm chips
+description: Butterfly Labs posts new Monarch test results for 28nm chips
+excerpt: What does that translate to in real world numbers?
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 Source: https://forums.butterflylabs.com/blogs/bfl_josh/386-monarch-update-30-april-2014.html
