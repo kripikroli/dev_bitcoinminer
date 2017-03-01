@@ -1,27 +1,12 @@
 ---
-layout: post
 title: David Perry - Bitcoin Mining In Plain English
-date: '2012-09-07T15:07:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- david perry
-- KJ6CCZ
-- hash
-- hashes
-- pool
-- block
-- blockchain
-- difficulty
-- guide
-- howto
-- beginner
-- bitcoin mining
-- bitcoin miner
-- introduction
-tumblr_url: http://bitcoinminer.com/post/31068348425/plain-english-mining-intro
+seotitle: Bitcoin Mining In Plain English
+description: David Perry - Bitcoin Mining In Plain English
+excerpt: The more miners there are, the higher the difficulty goes.
+keywords: bitcoin mining explained, bitcoin miner
+alt: bitcoin mining explained
+featured: 
+layout: post
 ---
 David Perry - Bitcoin Mining In Plain EnglishA blog post by David Perry (@KJ6CCZ) gives a thorough explanation of how mining works without any of the specific details that “might scare the non-techies”.  Excerpts:
 
