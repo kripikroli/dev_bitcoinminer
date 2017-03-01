@@ -1,21 +1,12 @@
 ---
+title: Kinlo Pool Chart
+seotitle: The Kinlo Pool Chart
+description: Kinlo Pool Chart
+excerpt: Bitcoin Block Origin Chart
+keywords: bitcoin mining rig extraordinaire, bitcoin mining rig
+alt: bitcoin mining rig extraordinaire
+featured: 
 layout: post
-title: kinlo pool chart
-date: '2012-04-28T18:22:16+08:00'
-tags:
-- bitcoin
-- bitcoins
-- pool
-- miner
-- mining
-- bitcoin mining
-- bitcoin pool
-- mining pool
-- pools
-- kinlo
-- blockorigin
-- blockorigin.pfoe.be
-tumblr_url: http://bitcoinminer.com/post/22006583124/kinlo-pool-chart
 ---
 Bitcoin Block Origin Chart
 Forum member kinlo shares his new site with an interactive real-time pie chart showing hashing levels for each pool.
