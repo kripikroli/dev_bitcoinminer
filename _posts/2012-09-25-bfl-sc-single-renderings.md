@@ -1,28 +1,12 @@
 ---
+title: 	BFL SC Single Renderings
+seotitle: The BFL SC Single Renderings
+description: BFL SC Single Renderings
+excerpt: BitForce Single SC - Preliminary Renderings David Perry
+keywords: bfl sc single, bfl sc single renderings
+alt: bfl sc single
+featured: 
 layout: post
-title: bfl sc single renderings
-date: '2012-09-25T16:02:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- miner
-- asic
-- bfl
-- butterfly labs
-- butterflylabs
-- josh
-- Sonny Vleiside
-- david perry
-- bitforce
-- sc
-- circuit board
-- printed circuit board
-- pcb
-- investment
-- risk
-- pre-sales
-tumblr_url: http://bitcoinminer.com/post/32277639535/bfl-sc-single-renderings
 ---
 BitForce Single ‘SC’ - Preliminary Renderings
 David Perry (@KJ6CCZ), who recently interviewed Butterfly Lab’s Sonny Vleiside, published a rendering of a circuit board that could be the first ASIC to reach the Bitcoin mining market. 
