@@ -1,9 +1,12 @@
 ---
-layout: post
 title: GHash.io claims nearly $250 million in BTC mined in first year
-date: '2014-08-05T18:45:27+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/93913000469/ghashio-claims-nearly-250-million-in-btc-mined
+seotitle: $250 million in BTC mined in first year
+description: GHash.io claims nearly $250 million in BTC mined in first year
+excerpt: It may seem strange, given its now-significant impact on the bitcoin mining community
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 
