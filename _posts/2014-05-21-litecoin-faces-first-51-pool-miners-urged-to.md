@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Litecoin faces first 51% pool, miners urged to leave Coinotron
-date: '2014-05-21T14:17:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/86422905049/litecoin-faces-first-51-pool-miners-urged-to
+seotitle: The Litecoin faces first 51% pool, miners urged to leave Coinotron
+description: Litecoin faces first 51% pool, miners urged to leave Coinotron
+excerpt: Litecoin is known as the silver to bitcoin’s gold.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
-
 
 Image source: https://www.litecoinpool.org/pools
 
