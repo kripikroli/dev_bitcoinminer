@@ -1,24 +1,12 @@
 ---
+title: Cairnsmore1 Quad FGPA Unboxing
+seotitle: The Cairnsmore1 Quad FGPA Unboxing
+description: Cairnsmore1 Quad FGPA Unboxing
+excerpt: Bitcoin Mining Board Unboxing Enterpoint Ltd (UK) 
+keywords: fgpa unboxing, cairnsmore1 quad fgpa
+alt: fgpa unboxing
+featured: 
 layout: post
-title: no title
-date: '2012-06-13T02:30:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- fpga
-- enterpoint
-- cairnsmore1
-- unboxing
-- video
-- rampone
-- drivers
-- bittream
-- icarus
-- mhash
-- tower
-- stacking
-tumblr_url: http://bitcoinminer.com/post/25009423387/cairnsmore1-quad-fpga-unboxing
 ---
 QUAD FPGA (Cairnsmore1) - Bitcoin Mining Board Unboxing
 Enterpoint Ltd (UK) has started shipping their Cairnsmore1 QUAD FPGA and BitcoinTalk forum user rampone provides video for his unboxing of his shipment.
