@@ -1,11 +1,13 @@
 ---
-layout: post
 title: The Coinsman offers a look inside a Chinese bitcoin mining operation
-date: '2014-08-12T17:03:39+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/94564052184/the-coinsman-offers-a-look-inside-a-chinese
+seotitle: The Coinsman offers a look inside 
+description: a Chinese bitcoin mining operation
+excerpt: A Chinese hashing center.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 A Chinese hashing center. Image source: http://www.thecoinsman.com/2014/08/bitcoin/inside-chinese-bitcoin-mine/
 Bitcoin-industry blogger Jason “The Coinsman” Smith recently posted a revealing look inside an industrial-scale bitcoin mining operation in northeastern China. Although understandably light on the specifics,  perhaps in part due to the Chinese government’s ongoing hostility to cryptocurrency in general, the photo essay shed some light on just how global the bitcoin community is. While hashing centers in the U.S. have gained considerable attention in the IT and bitcoin media, the barebones nature of the Chinese center is no less relevant to the growing digital currency infrastructure.
