@@ -1,12 +1,13 @@
 ---
-layout: post
 title: As GHash tweets for miners to leave pool, P2Pool crosses 1 Petahash
-date: '2014-07-17T15:57:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/92073975504/as-ghash-tweets-for-miners-to-leave-pool-p2pool
+seotitle: P2Pool crosses 1 Petahash
+description: As GHash tweets for miners to leave pool
+excerpt: controversial mining pool GHash announced it would limit its share of the overall bitcoin 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
-
 
 Image source: https://www.flickr.com/photos/moia/
 Yesterday, controversial mining pool GHash announced it would limit its share of the overall bitcoin hashrate to no more than 39.9%. It took less than a day to put that claim to the test, as GHash’s percentage began to steadily creep above 36% late last night. What was the mega-mining pool’s response to the very situation it had vowed to prevent?
