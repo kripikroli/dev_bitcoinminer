@@ -1,11 +1,13 @@
 ---
+title: Miners skeptical of CoinBaus 0.19 joules/GH claim
+seotitle: CoinBaus 0.19 joules/GH claim
+description: Miners skeptical of CoinBaus 0.19 joules/GH claim
+excerpt: the Wall Street Journal published a profile of Dresden-based mining hardware
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Miners skeptical of CoinBau's 0.19 joules/GH claim
-date: '2014-08-21T17:32:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/95401374244/miners-skeptical-of-coinbaus-019-joulesgh-claim
 ---
-
 
 CoinBau promotional image from: https://bitcointalk.org/index.php?topic=719143.0
 Last week, the Wall Street Journal published a profile of Dresden-based mining hardware startup CoinBau AG and their plan to bring German engineering to the ASIC market. The company claims to have created a custom 28nm chip design that can achieve 0.19 joules per gigahash, an unheard of efficiency in an already cutting-edge industry. By comparison, today’s best-performing real-world ASICs operate at around 0.35 joules/GH.
