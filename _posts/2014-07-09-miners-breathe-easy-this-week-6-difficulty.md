@@ -1,11 +1,13 @@
 ---
+title: Miners breathe easy this week - 6% difficulty increase expected
+seotitle: Miners breathe easy this week
+description: Miners breathe easy this week - 6% difficulty increase expected
+excerpt: miners have been faced with an unprecedented growth in the all-important 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: 'Miners breathe easy this week: 6% difficulty increase expected'
-date: '2014-07-09T14:52:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/91273611604/miners-breathe-easy-this-week-6-difficulty
 ---
-
 
 Image source: BitcoinWisdom
 For most of 2014, miners have been faced with an unprecedented growth in the all-important difficulty setting. Six months ago, the hashing power of the entire bitcoin network was a mere 20 PH/s, meaning that a miner with a 1 TH/s rig had a fighting chance at making a decent profit in the daily game of roulette that is bitcoin mining. Since early March, however, a flood of newer, faster, cheaper ASICs and giant cloud-based mining companies have added around 110 PH/s to the network, resulting in dramatic and painful jumps in overall difficulty.
