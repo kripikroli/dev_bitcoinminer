@@ -1,11 +1,13 @@
 ---
-layout: post
 title: KnCMiner and Bitmain announce new cloud-mining services
-date: '2014-09-02T15:20:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/96471715124/kncminer-and-bitmain-announce-new-cloud-mining
+seotitle: The KnCMiner and Bitmain announce new cloud-mining services
+description: KnCMiner and Bitmain announce new cloud-mining services
+excerpt: Mining hardware makers KnCMiner and Bitmain formally announced plans this week
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Mining hardware makers KnCMiner and Bitmain formally announced plans this week to launch new cloud-based Bitcoin mining services. Both announcements were widely anticipated, with both manufacturers lagging a few months behind their competition in offering the contract-based service. Neither service is yet live, with only pre-order subscriptions currently available.
 The KnCMiner facility, dubbed Clear Sky Farm, is billed as a 7 PH/s hashing center in northern Sweden. The system is built from “excess” Neptune “Hash While You Wait” units that had been previously put to use to offset customer losses due to shipping delays of their 20nm line.
