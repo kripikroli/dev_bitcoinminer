@@ -1,25 +1,12 @@
 ---
+title: Bitcoin Client Release v0.6.2
+seotitle: The Bitcoin Client Release v0.6.2
+description: Bitcoin Client Release v0.6.2
+excerpt: A new version of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org, v0.6.2
+keywords: bitcoin client release, bitcoin client release v0.6.2
+alt: bitcoin client release
+featured: 
 layout: post
-title: Bitcoin version 0.6.2 released
-date: '2012-05-09T04:09:13+08:00'
-tags:
-- bitcoin
-- bitcoins
-- release
-- version
-- revision
-- v0.6
-- v0.6.2
-- '0.6'
-- fix
-- fixes
-- qt
-- bitcoin-qt
-- bitcoind
-- performance
-- ping
-- pong
-tumblr_url: http://bitcoinminer.com/post/22707253071/bitcoin-client-release-v0-6-2
 ---
 Bitcoin version 0.6.2 releasedbitcoin:
 
