@@ -1,11 +1,13 @@
 ---
-layout: post
 title: The Coinsman visits another Chinese bitcoin mega-mine
-date: '2014-08-29T10:50:04+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/96088835754/the-coinsman-visits-another-chinese-bitcoin
+seotitle: Coinsman visits another Chinese bitcoin mega-mine
+description: The Coinsman visits another Chinese bitcoin mega-mine
+excerpt: One of many revealing images from the Coinsmans blog post.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 One of many revealing images from the Coinsman’s blog post. Source: http://www.thecoinsman.com/2014/08/bitcoin/inside-one-worlds-largest-bitcoin-mines/
 Earlier this month, bitcoin blog The Coinsman reported on the internal workings of a massive hashing center in Northeastern China, revealing key details on the operations of the mining operation. This week, the Coinsman visited another Chinese hashing center, this one being a “larger, even more secretive operation” than the last.
