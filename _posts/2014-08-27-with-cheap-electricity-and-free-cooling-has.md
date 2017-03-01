@@ -1,12 +1,13 @@
 ---
+title: Bitcoin industry blog CoinDesk published a profile
+seotitle: Australian bitcoin-mining company DigitalBTC
+description: Bitcoin industry blog CoinDesk published a profile
+excerpt: revealing the companys fiendishly cost-effective vision
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: 'With cheap electricity and free cooling, has digitalBTC''s Iceland hashing
-  center cracked the profitability puzzle? '
-date: '2014-08-27T17:40:52+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/95942524109/with-cheap-electricity-and-free-cooling-has
 ---
-
 
 Iceland’s Jökulsárlón, a glacial lake. Image source: https://www.flickr.com/photos/krmuir/142110701/
 Bitcoin industry blog CoinDesk published a profile of Australian bitcoin-mining company DigitalBTC this week, revealing the company’s fiendishly cost-effective vision for the future of industrial-scale hashing centers. At the core of their plan: Low-cost renewable power, and a naturally cold climate.
