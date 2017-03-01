@@ -1,11 +1,13 @@
 ---
-layout: post
 title: TechCrunch gives HexFury ASIC USB miner a thumbs up
-date: '2014-05-28T23:35:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/87168064909/techcrunch-gives-hexfury-asic-usb-miner-a-thumbs
+seotitle: TechCrunch gives HexFury ASIC USB miner
+description: TechCrunch gives HexFury ASIC USB miner a thumbs up
+excerpt: HexFury ASIC USB Miner In recent months
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 HexFury ASIC USB Miner
 In recent months, USB bitcoin miners have seemed increasingly like curiosities from a more innocent age. With the massive growth in mining difficulty (10,455,720,138 at the time of writing, and rising fast), a 1 or 2 GH/s USB stick simply can’t compete with a dedicated ASIC mining rig running in the TH/s range. If they’re profitable at all after the retail price and the cost of electricity, it’s usually a matter of pennies per day. While this can be a fun, low-cost way for hobbyists to play around with bitcoin mining, the era of commercially produced USB miners appears to be drawing to a close.
