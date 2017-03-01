@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Mysteriously low bitcoin difficulty growth projected, again
-date: '2014-07-23T15:45:04+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/92656804629/mysteriously-low-bitcoin-difficulty-growth
+seotitle: Mysteriously low bitcoin difficulty
+description: Mysteriously low bitcoin difficulty growth projected, again
+excerpt: the bitcoin mining community was able to breathe easy for the first time in over a year. 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Image source: https://www.flickr.com/photos/zcopley/
 On July 12, the bitcoin mining community was able to breathe easy for the first time in over a year. The all-important difficulty rate, which had been climbing by massive amounts since May of 2013, grew a measly 3.08%. While this didn’t mean that mining profits would be going up, at least the pressure to perpetually adding new hashing power in the mining arms race was off for another 2016 blocks.
