@@ -1,11 +1,13 @@
 ---
+title: Fine Print Clauses KNCMiners Neptune Delay
+seotitle: The Fine Print Clauses KNCMiners Neptune Delay
+description: Fine Print Clauses KNCMiners Neptune Delay
+excerpt: KnCMiners Neptune In April, Swedish mining hardware maker
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Fine-print clauses KnCMiner's Neptune-delay compensation agreement angers customers
-date: '2014-06-26T13:00:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/89973820619/fine-print-clauses-kncminers-neptune-delay
 ---
-
 
 KnCMiner’s Neptune
 In April, Swedish mining hardware maker KnCMiner decided to make a good-faith effort to appease customers who had pre-ordered their long-delayed Neptune bitcoin mining machine. Those who had ordered from batch one and two would be entitled to a free Neptune from the third batch. It was a popular move, as early adopters could count on doubling their hashing power if they were willing to be patient.
