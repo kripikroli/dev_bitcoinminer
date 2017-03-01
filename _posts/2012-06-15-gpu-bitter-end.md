@@ -1,27 +1,12 @@
 ---
+title: GPU Bitter End
+seotitle: The GPU Bitter End
+description: GPU Bitter End
+excerpt: Mining With GPUs - The Bitter End?
+keywords: gpu bitter end, mining with gpu
+alt: gpu bitter end
+featured: 
 layout: post
-title: gpu bitter end
-date: '2012-06-15T18:06:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- miner
-- bitcoin miner
-- bitcoin mining
-- bitter end
-- asic
-- fpga
-- mhash/s
-- mhash
-- hashing
-- difficulty
-- block reward
-- ampeater
-- solar
-- gpus
-- gpu
-tumblr_url: http://bitcoinminer.com/post/25183733681/gpu-bitter-end
 ---
 Mining With GPUs - The Bitter End?
 Though the recent rally in the exchange rates has caused mining profitability to rise to the highest level seen since February, many mining operators are planning for the future and liquidating their inefficient rigs, as shown in this post’s photo.

@@ -1,17 +1,12 @@
 ---
+title: FPGA Game Changer
+seotitle: The FPGA Game Changer
+description: FPGA Game Changer
+excerpt: There could be a new sheriff coming to town.
+keywords: fpga game changer, bitcoin mining
+alt: fpga game changer
+featured: 
 layout: post
-title: fpga game changer
-date: '2012-03-11T20:40:00+08:00'
-tags:
-- bitcoin
-- miner
-- bitcoins
-- bitcoin miner
-- mining
-- fgpa
-- fpga mining
-- spar
-tumblr_url: http://bitcoinminer.com/post/19152574885/fpga-game-changer
 ---
 FPGA - The Game Changer
 There could be a new sheriff coming to town.  Various FPGA miner board designs are getting shipped and the metrics promised are real.  With performance measured in terms of megahashes per Joule (Mhash/J), FPGAs mine in the range of 20 Mhash/J whereas the most efficient GPUs mine at just a bit over 2 Mhash/J.

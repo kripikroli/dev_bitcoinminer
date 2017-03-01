@@ -1,24 +1,12 @@
 ---
+title: GPU Mining Dead
+seotitle: Why GPU Mining Dead
+description: GPU Mining Dead
+excerpt: Bring Out Your Dead (GPUs)
+keywords: gpu mining dead, dead gpu mining
+alt: gpu mining dead
+featured: 
 layout: post
-title: gpu mining dead
-date: '2012-03-27T18:32:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- miner
-- bitcoin miner
-- bitcoin mining
-- hardware
-- gpu
-- gpus
-- '5970'
-- '6970'
-- '5870'
-- diablo iii
-- gaming
-- difficulty
-tumblr_url: http://bitcoinminer.com/post/20028732430/gpu-mining-dead
 ---
 Bring Out Your Dead (GPUs)
 This day was expected, just not so soon.  Miners who pay average electric rates or higher are likely about to experience (financial) death by a dozen cuts.

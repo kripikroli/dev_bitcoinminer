@@ -1,22 +1,12 @@
 ---
+title: Mining Pools and Reward Methods
+seotitle: List of Mining Pools and Reward Methods
+description: Mining Pools and Reward Methods
+excerpt: List Of Mining Pools And Their Reward Methods
+keywords: mining pools list, list of mining pools
+alt: mining pools list
+featured: 
 layout: post
-title: List Of Mining Pools And Their Reward Methods
-date: '2012-08-30T13:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin miner
-- bitcoin mining
-- bitcoins
-- decommission
-- miner
-- mining
-- mining pool
-- pool
-- pool selection
-- reward method
-- shutdown
-- mining rig
-tumblr_url: http://bitcoinminer.com/post/30527093764/mining-pools-list
 ---
 List Of Mining Pools And Their Reward MethodsForum user organofcorti posts a handy resource for use in choosing a Mining pool.
 Each entry in the list includes the listed pool’s hashrate, reward method and fee as well as a link to that pool’s discussion thread to further learn about each specific pool.

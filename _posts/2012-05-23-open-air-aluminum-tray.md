@@ -1,29 +1,12 @@
 ---
+title: Open Air Aluminum Tray
+seotitle: The Open Air Aluminum Tray
+description: Open Air Aluminum Tray
+excerpt: Aluminum Open Air Bitcoin Rig Trays
+keywords: open air aluminum, open air aluminum tray
+alt: open air aluminum
+featured: 
 layout: post
-title: open air aluminum tray
-date: '2012-05-23T16:43:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- rich chomiczewski
-- frankenminer
-- airflow
-- cooling
-- aluminum
-- aluminum chassis
-- chassis
-- aluminum tray
-- bitcoin miner
-- mining rig
-- rig
-- mining rigs
-- rack
-- rackmount
-- gpu
-- gpus
-- graphics card
-- spotswood
-tumblr_url: http://bitcoinminer.com/post/23625498251/open-air-aluminum-tray
 ---
 Aluminum Open Air Bitcoin Rig Trays
 Bitcoin user Rich Chomiczewski builds lightweight aluminum trays for elegantly housing all the components that go into a Bitcoin mining rig.  Rich posts on the BitcoinTalk forum as Spotswood.

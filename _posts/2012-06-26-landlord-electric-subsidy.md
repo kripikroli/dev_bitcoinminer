@@ -1,29 +1,12 @@
 ---
+title: Landlord Electric Subsidy
+seotitle: The Landlord Electric Subsidy
+description: Landlord Electric Subsidy
+excerpt: Landlords Focus On The Electric Bill
+keywords: landlord electric subsidy, bitcoin mining
+alt: landlord electric subsidy
+featured: 
 layout: post
-title: landlord electric subsidy
-date: '2012-06-26T16:00:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- mining
-- bitcoin miner
-- bitcoin mining
-- miner
-- electric rate
-- electricity
-- power
-- power consumption
-- sustainability
-- green lease
-- fpga
-- asic
-- bfl
-- bitforce
-- enterpoint
-- cairnsmore1
-- agility
-- risk
-tumblr_url: http://bitcoinminer.com/post/25945886269/landlord-electric-subsidy
 ---
 Landlords Focus On The Electric Bill
 The purpose of Bitcoin mining is to ensure the integrity of the publicly visible distributed transaction ledger (blockchain) without the existance of a central authority.  The Bitcoin protocol achieves this by requiring that miners complete of a proof of work computation which, at its essence, sends electrons through the gauntlet and in exchange the miner receives a cash award.

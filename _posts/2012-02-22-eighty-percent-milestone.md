@@ -1,18 +1,12 @@
 ---
+title: Eighty Percent Milestone
+seotitle: The Eighty Percent Milestone
+description: Eighty Percent Milestone
+excerpt: Eighty Percent Of All Easy Bitcoins Now Mined
+keywords: bitcoin now mined, bitcoin miner
+alt: bitcoin now mined
+featured: 
 layout: post
-title: eighty percent milestone
-date: '2012-02-22T16:52:00+08:00'
-tags:
-- bitcoin
-- mining
-- bitcoins
-- miner
-- bitcoin miner
-- hasing
-- threshold
-- 40%
-- 80%
-tumblr_url: http://bitcoinminer.com/post/18089561137/eighty-percent-milestone
 ---
 Eighty Percent Of All ‘Easy’ Bitcoins Now Mined
 Currently with each block mined the reward to the miners is 50 BTC of new currency issued.  When issuance reaches the 10.5 million BTC milestone, the rate will drop from 50 BTC to 25 BTC per block.  Hitting the 8.4 million mark today means that 80% of these “easy” bitcoins have now been mined.

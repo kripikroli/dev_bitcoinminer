@@ -1,22 +1,12 @@
 ---
+title: Commercial Mining Farms
+seotitle: The Commercial Mining Farms
+description: Commercial Mining Farms
+excerpt: Difficulty Destroyers - Commercial GPU Farms
+keywords: commercial mining farms, bitcoin miner
+alt: commercial mining farms
+featured: 
 layout: post
-title: commercial mining farms
-date: '2012-05-10T03:07:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- amazingrando
-- mining operator
-- mining
-- bitcoin mining
-- bitcoin miner
-- hardware
-- gpu
-- fpga
-- gpu farm
-- commercial mining
-- ghash/s
-tumblr_url: http://bitcoinminer.com/post/22769728108/commercial-mining-farms
 ---
 Difficulty Destroyers - Commercial GPU Farms
 While the FPGA is getting its share of the spotlight, commercial GPU farms such as the one pictured in this post are advancing in both size and number. The leading GPU farms use economies of scale combined with low power costs to solve blocks at a lower cost than any solo miner paying residential rates could ever hope for.
