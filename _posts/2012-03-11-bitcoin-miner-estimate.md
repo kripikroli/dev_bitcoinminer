@@ -1,18 +1,12 @@
 ---
+title: Bitcoin Miner Estimate
+seotitle: The Bitcoin Miner Estimate
+description: Bitcoin Miner Estimate
+excerpt: Most miners use pools and most pools are private.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: How many Bitcoin miners are out there? Would you have any links showing me
-  where I can get this info?Thanks
-date: '2012-03-11T16:29:00+08:00'
-tags:
-- bitcoinminer
-- bitcoin
-- bitcoins
-- mining
-- statistics
-- estimate
-- population
-- miner
-tumblr_url: http://bitcoinminer.com/post/19137128368/bitcoin-miner-estimate
 ---
 Because most miners use pools and most pools are private, independent and competing organizations, that data is not shared publicly.
 As miners run their own nodes and there are about 20K nodes nowadays (seen another way in this visual) we know the total number of miners is below this.  With mining remaining very competitive, those who were marginal miners are getting squeezed out so the total number of miners is becoming fewer over time.  
