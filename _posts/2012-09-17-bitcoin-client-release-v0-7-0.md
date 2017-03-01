@@ -1,36 +1,12 @@
 ---
+title: Bitcoin Client Release v0.7.0
+seotitle: The Bitcoin Client Release v0.7.0
+description: Bitcoin Client Release v0.7.0
+excerpt: A significant new release of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org.
+keywords: bitcoin client release, btc client release
+alt: bitcoin client release
+featured: 
 layout: post
-title: Bitcoin version 0.7.0 released
-date: '2012-09-17T21:21:29+08:00'
-tags:
-- bitcoin
-- bitcoins
-- release
-- version
-- revision
-- v0.7
-- '0.7'
-- v0.7.0
-- fix
-- fixes
-- qt
-- Bitcoin-Qt
-- bitcoind
-- performance
-- denial-of-service
-- bug fix
-- bugfix
-- ipv6
-- tor
-- tor hidden service
-- hidden service
-- privacy
-- enhancements
-- uri
-- uri support
-- blockchain
-- raw transaction
-tumblr_url: http://bitcoinminer.com/post/31767885989/bitcoin-client-release-v0-7-0
 ---
  Bitcoin version 0.7.0 releasedbitcoin:
 
