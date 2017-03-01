@@ -1,12 +1,13 @@
 ---
+title: Mining hardware maker CoinTerra moves for out-of-court settlement in class-action suit
+seotitle: Mining hardware maker CoinTerra
+description: Mining hardware maker CoinTerra moves for out-of-court settlement in class-action suit
+excerpt: CoinTerras ill-fated TerraMiner IV According to a new report by Ars Technica
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Mining hardware maker CoinTerra moves for out-of-court settlement in class-action
-  suit
-date: '2014-06-24T18:17:39+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/89798270879/mining-hardware-maker-cointerra-moves-for
 ---
-
 
 CoinTerra’s ill-fated TerraMiner IV
 According to a new report by Ars Technica, bitcoin mining hardware maker CoinTerra’s dark days may be finally coming to a close. The company has been facing a class-action suit brought by disgruntled customers who purchased the TerraMiner IV on pre-order, only to wait through 10 months of development and shipping delays. With a courtroom battle expected to be slow and expensive, both parties now seem willing to consider a mediated solution.
