@@ -1,24 +1,12 @@
 ---
+title: Drilled Gold Bar Tungsten
+seotitle: The Drilled Gold Bar Tungsten
+description: Drilled Gold Bar Tungsten
+excerpt: Bitcoin, 100 percent Pure with No Tungsten - Miners
+keywords: drilled gold bar, drilled gold bar tungsten
+alt: drilled gold bar
+featured: 
 layout: post
-title: drilled gold bar tungsten
-date: '2012-03-25T17:12:00+08:00'
-tags:
-- bitcoin
-- bitcoins
-- miner
-- mining
-- bitcoin miner
-- bitcoin mining
-- gold
-- tungsten
-- gold bar
-- bullion
-- gold bulllion
-- cropped
-- drilled
-- counterfeit
-- fake
-tumblr_url: http://bitcoinminer.com/post/19914661084/drilled-gold-bar-tungsten
 ---
 Bitcoin, 100% Pure w/No Tungsten - Miners Make Sure Of It
 Questions asked about Bitcoin mining often come from those wanting to know, in general, “What is the purpose?  Why is it necessary to have all these computers crunching away?”.
