@@ -1,11 +1,13 @@
 ---
+title: FinCEN - Cloud-based mining rentals not money transmitters
+seotitle: FinCEN - The Cloud-based mining rentals not money transmitters
+description: FinCEN - Cloud-based mining rentals not money transmitters
+excerpt: Last week, the U.S. Financial Crimes Enforcement Network (FinCEN) 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: 'FinCEN: Cloud-based mining rentals not money transmitters'
-date: '2014-05-07T15:15:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/85043668919/fincen-cloud-based-mining-rentals-not-money
 ---
-
 
 Image source: https://www.flickr.com/photos/fuzzcat/
 Last week, the U.S. Financial Crimes Enforcement Network (FinCEN) further clarified its rules for virtual currency mining operations, exempting contract-based cloud mining services from money transmitter rules. Given the high cost of acquiring money transmitter licenses and the significant start up costs for creating a cloud-mining service, a negative ruling could have crippled this rapidly growing niche.
