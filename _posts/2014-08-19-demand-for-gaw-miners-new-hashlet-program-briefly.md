@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Demand for GAW Miners new Hashlet program briefly crashes Shopify
-date: '2014-08-19T15:27:44+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/95211553949/demand-for-gaw-miners-new-hashlet-program-briefly
+seotitle: Demand for GAW Miners 
+description: Demand for GAW Miners new Hashlet program briefly crashes Shopify
+excerpt: Over the weekend, GAW Miners launched their cloud-based mining platform Hashlet.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Over the weekend, GAW Miners launched their cloud-based mining platform Hashlet. The system, which allows users to buy, rather than lease, hashing power in a cloud-based mining operation, was expected to have a significant demand as it went live. What wasn’t expected was that demand would be so high for the service that it would temporarily crash GAW Miners’ payment service, Shopify.
 Reports on a variety of bitcoin-focused news sites claim that the traffic was high enough to effectively create a “natural DDoS” attack on Shopify’s servers, causing the payment gateway to return errors on over 100,000 online stores. The problem was quickly resolved by Shopify’s tech staff.

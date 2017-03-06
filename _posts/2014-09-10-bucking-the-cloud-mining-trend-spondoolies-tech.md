@@ -1,12 +1,13 @@
 ---
+title: Bucking the cloud-mining trend, Spondoolies-Tech announces new 1.7 TH/s home mine
+seotitle: Bucking the cloud-mining trend
+description: Spondoolies-Tech announces new 1.7 TH/s home mine
+excerpt: Spondoolies-Tech announces new 1.7 TH/s home mine
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Bucking the cloud-mining trend, Spondoolies-Tech announces new 1.7 TH/s home
-  miner
-date: '2014-09-10T13:00:24+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/97147569061/bucking-the-cloud-mining-trend-spondoolies-tech
 ---
-
 
 SP20-Jackson promo image.
 “As I’m sure you know, a lot of people have declared home mining to be a thing of the past,” Spondoolies-Tech VP of Marketing Gadi Glikberg recently told CryptoCoinsNews. “That however is only true if home miners do not have access to the most efficient ASIC in the market.”

@@ -1,12 +1,13 @@
 ---
+title: Scotland-based Novello Technologies seeks $4.2 million to launch new miner line
+seotitle: Scotland-based Novello Technologies
+description: Scotland-based Novello Technologies seeks $4.2 million to launch new miner line
+excerpt: Novellos concept part for their NOVA-S USB Miner
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Scotland-based Novello Technologies seeks $4.2 million to launch new miner
-  line
-date: '2014-06-04T16:40:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/87825432049/scotland-based-novello-technologies-seeks-42
 ---
-
 
 Novello’s concept part for their NOVA-S USB Miner
 If nothing else, Scottish mining hardware startup Novello Technologies is ambitious. The company recently announced a $4.2 million fundraising campaign to develop a “family of ultra efficient and affordable Bitcoin mining systems.” The extremely optimistic plan calls for a mid-August tapeout, with packaged prototypes available by October and standard deliveries by December.

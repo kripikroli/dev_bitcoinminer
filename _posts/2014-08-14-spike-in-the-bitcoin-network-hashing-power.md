@@ -1,12 +1,13 @@
 ---
+title: Spike in the bitcoin network hashing power indicates a return to double-digit difficulty growth
+seotitle: Spike in the bitcoin network hashing power
+description: After three consecutive single-digit difficulty increases, bitcoin miners are bracing 
+excerpt: Spike in the btc network hashing power
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Spike in the bitcoin network hashing power indicates a return to double-digit
-  difficulty growth
-date: '2014-08-14T13:00:33+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/94735224886/spike-in-the-bitcoin-network-hashing-power
 ---
-
 
 Image source: https://bitcoinwisdom.com/bitcoin/difficulty
 After three consecutive single-digit difficulty increases, bitcoin miners are bracing for a return to steep growth in the hashrate and steadily diminishing returns for old hardware. If the current hashrate increase holds, the next difficulty increase will happen around August 19, and will increase roughly 20 percent. 

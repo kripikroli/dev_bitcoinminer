@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Bitmain unveils Antminer S3
-date: '2014-06-19T23:03:15+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/89322857969/bitmain-unveils-antminer-s3
+seotitle: The Bitmain unveils Antminer S3
+description: Bitmain unveils Antminer S3
+excerpt: BM1382 chips for the Antminer S3 Seven months after releasing the BM1380 ASIC
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 BM1382 chips for the Antminer S3
 Seven months after releasing the BM1380 ASIC, the Bitmain has finished testing the latest iteration of their chipset, the BM1382. The updated design is a 28nm chip measuring 8mm square, and packing an impressive 63 cores. Bitmain claims the chips can deliver 15.75 GH/s at 0.59 J/GH.

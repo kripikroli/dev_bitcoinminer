@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Hosting mining company HashPlex raises $400k in venture capital
-date: '2014-06-13T01:57:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/88645173109/hosting-mining-company-hashplex-raises-400k-in
+seotitle: Hosting mining company HashPlex
+description: Hosting mining company HashPlex raises $400k in venture capital
+excerpt: Barry Silbert clearly sees potential in Seattle-based cloud-mining company HashPlex.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Barry Silbert clearly sees potential in Seattle-based cloud-mining company HashPlex. The SecondMarket CEO and noted bitcoin evangelist recently joined a seed round investment of $400,000 in the company. Unlike other cloud-based bitcoin mining systems, however, HashPlex doesn’t sell set amounts of hash power to customers. Instead, the company manages your existing mining equipment for you, reducing the hassle and expense of running a small cryptocurrency mining operation.
 It works like this: You send your mining hardware to HashPlex, along with the details of what pool the miner will point at and what wallets it will pay out to. They provide the host computers, passive cooling, internet connections, start/stop/control scripting and any basic maintenance on the hardware. You pay $99 per kilowatt used each month, with at $10 discount if you use more than 30 kw.

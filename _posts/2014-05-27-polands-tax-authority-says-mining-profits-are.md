@@ -1,11 +1,13 @@
 ---
+title: Polands Tax Authority says mining profits are subject to whopping 23% VAT
+seotitle: mining profits are subject to whopping 23% VAT
+description: Polands Tax Authority says mining profits are subject to whopping 23% VAT
+excerpt: In a recent statement from the Polish Tax Authority
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Poland's Tax Authority says mining profits are subject to whopping 23% VAT
-date: '2014-05-27T16:04:21+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/87027555054/polands-tax-authority-says-mining-profits-are
 ---
-
 
 Image source: https://www.flickr.com/photos/darus214/
 In a recent statement from the Polish Tax Authority, profits from virtual currency mining would be subject to the country’s 23% value-added tax (VAT), creating a huge negative incentive for Poland’s bitcoin miners. The interpretation came as a response to a question from a bitcoin miner asking for clarification of Polish tax law as it relates to the largely unexplored topic of mining profits.

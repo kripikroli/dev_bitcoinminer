@@ -1,11 +1,13 @@
 ---
-layout: post
 title: 60,000 sq ft Michigan warehouse to become home to co-op hashing center
-date: '2014-09-04T17:03:06+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/96644853384/60000-sq-ft-michigan-warehouse-to-become-home-to
+seotitle: become home to co-op hashing center
+description: 60,000 sq ft Michigan warehouse to become home to co-op hashing center
+excerpt: The HRP hashing center, ready to host miners. 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 The HRP hashing center, ready to host miners.
 If all goes according to plan, a giant warehouse in Michigan may soon become one of the largest bitcoin hashing centers in the U.S. Mining startup Hash Rack Power (HRP) announced yesterday that it will be converting the 60,000 sq ft space (location undisclosed, but likely in the outskirts of Detroit) to a “co-op style hosting center” for bitcoin miners. The location is already equipped to handle 2.7 megawatts of power, and the group claims that this could easily be increased to 8.7 MW should the need arise.

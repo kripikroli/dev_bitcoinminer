@@ -1,16 +1,13 @@
 ---
+title: Spondoolies-Tech claims new 2.1 TH/kW bitcoin ASIC
+seotitle: Spondoolies-Tech claims new 2.1
+description: Spondoolies-Tech claims new 2.1 TH/kW bitcoin ASIC
+excerpt: Promo image for the Spondoolies-Tech Yukon
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Spondoolies-Tech claims new 2.1 TH/kW bitcoin ASICs
-date: '2014-06-09T15:17:14+08:00'
-tags:
-- mining
-- bitcoin miner
-- bitcoin mining
-- asic
-- bitcoin
-tumblr_url: http://bitcoinminer.com/post/88297175729/spondoolies-tech-claims-new-21-thkw-bitcoin
 ---
-
 
 Promo image for the Spondoolies-Tech Yukon
 Big claims are nothing new in the bitcoin mining world, but if the leaked specs for their SP-30 “Yukon” miner are accurate, Spondoolies-Tech may just have a breakout product. The Israeli bitcoin mining hardware maker claims that its new miner will have an effective hash rate of 5.4-6.6 TH/s at 2500W. 

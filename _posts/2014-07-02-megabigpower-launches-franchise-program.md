@@ -1,11 +1,13 @@
 ---
-layout: post
 title: MegaBigPower launches franchise program
-date: '2014-07-02T19:17:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/90600929799/megabigpower-launches-franchise-program
+seotitle: The MegaBigPower launches franchise program
+description: MegaBigPower launches franchise program
+excerpt: Inside MegaBigPowers facility. With over 5.16 PH/s at its command
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Inside MegaBigPower’s facility.
 With over 5.16 PH/s at its command, MegaBigPower is easily one of the biggest direct mining operations in existence. The Washington-based company’s BitFury mining rigs fill a 20,000 square foot warehouse, earning millions of dollars worth of bitcoin and various alt-coins per month. As impressive as the operation is, it’s not quite enough for MegaBigPower. The company announced last week that it was launching a new franchise program that could add as much as 50 PH/s to the overall bitcoin hashing pool.

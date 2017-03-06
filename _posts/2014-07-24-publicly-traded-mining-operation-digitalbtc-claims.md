@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Publicly traded mining operation DigitalBTC claims it is already profitable
-date: '2014-07-24T22:45:03+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/92788665614/publicly-traded-mining-operation-digitalbtc-claims
+seotitle: Publicly traded mining operation DigitalBTC
+description: Publicly traded mining operation DigitalBTC claims it is already profitable
+excerpt: Australian bitcoin mining company DigitalBTC
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Image Source: https://www.flickr.com/photos/105644709@N08/
 As one of only a handful of publicly traded cryptocurrency businesses, Australian bitcoin mining company DigitalBTC is a glimpse at a possible, perhaps even likely, future for the digital currency industry. In its first quarterly report as a public company, DigitalBTC claimed that it was already turning a profit.

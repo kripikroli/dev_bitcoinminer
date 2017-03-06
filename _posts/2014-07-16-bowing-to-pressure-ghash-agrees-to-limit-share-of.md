@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Bowing to pressure, GHash agrees to limit share of hashrate to 39.9%
-date: '2014-07-16T15:34:16+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/91973304949/bowing-to-pressure-ghash-agrees-to-limit-share-of
+seotitle: Bowing to pressure, GHash agrees
+description: Bowing to pressure, GHash agrees to limit share of hashrate to 39.9%
+excerpt: As a bitcoin miner, it’s hard not to have mixed feelings about GHash.io. 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Image source: https://www.flickr.com/photos/gastev/
 As a bitcoin miner, it’s hard not to have mixed feelings about GHash.io. On one hand, the pool’s massive amount of the total network hashrate means consistent and generally high payouts. The pool’s operators have clearly invested considerable resources in creating a powerful, easy-to-use dashboard and user experience. It’s a well-made, zero-fee system that works exactly as advertised.

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: CoinTerra to launch new 1 petahash contract-mining service
-date: '2014-05-12T22:55:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/85588526374/cointerra-to-launch-new-1-petahash-contract-mining
+seotitle: contract-mining service
+description: CoinTerra to launch new 1 petahash contract-mining service
+excerpt: CoinTerra is best known for it’s TerraMiner line of high-powered ASIC miners.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 CoinTerra is best known for it’s TerraMiner line of high-powered ASIC miners, but starting today the Austin-based company is moving into an entirely new market: Hosted mining contracts. The company is offering a range of plans from 200 GH/s to a little over 1 PH/s. Prices for a 12-month mining contract start at $999.
 Given that CoinTerra’s mining hardware already powers an estimated 15% of the bitcoin network, the move appears to be an attempt to expand, and perhaps diversify, the company’s income sources. With bitcoin difficulty climbing and a new generation of ASICs already coming to market, Cointerra is in a great position to leverage its existing stock of hardware with the move.

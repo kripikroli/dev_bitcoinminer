@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Industrial-scale bitcoin mining booming
-date: '2014-07-10T20:19:18+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/91402031289/industrial-scale-bitcoin-mining-booming
+seotitle: The Industrial-scale bitcoin mining booming
+description: Industrial-scale bitcoin mining booming
+excerpt: Is bitcoin mining about to become big business?
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Is bitcoin mining about to become big business? Until recently, the massive warehouses filled with thousands of ASICs and roaring fans struggling to cool them off seemed like the exception to the rule. Companies like MegaBigPower seemed more like the exception than the rule.
 For most of bitcoin’s history, mining operations have been relatively small, both in terms of physical size and financial investment. Even a full-time professional miner might only have $20,000 or $30,000 worth of equipment.

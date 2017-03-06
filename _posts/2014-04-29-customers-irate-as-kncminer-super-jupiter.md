@@ -1,9 +1,12 @@
 ---
+title: Customers irate as KnCMiner Super Jupiter shipments arrive broken
+seotitle: Super Jupiter shipments arrive broken
+description: Customers irate as KnCMiner Super Jupiter shipments arrive broken
+excerpt: The company said it is operating under the assumption that all shipments were damaged.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Customers irate as KnCMiner "Super Jupiter" shipments arrive broken
-date: '2014-04-29T14:20:48+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/84241185934/customers-irate-as-kncminer-super-jupiter
 ---
 
 

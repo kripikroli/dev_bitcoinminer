@@ -1,11 +1,13 @@
 ---
-layout: post
 title: ScryptGuild closing down, BTC Guild may be next
-date: '2014-07-29T14:19:17+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/93228148329/scryptguild-closing-down-btc-guild-may-be-next
+seotitle: ScryptGuild closing down
+description: BTC Guild may be next
+excerpt: Earlier this week, popular auto-switching alt-coin mining pool 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 Image source: https://www.flickr.com/photos/brownpau/
 Earlier this week, popular auto-switching alt-coin mining pool ScryptGuild announced it will be ceasing operations on September 27. While not one of the larger pools in the scrypt-mining community, the group has a significant user base, many of whom expressed shock and disappointment at the closure. Pool administrator “eleuthria” gave little explanation for the closure, noting simply that the pool’s code was “running suboptimally” and “not sustainable,” and that the time needed to rewrite the code to automatically switch to newer and more-profitable alt-coins was significant.

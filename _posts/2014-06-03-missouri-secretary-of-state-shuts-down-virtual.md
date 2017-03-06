@@ -1,12 +1,13 @@
 ---
+title: Missouri Secretary of State shuts down Virtual Mining Corporation over deceptive tactics
+seotitle: Missouri Secretary of State shuts down Virtual Mining Corporation
+description: Missouri Secretary of State shuts down Virtual Mining Corporation over deceptive tactics
+excerpt: Fast-Hash One Platinum Edition Bitcoin Mining Machine Springfield
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: Missouri Secretary of State shuts down Virtual Mining Corporation over "deceptive
-  tactics"
-date: '2014-06-03T16:38:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/87725753924/missouri-secretary-of-state-shuts-down-virtual
 ---
-
 
 Fast-Hash One Platinum Edition Bitcoin Mining Machine
 Springfield, Missouri,-based bitcoin mining hardware manufacturer Virtual Mining Corporation (VMC) was ordered to halt operations yesterday by Missouri Secretary of State Jason Kander. According to Kander, VMC CEO Kenneth Slaughter “used deceptive tactics” to fund the development of their mining hardware, promising returns as high as “2,812 percent” on the investment and failing to warn investors of the associated risks.
