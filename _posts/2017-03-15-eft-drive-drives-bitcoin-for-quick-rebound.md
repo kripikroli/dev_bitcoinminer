@@ -7,7 +7,7 @@ published: true
 
 <p><center><img src="/images/quick-rebound.jpg" alt="Bitcoin For Quick Rebound"/></center></p>
 
-<p>On 10th of March after the end of the <a href="/bitcoin-predictions-from-reserve-bank-of-india">New York Stock Exchange</a>, SEC or Securities and Exchange Commission dismisses the administer change for the Bitcoin ETF because of administrative concerns. Taking after the declaration, the cost per bitcoin dropped to a low of US$1,020. The cost has since bounced back to the $1,180 check, at the season of composing. </p>
+<p>On 10 March 2017 after the end of the <a href="/bitcoin-predictions-from-reserve-bank-of-india">New York Stock Exchange</a>, SEC or Securities and Exchange Commission dismisses the administer change for the Bitcoin ETF because of administrative concerns. Taking after the declaration, the cost per bitcoin dropped to a low of US$1,020. The cost has since bounced back to the $1,180 check, at the season of composing. </p>
 
 <h2>Bitcoin Price Dives Minutes After ETF Ruling </h2>
 
