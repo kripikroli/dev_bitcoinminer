@@ -1,12 +1,12 @@
 ---
-layout: post
 title: How to Mine Bitcoins?
-date: '2015-11-27T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- mine bitcoin
-- cloud mining
+seotitle: Mine Bitcoins
+description: How to Mine Bitcoins?
+excerpt: How does one mine Bitcoins
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Not that long ago, barely anyone (except for computer geeks) had even heard of Bitcoin. After its price skyrocketed in the fall of 2013 and after the spectacular crash in early 2014, more and more people became interested in this “cryptocurrency,” and some of them even started mining it.While it’s becoming more and more difficult to mine - without spending a lot of money upfront - it’s not impossible to turn a good profit if you can afford the hardware. <p>
