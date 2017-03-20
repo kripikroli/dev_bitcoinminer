@@ -8,6 +8,8 @@ alt: repair redneck rig
 featured: 
 layout: post
 ---
-There, I Fixed It! Redneck Rig Repairs
-BitcoinTalk forum member P4Man shows how to get a few more hours of use from your GPU before shipping it back for warranty repair.
-Previous Posts
+
+<h2>There, I Fixed It! Redneck Rig Repairs</h2>
+
+<p>BitcoinTalk forum member P4Man shows how to get a few more hours of use from your GPU before shipping it back for warranty repair.
+<p>
