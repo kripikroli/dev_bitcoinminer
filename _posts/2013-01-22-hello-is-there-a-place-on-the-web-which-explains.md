@@ -8,6 +8,9 @@ alt: why btc created
 featured: 
 layout: post
 ---
+
 Hello,
+
 The best general explanation can be found here:  www.weusecoins.com 
+
 Thanks
