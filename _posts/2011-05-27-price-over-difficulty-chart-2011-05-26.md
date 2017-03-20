@@ -8,8 +8,10 @@ alt: price over difficulty
 featured: 
 layout: post
 ---
-Price Over Difficulty to May 24
-There is a pretty good correlation between price and difficulty when shown in log scale.
 
-Price is down by about a third from a few weeks ago, when compared using the ratio of price over difficulty.
-Previous Posts
+<h2>Price Over Difficulty to May 24</h2>
+
+<p>There is a pretty good correlation between price and difficulty when shown in log scale.<p>
+
+<p>Price is down by about a third from a few weeks ago, when compared using the ratio of price over difficulty.<p>
+
