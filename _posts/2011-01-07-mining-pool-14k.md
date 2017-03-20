@@ -8,7 +8,12 @@ alt: mining pool 14k
 featured: 
 layout: post
 ---
-Mining Pool exceeding 14 Ghash/sec.
-Hopefully Slush’s new server can handle the heat!  
-The statistics page for Bitcoin Pooled Mining (BPM) is showing activity that is exceeding by a large margin any previously seen level.  This means the pool activity represents around 10% of all hashing power occurring among Bitcoin nodes.
-Previous Posts
+
+<p>Mining Pool exceeding 14 Ghash/sec.</p>
+
+<p>Hopefully Slush’s new server can handle the heat!  </p>
+
+<p>The statistics page for Bitcoin Pooled Mining (BPM) is showing activity that is exceeding by a large margin any previously seen level. </p>
+
+<p>This means the pool activity represents around 10% of all hashing power occurring among Bitcoin nodes.</p>
+
