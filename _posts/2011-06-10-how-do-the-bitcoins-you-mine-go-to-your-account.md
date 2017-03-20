@@ -8,4 +8,5 @@ alt: bitcoins to your account
 featured: 
 layout: post
 ---
-If you are on a pool, each pool has a different method for withdrawing your earnings.  If you simply want a wallet to have an address for withdrawing those earnings, see MyBitcoin.com for example.
+
+<p>If you are on a pool, each pool has a different method for withdrawing your earnings.  If you simply want a wallet to have an address for withdrawing those earnings, see MyBitcoin.com for example.<p>
