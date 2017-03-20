@@ -8,8 +8,13 @@ alt: compute4cash and geeks3d
 featured: 
 layout: post
 ---
-Ha, nice try!  Fortunately our readers are smarter than that – they don’t need an intermediary and instead mine either in a pool or they mine for themselves.
-For several days the hunt was on to figure out what in the world this Compute4Cash.com software was doing where you could earn money from your GPU:
-Compute4Cash client is actually a wrapper around a Bitcoin miner called poclbm (Python and OpenCL).
-The article and comments from the Geeks3D.com post are interesting.
-Previous Posts
+
+<p>Ha, nice try!  Fortunately our readers are smarter than that – they don’t need an intermediary and instead mine either in a pool or they mine for themselves.</p>
+
+<p>For several days the hunt was on to figure out what in the world this Compute4Cash.com software was doing where you could earn money from your GPU:</p>
+
+<p>Compute4Cash client is actually a wrapper around a Bitcoin miner called poclbm (Python and OpenCL).</p>
+
+<p>The article and comments from the Geeks3D.com post are interesting.</p>
+
+

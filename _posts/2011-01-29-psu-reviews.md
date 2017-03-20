@@ -8,6 +8,7 @@ alt: psu review database
 featured: 
 layout: post
 ---
-Article: PSU Review DatabaseWhat does Hard OCP think of the Antec TPQ-850 power supply?  Or you want a detailed look at the Corsair AX1200W PSU?
-The directory from the PSU Review Database is the go-to guide for finding PSU reviews.
-Previous Posts
+
+<p>Article: PSU Review DatabaseWhat does Hard OCP think of the Antec TPQ-850 power supply?  Or you want a detailed look at the Corsair AX1200W PSU?</p>
+
+<p>The directory from the PSU Review Database is the go-to guide for finding PSU reviews.</p>
