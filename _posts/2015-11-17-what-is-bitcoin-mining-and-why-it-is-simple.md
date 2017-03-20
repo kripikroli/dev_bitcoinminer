@@ -1,11 +1,12 @@
 ---
-layout: post
 title: What is Bitcoin Mining and Why It Is Simple
-date: '2015-11-17T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- block reward
+seotitle: Bitcoin Mining and Why It Is Simple
+description: What is Bitcoin Mining and Why It Is Simple
+excerpt: Bitcoin is quite frequently close to being the news of the day
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Just a few years ago no one had ever even heard of it. Now, Bitcoin is quite frequently close to being the news of the day in the business section of every news portal.  Usually due to its high price fluctuations and the stories of people it has made into millionaires (or broke, after a bubble burst). <p>
