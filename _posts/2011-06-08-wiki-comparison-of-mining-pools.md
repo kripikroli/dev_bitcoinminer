@@ -8,18 +8,33 @@ alt: mining pool comparison
 featured: 
 layout: post
 ---
-Comparison of mining poolsRecently added to the Bitcoin wiki is a Comparison of mining pools article that contains a table showing the attributes of each pool.
-The columns contain the following data
-Name 
-Location
-Hashrate
-Reward Type
-Transaction fees
-Fee PPS
-Fee Prop / Score
-Audits
-Protocol
-Launched
-Forum Thread
-Homepage 
-Previous Posts
+
+<p>Comparison of mining poolsRecently added to the Bitcoin wiki is a Comparison of mining pools article that contains a table showing the attributes of each pool.<p>
+
+<h2>The columns contain the following data</h2>
+
+<p>Name <p>
+
+<p>Location<p>
+
+<p>Hashrate<p>
+
+<p>Reward Type<p>
+
+<p>Transaction fees<p>
+
+<p>Fee PPS<p>
+
+<p>Fee Prop / Score<p>
+
+<p>Audits<p>
+
+<p>Protocol<p>
+
+<p>Launched<p>
+
+<p>Forum Thread<p>
+
+<p>Homepage <p>
+
+
