@@ -8,7 +8,9 @@ alt: bitcoin 5 ghash
 featured: 
 layout: post
 ---
-Video - 5 GHash/s Custom Configuration
-Learn 2 Bitcoin has added capacity to their rig, bringing the total inside this custom multi-rig chassis to GHash/s.
-The graphics cards are mounted in a way that a single box fan helps to remove the heat generated – a novel approach.
-Previous Posts
+
+<h2>Video - 5 GHash/s Custom Configuration</h2>
+
+<p>Learn 2 Bitcoin has added capacity to their rig, bringing the total inside this custom multi-rig chassis to GHash/s.<p>
+<p>The graphics cards are mounted in a way that a single box fan helps to remove the heat generated – a novel approach.<p>
+
