@@ -8,7 +8,11 @@ alt: cpuminer v0.7.1 release
 featured: 
 layout: post
 ---
-CPUMiner v0.7.1 releasedv0.7.1 released March 2, 2011
-Release notes
-Downloads and instructions
-Previous Posts
+
+<p>CPUMiner v0.7.1 releasedv0.7.1 released March 2, 2011</p>
+
+<p>Release notes</p>
+
+<p>Downloads and instructions</p>
+
+
