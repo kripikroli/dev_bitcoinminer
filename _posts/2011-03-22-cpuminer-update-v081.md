@@ -9,7 +9,5 @@ featured:
 layout: post
 ---
 
-In this update from jgarzik is fix for –user and pass command line options, User-Agent added to request header, example JSON config file correction. 
-Announcement
-Downloads
-Previous Posts
+<p>In this update from jgarzik is fix for –user and pass command line options, User-Agent added to request header, example JSON config file correction. </p>
+
