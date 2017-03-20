@@ -8,4 +8,5 @@ alt: what is bitcoin
 featured: 
 layout: post
 ---
-The best place to learn more is to check out: www.weusecoins.com
+
+<p>The best place to learn more is to check out: www.weusecoins.com<p>
