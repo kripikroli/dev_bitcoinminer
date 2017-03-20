@@ -9,7 +9,10 @@ featured:
 layout: post
 ---
 
-In this update from jgarzik is long polling (beta), syslog support, and new command line options.
-Announcement
-Downloads
-Previous Posts
+<p>In this update from jgarzik is long polling (beta), syslog support, and new command line options.</p>
+
+<p>Announcement</p>
+
+<p>Downloads</p>
+
+
