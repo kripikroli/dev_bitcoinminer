@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-Party time? It’s good to be a part of the Bitcoin network right now.
+
+<p>Party time? It’s good to be a part of the Bitcoin network right now.<p>
