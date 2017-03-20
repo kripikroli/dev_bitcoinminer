@@ -8,6 +8,8 @@ alt: garage cooling method
 featured: 
 layout: post
 ---
-Keeping It Cool - In The Garage
-Forum member shotgun picked up an old Sun rack and loaded it with rigs.  This photo is the result of his method that he detailed in a forum post.
-Previous Posts
+
+<h2>Keeping It Cool - In The Garage</h2>
+
+<p>Forum member shotgun picked up an old Sun rack and loaded it with rigs.  This photo is the result of his method that he detailed in a forum post.<p>
+
