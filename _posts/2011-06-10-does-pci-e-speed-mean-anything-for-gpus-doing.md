@@ -8,4 +8,5 @@ alt: pci-e speed
 featured: 
 layout: post
 ---
-Mining does not pump much through the PCI-E bus nor tax the CPU significantly.  
+
+<p>Mining does not pump much through the PCI-E bus nor tax the CPU significantly.  <p>
