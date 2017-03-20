@@ -8,7 +8,10 @@ alt: get started with bitcoin
 featured: 
 layout: post
 ---
-If you have decent GPU hardware, your more than halfway there.
-Take a look at the hardware comparison chart to see whether or not mining is something you are equipped for:
-  http://en.bitcoin.it/wiki/Mining_hardware_comparison
-If you have the hardware, then the next step is to install the drivers and miner software.
+
+<p>If you have decent GPU hardware, your more than halfway there.<p>
+
+<p>Take a look at the hardware comparison chart to see whether or not mining is something you are equipped for:
+  http://en.bitcoin.it/wiki/Mining_hardware_comparison<p>
+  
+<p>If you have the hardware, then the next step is to install the drivers and miner software.<p>
