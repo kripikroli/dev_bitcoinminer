@@ -8,11 +8,15 @@ alt: bitcoin client release
 featured: 
 layout: post
 ---
-Bitcoin version 0.6.2 releasedbitcoin:
 
-A new version of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org, v0.6.2, includes a number of bug fixes and and performance improvements.
-http://bitcoin.org/releases/2012/05/08/v0.6.2.html
-http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.2
-http://bitcointalk.org/index.php?topic=80187.0
+<h2>Bitcoin version 0.6.2 releasedbitcoin:</h2>
 
-Previous Posts
+<p>A new version of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org, v0.6.2, includes a number of bug fixes and and performance improvements.<p>
+
+<p>http://bitcoin.org/releases/2012/05/08/v0.6.2.html<p>
+
+<p>http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.2<p>
+
+<p>http://bitcointalk.org/index.php?topic=80187.0<p>
+
+

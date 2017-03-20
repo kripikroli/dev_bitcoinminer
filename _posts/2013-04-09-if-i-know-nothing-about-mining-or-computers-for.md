@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-There are many places on the web that you can search for answers. A good place to start would be here: https://www.weusecoins.com/en/mining-guide
+
+<p>There are many places on the web that you can search for answers. A good place to start would be here: https://www.weusecoins.com/en/mining-guide<p>

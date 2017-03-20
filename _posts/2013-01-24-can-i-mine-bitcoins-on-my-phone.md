@@ -8,4 +8,5 @@ alt: mine bitcoins on phone
 featured: 
 layout: post
 ---
-With an android device, yes. Butterflylabs.com has a mining app called Easy Miner. I have a beta copy installed on my Nexus 7 and mine with an FPGA single. Lots of cool stuff coming soon.
+
+<p>With an android device, yes. Butterflylabs.com has a mining app called Easy Miner. I have a beta copy installed on my Nexus 7 and mine with an FPGA single. Lots of cool stuff coming soon.<p>

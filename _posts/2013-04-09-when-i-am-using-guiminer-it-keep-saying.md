@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-If you get an error about OpenCL, you need to install an OpenCL package from your GPU vendor. For AMD/ATI cards you can get OpenCL here.
+
+<p>If you get an error about OpenCL, you need to install an OpenCL package from your GPU vendor. For AMD/ATI cards you can get OpenCL<p> here.

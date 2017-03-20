@@ -8,4 +8,5 @@ alt: new to btc mining
 featured: 
 layout: post
 ---
-With BFL you can mine with an old used laptop or even an android device.  I am running a FPGA single on a 7 year old laptop.  You can get one on craigslist for cheap.
+
+<p>With BFL you can mine with an old used laptop or even an android device.  I am running a FPGA single on a 7 year old laptop.  You can get one on craigslist for cheap.<p>

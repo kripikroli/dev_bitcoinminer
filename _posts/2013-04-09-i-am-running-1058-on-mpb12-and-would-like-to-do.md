@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-While it may be possible, it is not recommended as it will not generate enough hashing power to mine profitably and laptops do not dissipate heat as well as dedicated mining rigs, FPGA’s or ASIC’s. Therefore, you stand more to lose by burning out your Macbook than you do by mining any coins. Hope that helps!
+
+<p>While it may be possible, it is not recommended as it will not generate enough hashing power to mine profitably and laptops do not dissipate heat as well as dedicated mining rigs, FPGA’s or ASIC’s. Therefore, you stand more to lose by burning out your Macbook than you do by mining any coins. Hope that helps!<p>

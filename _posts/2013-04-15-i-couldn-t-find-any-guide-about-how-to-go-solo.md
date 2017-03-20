@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-I do not recommend solo mining anymore, although it is still possible. Your best and most profitable course of action would be to join a pool at this time.
+
+<p>I do not recommend solo mining anymore, although it is still possible. Your best and most profitable course of action would be to join a pool at this time.<p>
