@@ -1,11 +1,12 @@
 ---
-layout: post
 title: Bitcoin Mining for the Newly Initiated
-date: '2015-11-03T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- asic miner
+seotitle: The Bitcoin Mining for the Newly Initiated
+description: Bitcoin Mining for the Newly Initiated
+excerpt: Bitcoins have been taking the internet by storm for the past several years now
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Bitcoins have been taking the internet by storm for the past several years now, but what exactly are bitcoins?Bitcoin is a digital currency, which is widely used across the world as a stable alternative to various forms of legal tender. One of the major benefits of a digital currency is its ability to circumvent the need for a central bank.This makes bitcoins secure and attractive as a currency since the “printing” of the new currency isn’t regulated by any outside agents. <p>
