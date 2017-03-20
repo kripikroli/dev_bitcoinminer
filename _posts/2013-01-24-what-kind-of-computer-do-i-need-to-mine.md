@@ -8,4 +8,5 @@ alt: computer use for mining
 featured: 
 layout: post
 ---
-With the new generation miners you only need a simple computer or laptop.  Most mining hardware will work with a USB or ethernet connection and some are wifi enabled.  Don’t spend too much on the computer.  Spend your $ on the mining hardware.
+
+<p>With the new generation miners you only need a simple computer or laptop.  Most mining hardware will work with a USB or ethernet connection and some are wifi enabled.  Don’t spend too much on the computer.  Spend your $ on the mining hardware.<p>
