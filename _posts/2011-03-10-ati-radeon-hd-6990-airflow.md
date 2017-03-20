@@ -8,5 +8,6 @@ alt: ati radeon hd 6990
 featured: 
 layout: post
 ---
-Building a mining box with the ATI Radeon HD 6990
-Previous Posts
+
+<p>Building a mining box with the ATI Radeon HD 6990</p>
+
