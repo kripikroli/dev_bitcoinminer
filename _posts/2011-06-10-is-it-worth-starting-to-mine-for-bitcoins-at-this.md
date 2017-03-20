@@ -8,10 +8,15 @@ alt: mine for bitcoins
 featured: 
 layout: post
 ---
-Mining profitability is among the best it has ever been.
-http://bitcoin.atspace.com/income.html
-The problem is mining uses off the shelf hardware that has literally been taken off the shelf!  In other words, Bitcoin miners have snapped up nearly all the suitable hardware.  Globally.
-Here’s an example:
-  http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&Description=6990
+
+<h2>Mining profitability is among the best it has ever been.</h2>
+
+<p>http://bitcoin.atspace.com/income.html<p>
+
+<p>The problem is mining uses off the shelf hardware that has literally been taken off the shelf!  In other words, Bitcoin miners have snapped up nearly all the suitable hardware.  Globally.<p>
+
+<h2>Here’s an example:</h2>
+
+<p>http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&Description=6990<p>
 
  

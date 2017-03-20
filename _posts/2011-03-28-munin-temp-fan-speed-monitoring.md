@@ -8,4 +8,5 @@ alt: munin temp fan
 featured: 
 layout: post
 ---
-Scripts for monitoring GPU temps and fan speeds with MuninManual scripts (versus a plugin)
+
+<p>Scripts for monitoring GPU temps and fan speeds with MuninManual scripts (versus a plugin)</p>

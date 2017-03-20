@@ -8,5 +8,7 @@ alt: selling complete rig
 featured: 
 layout: post
 ---
-There are two companies that sell rigs.  Bitcoin Miner has never had any contact with either.  GPUs are in very tight supply, so if you do wish to order, know that the delivery date may be far in the future and that by that time the difficulty level could be much higher than it is now.
-Previous Posts
+
+<p>There are two companies that sell rigs.  Bitcoin Miner has never had any contact with either.  GPUs are in very tight supply, so if you do wish to order, know that the delivery date may be far in the future and that by that time the difficulty level could be much higher than it is now.
+
+<p>

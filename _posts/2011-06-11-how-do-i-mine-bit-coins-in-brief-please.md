@@ -8,5 +8,7 @@ alt: mining bitcoins,
 featured: 
 layout: post
 ---
-In brief?
-You run specialized miner software on specialized miner hardware.
+
+<p>In brief?<p>
+
+<p>You run specialized miner software on specialized miner hardware.<p>

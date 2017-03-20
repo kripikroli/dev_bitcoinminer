@@ -8,6 +8,8 @@ alt: frankenrig mining
 featured: 
 layout: post
 ---
-FrankenRig - Mining With 60 Graphic Cards
-Economies of scale will bring benefits to those mining and this video of a custom rack of rigs holding a total of 60 graphics cards helps to illustrate how serious amounts of investment being put into mining.
-Previous Posts
+
+<h2>FrankenRig - Mining With 60 Graphic Cards</h2>
+
+<p>Economies of scale will bring benefits to those mining and this video of a custom rack of rigs holding a total of 60 graphics cards helps to illustrate how serious amounts of investment being put into mining.<p>
+

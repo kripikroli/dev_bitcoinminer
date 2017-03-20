@@ -8,7 +8,10 @@ alt: cpuminer v0.7.2 released
 featured: 
 layout: post
 ---
-In this update from jgarzik is the sse2 implementation from ufasoft for faster mining on Intel.  Long polling is not yet supported but JSON-RPC improvements were made in preparation for that feature.
-Announcement
-Downloads
-Previous Posts
+
+<p>In this update from jgarzik is the sse2 implementation from ufasoft for faster mining on Intel.  Long polling is not yet supported but JSON-RPC improvements were made in preparation for that feature.</p>
+
+<p>Announcement</p>
+
+<p>Downloads</p>
+

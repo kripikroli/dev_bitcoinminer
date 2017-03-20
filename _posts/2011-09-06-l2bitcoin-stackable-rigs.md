@@ -8,6 +8,8 @@ alt: l2bitcoin stackable rigs
 featured: 
 layout: post
 ---
-L2Bitcoin: Tutorial - How to Stack Custom Rigs
-This latest video from L2Bitcoin provides a guide on creating a stackable mining rig.
-Previous Posts
+
+<h2>L2Bitcoin: Tutorial - How to Stack Custom Rigs</h2>
+
+<p>This latest video from L2Bitcoin provides a guide on creating a stackable mining rig.<p>
+

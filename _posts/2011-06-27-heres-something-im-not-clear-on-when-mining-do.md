@@ -8,6 +8,9 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-Bitcoins are only issues when a block is solved.  Doing so earns the solver 50 BTC.  The difficulty is so high now that it takes about 14 ATI 5970s mining solo to solve just one block over the course of one week.  
-That is why you want to join forces with others in a mining pool.
-Previous Posts
+
+<p>Bitcoins are only issues when a block is solved.  Doing so earns the solver 50 BTC.  The difficulty is so high now that it takes about 14 ATI 5970s mining solo to solve just one block over the course of one week.  <p>
+
+<p>That is why you want to join forces with others in a mining pool.<p>
+
+

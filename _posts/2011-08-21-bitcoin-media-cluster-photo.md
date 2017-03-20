@@ -8,6 +8,8 @@ alt: bitcoin media
 featured: 
 layout: post
 ---
-Bitcoin Media - #bitcoin cluster bomb
-Seen on the Bitcoin Media blog was this photo.  The configuration of the rigs was no revealed.
-Previous Posts
+
+<h2>Bitcoin Media - #bitcoin cluster bomb</h2>
+
+<p>Seen on the Bitcoin Media blog was this photo.  The configuration of the rigs was no revealed.<p>
+

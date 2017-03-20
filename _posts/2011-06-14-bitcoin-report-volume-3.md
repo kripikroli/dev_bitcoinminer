@@ -8,5 +8,6 @@ alt: bitcoin report vol 3
 featured: 
 layout: post
 ---
-A video title Bitcoin Report Volume 3 describes mining using the GUI Miner on Windows using a pool.
-Previous Posts
+
+<p>A video title Bitcoin Report Volume 3 describes mining using the GUI Miner on Windows using a pool.<p>
+

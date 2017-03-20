@@ -8,4 +8,5 @@ alt: building rig
 featured: 
 layout: post
 ---
+
 http://en.bitcoin.it/wiki/Mining_rig

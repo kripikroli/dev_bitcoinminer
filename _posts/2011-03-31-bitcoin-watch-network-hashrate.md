@@ -8,7 +8,10 @@ alt: bitcoin watch network hashrat
 featured: 
 layout: post
 ---
-Bitcoin Watch now includes network mining hashrates.
-The chart updates every sixty seconds and the graph reflects the hashrate over last seven days.
-Also added is a chart titled Hashrate Distribution which shows differing pool slices of the entire mining pie.
-Previous Posts
+
+<p>Bitcoin Watch now includes network mining hashrates.</p>
+
+<p>The chart updates every sixty seconds and the graph reflects the hashrate over last seven days.</p>
+
+<p>Also added is a chart titled Hashrate Distribution which shows differing pool slices of the entire mining pie.</p>
+

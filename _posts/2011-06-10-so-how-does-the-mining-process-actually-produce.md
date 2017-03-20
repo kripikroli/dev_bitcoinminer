@@ -8,5 +8,7 @@ alt: produce bitcoins
 featured: 
 layout: post
 ---
-Mining is what allows bitcoin to operate without a central authority.  The output of mining is a blockchain that is used to determine that coins have not already been spent.
-Compensation to the miners for doing this work occurs in the form of currency issued.  Each day about 7,200 BTC is issued to miners (50 BTC per block, a block about once every 10 minutes).
+
+<p>Mining is what allows bitcoin to operate without a central authority.  The output of mining is a blockchain that is used to determine that coins have not already been spent.<p>
+
+<p>Compensation to the miners for doing this work occurs in the form of currency issued.  Each day about 7,200 BTC is issued to miners (50 BTC per block, a block about once every 10 minutes).<p>

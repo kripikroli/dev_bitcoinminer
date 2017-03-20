@@ -8,7 +8,11 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-BitCoins Mining is for Idiots, yeah I said it IDIOTS
-Submitted without comment.
-[Ok, one comment. Wow. - Editor]
-Previous Posts
+
+<p>BitCoins Mining is for Idiots, yeah I said it IDIOTS<p>
+
+<p>Submitted without comment.<p>
+
+<p>[Ok, one comment. Wow. - Editor]<p>
+
+

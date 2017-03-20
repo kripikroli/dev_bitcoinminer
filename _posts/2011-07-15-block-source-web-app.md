@@ -8,5 +8,6 @@ alt: block pool mine
 featured: 
 layout: post
 ---
-Which pool mined that block?Though most pools will show which blocks they’ve mined, there’s now a comprehensive list showing which pools solved which blocks.
-Previous Posts
+
+<p>Which pool mined that block?Though most pools will show which blocks they’ve mined, there’s now a comprehensive list showing which pools solved which blocks.<p>
+

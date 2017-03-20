@@ -8,5 +8,6 @@ alt: bitcoin mining guid
 featured: 
 layout: post
 ---
-Windows or Linux?
-Previous Posts
+
+<p>Windows or Linux?<p>
+

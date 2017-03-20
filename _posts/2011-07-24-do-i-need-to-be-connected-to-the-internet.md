@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-Yes, mining requires a continuous connection.
+
+<p>Yes, mining requires a continuous connection.<p>

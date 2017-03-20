@@ -8,9 +8,10 @@ alt: rack mounted mining
 featured: 
 layout: post
 ---
-“rack mounted” in the BitCoin mining world
 
-When someone says their machines are “rack mounted” in the BitCoin mining world, it turns out this is what they mean
+<p>“rack mounted” in the BitCoin mining world<p>
 
-Photo from: Hodapp.
-Previous Posts
+<p>When someone says their machines are “rack mounted” in the BitCoin mining world, it turns out this is what they mean<p>
+
+<p>Photo from: Hodapp.<p>
+

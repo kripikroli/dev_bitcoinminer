@@ -8,5 +8,6 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-The bitcoins you earn when mining can then be transferred to an exchange where you can trade for USDs or other currency, or there are cashout services such as prepaid debit cards.  See the Selling Bitcoins article on the Bitcoin wiki for more.
-Previous Posts
+
+<p>The bitcoins you earn when mining can then be transferred to an exchange where you can trade for USDs or other currency, or there are cashout services such as prepaid debit cards.  See the Selling Bitcoins article on the Bitcoin wiki for more.<p>
+

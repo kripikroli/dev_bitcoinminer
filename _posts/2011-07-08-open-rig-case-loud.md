@@ -8,6 +8,9 @@ alt: rig case loud
 featured: 
 layout: post
 ---
-More custom cases, open and loud
-But that’s how to mine like a boss!
-Previous Posts
+
+<p>More custom cases, open and loud<p>
+
+<p>But that’s how to mine like a boss!<p>
+
+

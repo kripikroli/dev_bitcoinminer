@@ -8,6 +8,8 @@ alt: rack rivets aluminum
 featured: 
 layout: post
 ---
-racks built with rivets and alum channel
-A visitor submitted a post to share this photo.
-Previous Posts
+
+<p>racks built with rivets and alum channel<p>
+
+<p>A visitor submitted a post to share this photo.<p>
+

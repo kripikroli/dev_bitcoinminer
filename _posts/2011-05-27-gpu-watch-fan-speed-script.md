@@ -8,5 +8,7 @@ alt: gpu watch fan
 featured: 
 layout: post
 ---
-gpu-watch: dynamic GPU temperature monitoring and fan controlXF2.org created gpu-watch.py which is a script that will monitor all GPUs in a machine (by default, two), and control fan speed accordingly.
-Previous Posts
+
+<p>gpu-watch: dynamic GPU temperature monitoring and fan controlXF2.org created gpu-watch.py which is a script that will monitor all GPUs in a machine (by default, two), and control fan speed accordingly.<p>
+
+

@@ -8,6 +8,6 @@ alt: bitcoin channel mining
 featured: 
 layout: post
 ---
-Bitcoin Channel - Mining
-John, who posts videos under the YouTube account BitcoinChannel, today gives his summary of the process of getting up an running mining.
-Previous Posts
+<h2>Bitcoin Channel - Mining</h2>
+<p>John, who posts videos under the YouTube account BitcoinChannel, today gives his summary of the process of getting up an running mining.
+<p>
