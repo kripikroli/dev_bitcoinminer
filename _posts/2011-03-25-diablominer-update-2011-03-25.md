@@ -8,10 +8,8 @@ alt: miner update diablominer
 featured: 
 layout: post
 ---
-Miner update - DiabloMiner - 2011-03-25A new build of DiabloMiner is avaialbe.
 
-Update: Merged jwadamson’s patch that gets rid of the OSX dock icon.
-Announcement
-Project repository
-Download
-Previous Posts
+<p>Miner update - DiabloMiner - 2011-03-25A new build of DiabloMiner is avaialbe.</p>
+
+<p>Update: Merged jwadamson’s patch that gets rid of the OSX dock icon.</p>
+
