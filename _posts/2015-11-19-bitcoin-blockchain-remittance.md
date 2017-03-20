@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Bitcoin, Blockchain and Remittances
-date: '2015-11-19T14:03:37+08:00'
-tags:
-- bitcoin
-- blockchain
-- remittance
-- money
+seotitle: The Bitcoin, Blockchain and Remittances
+description: Bitcoin, Blockchain and Remittances
+excerpt: Should You Use Bitcoin and Blockchain Technologies for Remittances
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Should You Use Bitcoin and Blockchain Technologies for Remittances?Bitcoin has for a while been seen as the future of currency. As a totally digitised form of money, it seems like the next logical step in the evolution of finance. <p>
