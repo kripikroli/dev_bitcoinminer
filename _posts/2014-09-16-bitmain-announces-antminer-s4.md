@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Bitmain announces Antminer S4
-date: '2014-09-16T17:06:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/97675446504/bitmain-announces-antminer-s4
+seotitle: The Bitmain announces Antminer S4
+description: Bitmain announces Antminer S4
+excerpt: Mining hardware maker Bitmain released a teaser image today
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
-
 
 <h2>Antminer S4 promotional image.</h2>
 
