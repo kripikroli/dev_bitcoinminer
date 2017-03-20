@@ -1,14 +1,12 @@
 ---
-layout: post
 title: What is a Bitcoin Mining Farm?
-date: '2015-09-30T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- bitcoin mine
-- bitcoin mining farm
-- cloud mining
-tumblr_url: http://bitcoinminer.com/post/147354518169/what-is-a-bitcoin-mining-farm
+seotitle: Bitcoin Mining Farm
+description: What is a Bitcoin Mining Farm?
+excerpt: Bitcoin mining farm is a computer data center that is focused on mining Bitcoins.
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>A Bitcoin mining farm is a computer data center that is focused on mining Bitcoins.Take the traditional way of obtaining goods. This usually involves exchanging paper money with the seller in return for the desired item or service. Bitcoins are relatively new to most people. They have no central control through any government institution like common currency does. <p>
