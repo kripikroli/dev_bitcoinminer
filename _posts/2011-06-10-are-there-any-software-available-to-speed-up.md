@@ -8,4 +8,5 @@ alt: speed up bitcoin mining
 featured: 
 layout: post
 ---
-Some GPU miners can eke out a little more than other GPU miners, but the differences are relatively small.  The main way to mine faster is to be using more capable hardware.
+
+<p>Some GPU miners can eke out a little more than other GPU miners, but the differences are relatively small.  The main way to mine faster is to be using more capable hardware.<p>
