@@ -8,13 +8,13 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-Coinabul Blog: Interview with Khalahan - Namecoin''s Lead Developerbitcoin:
 
-coinabul:
+<h2>Coinabul Blog: Interview with Khalahan - Namecoin''s Lead Developerbitcoin:</h2>
 
-This week I decided to interview Khalahan Henkh: The Lead Developer of the Namecoin project. Namecoin is Bitcoin’s little brother. It’s a decentralized peer to peer currency and name database system. It basically allows you to register .bit domain names, Khalahan also describes some more features…
+<p>coinabul:<p>
 
-Read the rest of the article on Coinabul’s blog.
-Namecoin uses Bitcoin technology but is a separate currency with a specific purpose — to store key/value pairs in a blockchain.  the Dot-Bit project uses namecoin for its primary intended purpose, a P2P domain name service (DNS).
+<p>This week I decided to interview Khalahan Henkh: The Lead Developer of the Namecoin project. Namecoin is Bitcoin’s little brother. It’s a decentralized peer to peer currency and name database system. It basically allows you to register .bit domain names, Khalahan also describes some more features…<p>
 
-Previous Post - Twitter: @BitcoinMiner
+<p>Read the rest of the article on Coinabul’s blog.<p>
+<p>Namecoin uses Bitcoin technology but is a separate currency with a specific purpose — to store key/value pairs in a blockchain.  the Dot-Bit project uses namecoin for its primary intended purpose, a P2P domain name service (DNS).<p>
+
