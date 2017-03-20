@@ -8,4 +8,5 @@ alt: bfl 4.5 ghash
 featured: 
 layout: post
 ---
-Something to keep your eyes on is the cost of BTC.  It’s rising steadily right now and if it keeps going up, mining will be profitable.
+
+<p>Something to keep your eyes on is the cost of BTC.  It’s rising steadily right now and if it keeps going up, mining will be profitable.<p>
