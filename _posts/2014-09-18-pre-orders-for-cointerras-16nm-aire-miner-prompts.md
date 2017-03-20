@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Pre-orders for CoinTerra's 16nm AIRE Miner prompts controvery
-date: '2014-09-18T21:04:00+08:00'
-tags: []
-tumblr_url: http://bitcoinminer.com/post/97851788424/pre-orders-for-cointerras-16nm-aire-miner-prompts
+seotitle: AIRE Miner prompts controvery
+description: Pre-orders for CoinTerra's 16nm AIRE Miner prompts controvery
+excerpt: Pre-orders for CoinTerra's 16nm 
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Digital rendering of the still-on-the-drawing-board CoinTerra AIRE Miner.<p>
