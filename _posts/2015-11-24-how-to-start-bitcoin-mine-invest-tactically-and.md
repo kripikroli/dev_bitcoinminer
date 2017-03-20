@@ -1,11 +1,12 @@
 ---
+title: How to Start Bitcoin Mine
+seotitle: Invest Tactically and Earn Generously
+description: How to Start Bitcoin Mine
+excerpt: How to Start Bitcoin Mine – Invest Tactically and Earn Generously
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
 layout: post
-title: How to Start Bitcoin Mine – Invest Tactically and Earn Generously
-date: '2015-11-24T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- cloud mining
 ---
 
 <p>It is common knowledge that money makes the world go around. Love it or hate it our society simply revolves around it. In the conventional or traditional world that we all live in, whether we like it or not, whenever governments need more money, they borrow. <p>
