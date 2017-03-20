@@ -9,5 +9,5 @@ featured:
 layout: post
 ---
 
-At current levels, 1.77 BTC per day, worth about $42.53.
-Very profitable.
+<p>At current levels, 1.77 BTC per day, worth about $42.53.
+Very profitable.<p>
