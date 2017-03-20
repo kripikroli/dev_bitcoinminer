@@ -8,5 +8,6 @@ alt: how to mine bitcoin
 featured: 
 layout: post
 ---
-You will need bitcoin mining hardware.  We recommend:  www.butterflylabs.com
-Thanks
+
+<p>You will need bitcoin mining hardware.  We recommend:  www.butterflylabs.com<p>
+<p>Thanks<p>
