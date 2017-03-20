@@ -1,12 +1,12 @@
 ---
-layout: post
 title: How To Avoid Bitcoin Cloud Mining Scams
-date: '2015-12-01T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
-- cloud mining
-- bitcoin cloud mining
+seotitle: Avoid Bitcoin Cloud Mining Scams
+description: How To Avoid Bitcoin Cloud Mining Scams
+excerpt: Bitcoin investment has grown day by day
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>Bitcoin investment has grown day by day, with cloud mining rising as the new and most efficient strategy to making sound profits. However, for you to invest in this area, you are required to be dependent on bitcoin cloud mining companies, but rarely will you land in the hands of legit ones. <p>
