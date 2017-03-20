@@ -8,6 +8,8 @@ alt: parallel processing
 featured: 
 layout: post
 ---
-Parallel Processing Explained by Adam and Jamie from MythBusters
-This video provides in visual clarity the difference between how a CPU performs in relation to how a GPU performs.
-Previous Post
+
+<h3>Parallel Processing Explained by Adam and Jamie from MythBusters</h3>
+
+<p>This video provides in visual clarity the difference between how a CPU performs in relation to how a GPU performs.<p>
+
