@@ -8,6 +8,8 @@ alt: confidence evidence
 featured: 
 layout: post
 ---
-Evidence Of Confidence Restored
-Just weeks after many miners were liquidating their GPU-laden rigs the rise in the exchange rates have given other miners the motivation to add capacity.  This photo was found in a post in the Mining Hardware forum on BitcoinTalk.org.
-Previous Posts
+
+<h2>Evidence Of Confidence Restored</h2>
+
+<p>Just weeks after many miners were liquidating their GPU-laden rigs the rise in the exchange rates have given other miners the motivation to add capacity.  This photo was found in a post in the Mining Hardware forum on BitcoinTalk.org.<p>
+
