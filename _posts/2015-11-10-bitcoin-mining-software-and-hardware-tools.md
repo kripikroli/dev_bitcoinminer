@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Bitcoin Mining Software and Hardware Tools
-date: '2015-11-10T00:00:00+08:00'
-tags:
-- bitcoin
-- bitcoin mining
+seotitle: Software and Hardware Tools
+description: Bitcoin Mining Software and Hardware Tools
+excerpt: Bitcoin mining tools
+keywords: bitcoin mining, bitcoin miner
+alt: bitcoin mining
+featured: 
+layout: post
 ---
 
 <p>There aren’t many individuals who are familiar with the term Bitcoin mining tools. The definition of bitcoin mining tools is that it is a way for Bitcoin miners to pool all of their resources together and to share their hashing power and then they split their rewards equally. This is according to a number of shares that they have contributed by sharing a block.<p>
