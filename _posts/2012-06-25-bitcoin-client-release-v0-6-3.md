@@ -8,11 +8,13 @@ alt: bitcoin client release
 featured: 
 layout: post
 ---
-Bitcoin version 0.6.3 releasedbitcoin:
 
-A new version of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org, v0.6.3, includes a fix for a serious denial-of-service vulnerability and a performance enhancement for new installations.
-http://bitcoin.org/releases/2012/06/25/v0.6.3.html (presumed, pending)
-http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.3
-http://bitcointalk.org/index.php?topic=89877.0
+<h2>Bitcoin version 0.6.3 releasedbitcoin:</h2>
 
-Previous Posts - Twitter: @BitcoinMiner
+<p>A new version of the Bitcoin-Qt and Bitcoind clients from Bitcoin.org, v0.6.3, includes a fix for a serious denial-of-service vulnerability and a performance enhancement for new installations.<p>
+
+<p>http://bitcoin.org/releases/2012/06/25/v0.6.3.html (presumed, pending)<p>
+<p>http://sourceforge.net/projects/bitcoin/files/Bitcoin/bitcoin-0.6.3<p>
+<p>http://bitcointalk.org/index.php?topic=89877.0
+<p>
+
