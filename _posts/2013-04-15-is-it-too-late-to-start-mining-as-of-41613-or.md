@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-I definitely do not think that is too late, but you must be smart about your initial investment and how long you expect to recoup that money before you start making a profit. Here is a good calculator that I recommend: http://www.bitcoinx.com/profit/.
+
+<p>I definitely do not think that is too late, but you must be smart about your initial investment and how long you expect to recoup that money before you start making a profit. Here is a good calculator that I recommend: http://www.bitcoinx.com/profit/.<p>
