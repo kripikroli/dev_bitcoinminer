@@ -8,6 +8,7 @@ alt: pooled mining article
 featured: 
 layout: post
 ---
-Why Pooled Mining article added to Bitcoin WikiWhy Pooled Mining is an analysis of the costs/benefits of pooled mining.
+
+<p>Why Pooled Mining article added to Bitcoin WikiWhy Pooled Mining is an analysis of the costs/benefits of pooled mining.
 tl;dr summary: Unless you are generating frequently use a pool, especially since difficulty isn’t stable.
-Previous Posts
+</p>
