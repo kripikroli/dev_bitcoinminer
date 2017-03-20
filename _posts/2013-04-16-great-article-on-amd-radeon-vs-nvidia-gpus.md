@@ -8,4 +8,5 @@ alt: bitcoin mining
 featured: 
 layout: post
 ---
-http://www.extremetech.com/computing/153467-amd-destroys-nvidia-bitcoin-mining
+
+<p>http://www.extremetech.com/computing/153467-amd-destroys-nvidia-bitcoin-mining<p>
