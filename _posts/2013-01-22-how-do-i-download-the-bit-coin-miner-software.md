@@ -8,4 +8,5 @@ alt: bitcoin miner software
 featured: 
 layout: post
 ---
+
 This site has a great list of bitcoin mining software options: Bitcoin Mining Software
