@@ -2,7 +2,16 @@
 layout: post
 title: What Is Bitcoin Miner?
 description: What Is Bitcoin Miner? A computer that performs proof of work.
+toc:
+  know: Know About Bitcoin
+  operates: How Bitcoin Mining Operates
+  miners: How Miners Got Bitcoins
+  buy: Buy and Sell Bitcoins
+  asic: ASIC
+  atm: Bitcoin ATM
 ---
+
+<h2 id="know">Know About Bitcoin</h2>
 
 <p>Satoshi Nakamoto was the <a href="/bitcoin-predictions-from-reserve-bank-of-india">creator of Bitcoin</a>. Bitcoin is a kind of cryptocurrency that is stored and created eletronically. There is no group or institution controls Bitcoin that is why it is a decentralized currency. </p>
 
@@ -20,7 +29,7 @@ description: What Is Bitcoin Miner? A computer that performs proof of work.
 
 <p>A private key and a <a href="/beijing-threatens-shut-down-bitcoin-exchanges">Bitcoin address</a> were primary needed in order for you to send Bitcoins. Hence, Bitcoin address is randomly generated and it is compose of letters and numbers. On the other hand, you will be keeping the private key because it is different from Bitcoin address in purpose. Private keys are also compose of numbers and letters.</p>
 
-<h2>How Bitcoin Mining Operates</h2>
+<h2 id="operates">How Bitcoin Mining Operates</h2>
 
 <p>All the time nowadays, huge number of people were sending Bitcoins all over the internet. There is a difficulty on tracking the transactions like who were sending to whom, in order to comply that, Bitcoin's transaction records on a certain period of time will be listed in a block.</p>
 
@@ -36,7 +45,7 @@ description: What Is Bitcoin Miner? A computer that performs proof of work.
 
 <p>That something that we are talking about is called hash and it is compose of letters and numbers. During that period of time, that hash is put together with the block on the tip of the blockchain.</p>
 
-<h2>How Miners Got Bitcoins</h2>
+<h2 id="miners">How Miners Got Bitcoins</h2>
 
 <p>There is a competition between other miners on creating <a href="/bitcoinminer/blob/gh-pages/_posts/2017-02-14-irb-warns-against-bitcoin-breaks-usd-1000">Hash using code</a> which I particular written thru mine blocks. Every time there is a successful Hash created by someone, 25 BTC were given as reward and it will update the blockchain as well. That reward are incentives for processing the transaction.</p>
 
@@ -46,15 +55,15 @@ description: What Is Bitcoin Miner? A computer that performs proof of work.
 
 <p>It can take many endeavors to discover a nonce that works, and every one of the diggers in the system are attempting to do it in the meantime. That is the way excavators win their bitcoins.</p>
 
-<h2>Buy and Sell Bitcoins</h2>
+<h2 id="buy">Buy and Sell Bitcoins</h2>
 
 <p>Bitcoin can be purchase or sell easily nowadays. It has been all over the world and it is being used by fast growing number of merchants worldwide. You can store Bitcoins by using Bitcoin wallets.</p>
 
-<h2>ASIC</h2>
+<h2 id="asic">ASIC</h2>
 
 <p>ASIC or Application Specific Integrated Circuit is device to process SHA-256 problems of <a href="/what-is-bitcoin-mining-and-how-to-be-a-bitcoin-miner">hashing in mining new Bitcoins</a>. It is a silicon chip for just mining Bitcoins only.</p>
 
-<h2>Bitcoin ATM</h2>
+<h2 id="atm">Bitcoin ATM</h2>
 
 <p>Bitcoin ATM were located on any part of the continent and it is a physical machine aiming to provide services for Bitcoin users to purchase Bitcoins using cash.</p>
 
