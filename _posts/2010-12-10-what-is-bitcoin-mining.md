@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Bitcoin Mining?
-description: What is Bitcoin mining? Math problems are solved to provide proof of work which helps in verifying and securing the Bitcoin network.
+description: What is Bitcoin mining?
 toc:
   network: Network Security
   reward: Block Reward
