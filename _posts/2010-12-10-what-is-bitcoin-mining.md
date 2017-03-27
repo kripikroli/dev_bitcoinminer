@@ -72,11 +72,11 @@ toc:
 
 <h2 id="pools">Mining Pools </h2>
 
-<p>Mining prizes are paid to the excavator who finds an answer for the astound to begin with, and the likelihood that a member will be the one to find the arrangement is equivalent to the bit of the aggregate mining power on the system. Members with a little rate of the mining power stand a little possibility of finding the following square all alone. </p>
+<p>Mining reward are paid to the miner who finds an answer for the astound to begin with, and the likelihood that a member will be the one to find the arrangement is equivalent to the bit of the aggregate mining power on the system. Members with a little rate of the mining power stand a little possibility of finding the following square all alone. </p>
 
 <p>For example, a mining card that one could buy for several thousand dollars would speak to under 0.001% of the system's mining power. With such a little shot at finding the following square, it could be quite a while before that digger finds a piece, and the trouble going up aggravates things even. The digger may never recover their venture. </p>
 
-<p>The response to this issue is mining pools. Mining pools are worked by outsiders and facilitate gatherings of excavators. By cooperating in a pool and sharing the payouts among members, excavators can get an enduring stream of bitcoin beginning the day they enact their digger. Measurements on a portion of the mining pools can be seen on Blockchain.info.</p>
+<p>The response to this issue is mining pools. Mining pools are worked by outsiders and facilitate gatherings of miners. By cooperating in a pool and sharing the payouts among members, excavators can get an enduring stream of bitcoin beginning the day they enact their digger. Measurements on a portion of the mining pools can be seen on Blockchain.info.</p>
 
 <h2 id="electricity">Electricity Cost</h2>
 
