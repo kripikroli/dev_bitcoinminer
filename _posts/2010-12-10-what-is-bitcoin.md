@@ -1,7 +1,10 @@
 ---
 layout: post
-title: What Is Bitcoin
-description: What Is Bitcoin
+seotitle: Article For What is Bitcoin?
+title: What is Bitcoin?
+description: What is Bitcoin?
+excerpt: What Is Bitcoin Article
+keywords: start mining bitcoin, start bitcoin mining
 ---
 
 <p>A type of digital currency, <a href="/miner-fees-added-to-bitpay-invoices/">Bitcoin is electronically held</a> and created. Nobody controls it. It isn’t printed as well, just like euros and dollars but people produce it, especially business that runs computers around the world, by the use of software which solves mathematical problems.</p>
