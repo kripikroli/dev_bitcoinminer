@@ -1,9 +1,11 @@
 ---
 layout: post
+seotitle: SP20 Jackson Bitcoin Miner Review
 title: SP20 Jackson Bitcoin Miner
 description: Learn about the SP20 Jackson Bitcoin Miner.
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
+keywords: SP20 Jackson, Spondoolies SP20
 published: true
 ---
 
