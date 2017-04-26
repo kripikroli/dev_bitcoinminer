@@ -2,6 +2,7 @@
 layout: post
 title: What Is Bitcoin Miner?
 description: What Is Bitcoin Miner? A computer that performs proof of work.
+seotitle: Article For What Is Bitcoin Miner
 toc:
   know: Know About Bitcoin
   operates: How Bitcoin Mining Operates
