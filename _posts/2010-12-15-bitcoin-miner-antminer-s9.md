@@ -1,9 +1,11 @@
 ---
 layout: post
+seotitle: Antminer S9 Bitcoin Miner Review
 title: Antminer S9 Bitcoin Miner
 description: Learn about the Antminer S9 Bitcoin Miner.
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
+keywords: Antminer S9, Antminer S9 Review
 published: true
 ---
 <p><center><img src="/images/bmr-s9.jpg" alt="Antminer S9 Bitcoin Miner"/></center></p>
