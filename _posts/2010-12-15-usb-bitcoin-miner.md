@@ -2,6 +2,7 @@
 layout: post
 title: USB Bitcoin Miner
 description: USB Bitcoin Miner Page
+seotitle: USB Bitcoin Miner Article
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
