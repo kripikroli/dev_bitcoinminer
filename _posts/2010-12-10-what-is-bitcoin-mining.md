@@ -2,6 +2,8 @@
 layout: post
 title: What is Bitcoin Mining?
 description: What is Bitcoin mining?
+keywords: start mining bitcoin, start bitcoin mining
+seotitle: Article for What is Bitcoin Mining
 toc:
   network: Network Security
   reward: Block Reward

@@ -1,7 +1,10 @@
 ---
 layout: post
+seotitle: Steps How To Mine Bitcoins
 title: How To Mine Bitcoins?
 description: How To Mine Bitcoins?
+excerpt: Learning the Bitcoin mining
+keywords: start mining bitcoin, start bitcoin mining
 ---
 
 <p>I have encountered certain difficulties in <a href="/what-is-bitcoin/">learning the Bitcoin mining</a> for investment and profitability and one of the major issues I had was having problems with regards to learning through websites written and understandable for advanced users only. </p>
