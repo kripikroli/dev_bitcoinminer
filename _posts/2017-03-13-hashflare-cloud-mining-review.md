@@ -20,8 +20,6 @@ toc:
 
 <p>HashFlare used a non-stock version of Apollo miner for their Bitcoin mining with SHA-256. HashFlare uses their Ares miner for mining with Scrypt. </p>
 
-{% include page-toc.html %}
-
 <p>All hardware has been provided by the parent company with data center of 2 Megawatt. Sergei Potapenko was the founder of HashCoins and it was located in Talin, Estonia on the year 2013.</p>
 
 <p>Looking at the data information, HashFlare is on top with 10K customers as of June 30, 2015 and counting who uses their cloud mining services that generates hash rate of over 1 PH/S.</p>
