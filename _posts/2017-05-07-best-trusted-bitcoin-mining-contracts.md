@@ -25,7 +25,7 @@ published: true
 
 <h2>HashFlare </h2>
 
-<p><a href="http://geni.us/hashflare">Hashflare is a prominent site that offers SHA-256 and scrypt-based cloud mining contracts at reasonable costs. It offers to purchase different cloud mining contracts identified with bitcoin, Litecoin and Ether yet according to the site's strategy, the clients must buy no less than 10 GH/s of hash power. </p>
+<p><a href="http://geni.us/hashflare">Hashflare</a> is a prominent site that offers SHA-256 and scrypt-based cloud mining contracts at reasonable costs. It offers to purchase different cloud mining contracts identified with bitcoin, Litecoin and Ether yet according to the site's strategy, the clients must buy no less than 10 GH/s of hash power. </p>
 
 <h2>HashNest </h2>
 
