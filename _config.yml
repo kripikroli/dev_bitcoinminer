@@ -4,6 +4,8 @@ paginate: 10
 baseurl: ''
 permalink: /:categories/:title/
 
+markdown: kramdown
+
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
