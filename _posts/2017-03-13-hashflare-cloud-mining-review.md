@@ -14,6 +14,8 @@ toc:
   conclusion: Conclusion
 ---
 
+{% include page-toc.html %}
+
 <h2 id="history">HashFlare History</h2>
 
 <p>HashCoins who offered hosting for <a href="/bitcoin-predictions-from-reserve-bank-of-india">mining contracts</a> on last quarter of 2015 had officially launched also their <a href="http://geni.us/hashflare">cloud mining service called HashFlare last 23rd of April 2015</a>. They offered both altcoins and Bitcoin cloud mining services. </p>
