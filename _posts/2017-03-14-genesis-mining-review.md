@@ -13,6 +13,8 @@ toc:
   providers: Cloud Mining Providers
 ---
 
+{% include page-toc.html %}
+
 <p><a href="/http://geni.us/genesismining">Genesis Mining begun around 2013</a>, and at present it possesses mining farms across the continents of Asia, America and Europe. The specific whereabouts of these farms are privately hidden for safety and security purposes.</p>
  
 <p>Genesis Mining is:</p>
