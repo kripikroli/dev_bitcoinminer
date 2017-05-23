@@ -48,4 +48,5 @@ Having said that, utilizing cash and paying as you go, may have noticeable and u
 </ul>
 Living in this <a href="/eft-drive-drives-bitcoin-for-quick-rebound/">materialistic world</a> enables people to forget easily that the true definition of wealth is more than just accumulation. A personal being’s intangible wealth and peace of mind are invaluable up until they are not well valued and overlooked. Rather than the utopian dream, think of this: 
 
+
 People will no longer buy things that are not necessary, don’t have to impress a lot of people who don’t really care about them. If more people prefer the using cash habitually, it could strengthen one’s skills of money-management towards accumulating true wealth as well as transmit messages to those people who own gold. 
