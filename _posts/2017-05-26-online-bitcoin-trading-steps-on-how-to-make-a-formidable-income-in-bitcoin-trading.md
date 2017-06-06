@@ -4,7 +4,7 @@ title: Online Bitcoin Trading - Steps on How to Make a Formidable Income in Bitc
 description: Online Bitcoin Trading - Steps on How to Make a Formidable Income in Bitcoin Trading
 ---
 
-<p><center><img src="/images/Bitcoin-blockchain.jpg" alt="Online Bitcoin Trading"/></center></p>
+<p><center><img src="/images/bitcoin-blockchain.jpg" alt="Online Bitcoin Trading"/></center></p>
 
 ## Step 1 – What is Bitcoin and Blockchain?
 
