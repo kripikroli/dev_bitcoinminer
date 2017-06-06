@@ -12,7 +12,7 @@ published: true
 
 <p>Getting into the world of bitcoin is exciting, but can also be a little confusing. Read on to learn about bitcoin and how to get started as a <a href="/gold-bullion-buying-with-bitcoin/">USB bitcoin miner</a>.
 
-Keyword(s): usb bitcoin miner
+<h4>Keyword(s): usb bitcoin miner</h4>
 
 <p>Do you think you have what it takes to become a bitcoin miner? Are you looking at buying a USB Bitcoin Miner?
 
